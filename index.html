@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE-Edge">
+		<title>Bíblia Sagrada - Almeida e Atualizada</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="icon" type="image/icon" href="img/icon.ico" />
+	</head>
+	<body>
+		<div id="topbar">
+			<h2>Bíblia sagrada - Almeida e Atualizada</h2>
+			<img class="search" src="img/search_ico.png" onClick="openSearch()"/>aa
+		</div>
+		<div id="popup-search">
+			<img class="close" src="img/close.png" onClick="closeSearch()"/>
+			<div class="psearch">
+				<input class="inpt"></input>
+				<img class="close" src="img/search_ico.png" />
+			</div>
+		</div>
+
+		<div id="ready">
+			
+		</div>
+		<script>
+			function openSearch() {
+				document.getElementById("popup-search").style.display = "flex"
+			}
+			function closeSearch() {
+				document.getElementById("popup-search").style.display = "none";
+			}
+			let divLivros = document.querySelector("#ready")
+
+			fetch("https://tk0082.github.io/bible/json/content.json").then((response) => {
+				response.json().then((dados) => {
+					dados.livros.map((livro) => {
+						console.log(livro);
+						divLivros.innerHTML += `<li>${livro.nome}</li>`
+					})
+				})
+			})
+		</script>
+	</body>
+</html>
