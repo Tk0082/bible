@@ -10,7 +10,7 @@
 	<body>
 		<div id="topbar">
 			<h2>Bíblia sagrada - Almeida e Atualizada</h2>
-			<img class="search" src="img/search_ico.png" onClick="openSearch()"/>aa
+			<img class="search" src="img/search_ico.png" onClick="openSearch()"/>
 		</div>
 		<div id="popup-search">
 			<img class="close" src="img/close.png" onClick="closeSearch()"/>
@@ -20,8 +20,10 @@
 			</div>
 		</div>
 
-		<div id="ready">
+		<div id="wrap">
+			<div id="ready">
 			
+			</div>
 		</div>
 		<script>
 			function openSearch() {
@@ -30,13 +32,20 @@
 			function closeSearch() {
 				document.getElementById("popup-search").style.display = "none";
 			}
+			
 			let divLivros = document.querySelector("#ready")
 
 			fetch("https://tk0082.github.io/bible/json/content.json").then((response) => {
 				response.json().then((dados) => {
-					dados.livros.map((livro) => {
-						console.log(livro);
-						divLivros.innerHTML += `<li>${livro.nome}</li>`
+					dados.livro.map((cap) => {
+						cap.capitulos.map((versic) => {
+							divLivros.innerHTML += `<h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><br><hr color="#ffba00"><br>`
+							versic.versiculos.map((tx) => {
+								console.log(tx);
+								divLivros.innerHTML += `<p class="txtitulo">${tx.titulo}</p><br>`
+								divLivros.innerHTML += `<p class="txcontent">${tx.numero}.  ${tx.versiculo}</p>`
+							})
+						})
 					})
 				})
 			})
