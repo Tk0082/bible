@@ -166,7 +166,133 @@
                 },
                 {
                     "capitulo": 2,
-                    "versiculos": []
+                    "versiculos": [
+                        {
+                            "numero": 1,
+                            "titulo": "",
+                            "versiculo": "Assim, pois, foram acabados os céus e a terra e todo o seu exército."
+                        },
+                        {
+                            "numero": 2,
+                            "titulo": "",
+                            "versiculo": "E havendo Deus terminado no dia sétimo a sua obra, que fizera, descansou nesse dia de toda sua obra que tinha feito."
+                        },
+                        {
+                            "numero": 3,
+                            "titulo": "",
+                            "versiculo": "E abençoou Deus o dia sétimo e o santificou; porque nele descansou de toda a obra que, como Criador, fizera."
+                        },
+                        {
+                            "numero": 4,
+                            "titulo": "A formação do homem",
+                            "versiculo": "Esta é a gênese dos céus e da terra quando foram criados, quando o SENHOR Deus os criou."
+                        },
+                        {
+                            "numero": 5,
+                            "titulo": "",
+                            "versiculo": "Não havia ainda nenhuma planta do campo na terra, pois ainda nenhuma erva do campo havia brotado; porque o SENHOR Deus não fizera chover sobre a terra, e também não havia homem para lavrar o solo."
+                        },
+                        {
+                            "numero": 6,
+                            "titulo": "",
+                            "versiculo": "Mas uma neblina subia da terra e regava toda a superfície do solo."
+                        },
+                        {
+                            "numero": 7,
+                            "titulo": "",
+                            "versiculo": "Então, formou o SENHOR Deus ao homem do pó da terra e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente."
+                        },
+                        {
+                            "numero": 8,
+                            "titulo": "",
+                            "versiculo": "E plantou o SENHOR Deus um jardim no Éden, na direção do Oriente, e pôs nele o homem que havia formado."
+                        },
+                        {
+                            "numero": 9,
+                            "titulo": "",
+                            "versiculo": "Do solo fez o SENHOR Deus brotar toda sorte de árvores agradáveis à vista e boas para alimento; e também a árvore da vida no meio do jardim e a árvore do conhecimento do bem e do mal."
+                        },
+                        {
+                            "numero": 10,
+                            "titulo": "",
+                            "versiculo": "E saía um rio do Éden para regar o jardim e dali se dividia, repartindo-se em quatro braços."
+                        },
+                        {
+                            "numero": 11,
+                            "titulo": "",
+                            "versiculo": "O primeiro chama-se Pisom; é o que rodeia a terra de Havilá, onde há ouro."
+                        },
+                        {
+                            "numero": 12,
+                            "titulo": "",
+                            "versiculo": "O ouro dessa terra é bom; também se encontram lá o bdélio e a pedra de ônix."
+                        },
+                        {
+                            "numero": 13,
+                            "titulo": "",
+                            "versiculo": "O segundo rio chama-se Giom; é o que circunda a terra de Cuxe."
+                        },
+                        {
+                            "numero": 14,
+                            "titulo": "",
+                            "versiculo": "O nome do terceiro rio é Tigre; é o que corre pelo oriente da Assíria. E o quarto é o Eufrates."
+                        },
+                        {
+                            "numero": 15,
+                            "titulo": "",
+                            "versiculo": "Tomou, pois, SENHOR Deus ao homem e o colocou no jardim do Éden para o cultivar e o guardar."
+                        },
+                        {
+                            "numero": 16,
+                            "titulo": "",
+                            "versiculo": "E o SENHOR Deus lhe deu esta ordem: De toda árvore do jardim comerás livremente,"
+                        },
+                        {
+                            "numero": 17,
+                            "titulo": "",
+                            "versiculo": "mas da árvore do conhecimento do bem e do mal não comerás; porque, no dia em que dela comeres, certamente morrerás."
+                        },
+                        {
+                            "numero": 18,
+                            "titulo": "A formação da mulher",
+                            "versiculo": "Disse mais o SENHOR Deus: Não é bom que o homem esteja só; far-lhe-ei uma auxiliadora que lhe seja idônea."
+                        },
+                        {
+                            "numero": 19,
+                            "titulo": "",
+                            "versiculo": "Havendo, pois, o SENHOR Deus formado da terra todos os animais do campo e todas as aves dos céus, trouxe-os ao homem, para ver como este lhes chamaria; e o nome que o homem desse a todos os seres viventes, esse seria o nome deles."
+                        },
+                        {
+                            "numero": 20,
+                            "titulo": "",
+                            "versiculo": "Deu nome o homem a todos os animais selváticos; para o homem, todavia, não se achava uma auxiliadora que lhe fosse idônea."
+                        },
+                        {
+                            "numero": 21,
+                            "titulo": "",
+                            "versiculo": "Então, o SENHOR Deus fez cair pesado sono sobre o homem, e este adormeceu; tomou uma das suas costelas e fechou o lugar com carne."
+                        },
+                        {
+                            "numero": 22,
+                            "titulo": "",
+                            "versiculo": "E a costela que o SENHOR Deus tomara ao homem, transformou-a numa mulher e lha trouxe."
+                        },
+                        {
+                            "numero": 23,
+                            "titulo": "",
+                            "versiculo": "E disse o homem:\n\tEsta, afinal, é osso dos meus ossos\n\te carne da minha carne;\n\tchamar-se-á varoa,\n\tporquanto do varão foi tomada."
+                        },
+                        {
+                            "numero": 24,
+                            "titulo": "",
+                            "versiculo": "Por isso, deixa o homem pai e mãe e se une à sua mulher, tornando-se os dois uma só carne."
+                        },
+                        {
+                            "numero": 25,
+                            "titulo": "",
+                            "versiculo": "Ora, um e outro, o homem e sua mulher, estavam nus e não se envergonhavam."
+                        }
+						]
                 },
                 {
                     "capitulo": 3,
@@ -180,7 +306,7 @@
                     "capitulo": 5,
                     "versiculos": []
                 }
-            ]
+				]
         }
     ]
 }

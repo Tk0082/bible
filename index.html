@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<div id="topbar">
-			<h2>Bíblia sagrada - Almeida e Atualizada</h2>
+			<h1>Bíblia Sagrada - Almeida e Atualizada</h1>
 			<img class="search" src="img/search_ico.png" onClick="openSearch()"/>
 		</div>
 		<div id="popup-search">
@@ -39,11 +39,16 @@
 				response.json().then((dados) => {
 					dados.livro.map((cap) => {
 						cap.capitulos.map((versic) => {
-							divLivros.innerHTML += `<h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><br><hr color="#ffba00"><br>`
+							divLivros.innerHTML += `<br><h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><br><hr color="#ffba00"><br>`
 							versic.versiculos.map((tx) => {
 								console.log(tx);
-								divLivros.innerHTML += `<p class="txtitulo">${tx.titulo}</p><br>`
-								divLivros.innerHTML += `<p class="txcontent">${tx.numero}.  ${tx.versiculo}</p>`
+								if(tx.titulo != ""){
+									divLivros.innerHTML += `<br><h3 class="txtitulo">${tx.titulo}</h3><br>`
+									divLivros.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
+								} else {
+									divLivros.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
+								}
+
 							})
 						})
 					})
