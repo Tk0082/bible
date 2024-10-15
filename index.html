@@ -24,7 +24,33 @@
 			<div id="ready">
 			
 			</div>
+			<script>
+			let divContent = document.querySelector("#ready")
+
+			fetch("https://tk0082.github.io/bible/json/content.json").then((response) => {
+				response.json().then((dados) => {
+					dados.livro.map((cap) => {
+						cap.capitulos.map((versic) => {
+							divContent.innerHTML += `<br><h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><br><hr color="#ffba00"><br>`
+							versic.versiculos.map((tx) => {
+								console.log(tx);
+								if(tx.titulo != ""){
+									divContent.innerHTML += `<br><h3 class="txtitulo">${tx.titulo}</h3><br>`
+									divContent.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
+								} else {
+									divContent.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
+								}
+
+							})
+						})
+					})
+				})
+			})
+			</script>
 		</div>
+		<footer id="liv">
+
+		</footer>
 		<script>
 			function openSearch() {
 				document.getElementById("popup-search").style.display = "flex"
@@ -33,27 +59,26 @@
 				document.getElementById("popup-search").style.display = "none";
 			}
 			
-			let divLivros = document.querySelector("#ready")
-
-			fetch("https://tk0082.github.io/bible/json/content.json").then((response) => {
+			let divLivros = document.querySelector("#liv")
+			fetch("https://tk0082.github.io/bible/json/livros.json").then((response) => {
 				response.json().then((dados) => {
-					dados.livro.map((cap) => {
-						cap.capitulos.map((versic) => {
-							divLivros.innerHTML += `<br><h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><br><hr color="#ffba00"><br>`
-							versic.versiculos.map((tx) => {
-								console.log(tx);
-								if(tx.titulo != ""){
-									divLivros.innerHTML += `<br><h3 class="txtitulo">${tx.titulo}</h3><br>`
-									divLivros.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
-								} else {
-									divLivros.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
-								}
-
-							})
+					divLivros.innerHTML += `<div id="divliv">`
+					dados.livros.map((livro) => {
+						divLivros.innerHTML += `<h2 id="tblivros">${livro.posit}</h2>`
+						divLivros.innerHTML += `<hr>`
+						livro.nomes.map((nm) => {
+							foreach ( ${nm} >= 2){
+								divLivros.innerHTML += `<p class="txtitulo">${nm.nome}</p>`
+								divLivros.innerHTML += `</br>`
+							}
 						})
+						divLivros.innerHTML += `</div>`
 					})
 				})
+				
 			})
 		</script>
 	</body>
+	<script type="text/javascript" src="script/jquery.js"></script>
+   <script type="text/javascript" src="script/rolatopo.js"></script>
 </html>

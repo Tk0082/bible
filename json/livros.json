@@ -1,0 +1,209 @@
+{
+	"livros": [
+		{
+			"posit": "Antigo Testamento",
+			"nomes": [
+				{
+					"nome": "Gênesis"
+				},
+				{
+					"nome": "Êxodo"
+				},
+				{
+					"nome": "Levítico"
+				},
+				{
+					"nome": "Números"
+				},
+				{
+					"nome": "Deuteronômio"
+				},
+				{
+					"nome": "Josué"
+				},
+				{
+					"nome": "Juízes"
+				},
+				{
+					"nome": "Rute"
+				},
+				{
+					"nome": "1 Samuel"
+				},
+				{
+					"nome": "2 Samuel"
+				},
+				{
+					"nome": "1 Reis"
+				},
+				{
+					"nome": "2 Reis"
+				},
+				{
+					"nome": "1 Crônicas"
+				},
+				{
+					"nome": "2 Crônicas"
+				},
+				{
+					"nome": "Esdras"
+				},
+				{
+					"nome": "Neemias"
+				},
+				{
+					"nome": "Ester"
+				},
+				{
+					"nome": "Jó"
+				},
+				{
+					"nome": "Salmos"
+				},
+				{
+					"nome": "Provérbios"
+				},
+				{
+					"nome": "Eclesiastes"
+				},
+				{
+					"nome": "Cantares"
+				},
+				{
+					"nome": "Isaías"
+				},
+				{
+					"nome": "Jeremias"
+				},
+				{
+					"nome": "Lamentações"
+				},
+				{
+					"nome": "Ezequiel"
+				},
+				{
+					"nome": "Daniel"
+				},
+				{
+					"nome": "Oséias"
+				},
+				{
+					"nome": "Joel"
+				},
+				{
+					"nome": "Amós"
+				},
+				{
+					"nome": "Obadias"
+				},
+				{
+					"nome": "Jonas"
+				},
+				{
+					"nome": "Miquéias"
+				},
+				{
+					"nome": "Naum"
+				},
+				{
+					"nome": "Habacuque"
+				},
+				{
+					"nome": "Sofoinas"
+				},
+				{
+					"nome": "Ageu"
+				},
+				{
+					"nome": "Zacarias"
+				},
+				{
+					"nome": "Malaquias"
+				}
+			]
+		},
+		{
+			"posit": "Novo Testamento",
+			"nomes": [
+				{
+					"nome": "Mateus"
+				},
+				{
+					"nome": "Marcos"
+				},
+				{
+					"nome": "Lucas"
+				},
+				{
+					"nome": "João"
+				},
+				{
+					"nome": "Atos"
+				},
+				{
+					"nome": "Romanos"
+				},
+				{
+					"nome": "1 Coríntios"
+				},
+				{
+					"nome": "2 Coríntios"
+				},
+				{
+					"nome": "Gálatas"
+				},
+				{
+					"nome": "Efésios"
+				},
+				{
+					"nome": "Filipenses"
+				},
+				{
+					"nome": "Colossenses"
+				},
+				{
+					"nome": "1 Tessalonicenses"
+				},
+				{
+					"nome": "2 Tessalonicenses"
+				},
+				{
+					"nome": "1 Timóteo"
+				},
+				{
+					"nome": "2 Timóteo"
+				},
+				{
+					"nome": "Tito"
+				},
+				{
+					"nome": "Filemón"
+				},
+				{
+					"nome": "Hebreus"
+				},
+				{
+					"nome": "Tiago"
+				},
+				{
+					"nome": "1 Pedro"
+				},
+				{
+					"nome": "2 Pedro"
+				},
+				{
+					"nome": "1 João"
+				},
+				{
+					"nome": "2 João"
+				},
+				{
+					"nome": "Judas"
+				},
+				{
+					"nome": "Apocalipse"
+				}
+			]
+		}
+	]
+}
