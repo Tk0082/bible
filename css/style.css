@@ -38,7 +38,12 @@ html{
 	margin: 0 20px;
 }
 #topbar{
+	z-index: 0;
+	position: fixed;
+	top: 0;
+	display: flex;
 	width: 100%;
+	min-height: 10px;
 	height: 40px;
 	padding: 10px;
 	display: inline-block;
@@ -94,9 +99,10 @@ html{
 	padding: 10px;
 	width: 90%;
 	height: 400px;
-	margin: 20px auto;
+	margin: 20px 3%;
+	justify-content: center;
 	border-radius: 10px;
-	background: rgba(255,186,0,.4);
+	background: rgba(255,186,0,.6);
 }
 .close{
 	padding:1px;
@@ -133,15 +139,51 @@ html{
 	font-size: 16px;
 	padding: 20px, 2px, 2px;
 	border: none;
+	color: #ffba00;
 	background-color: rgba(255,255,255,.6);
 	border-radius: 20px;
 	box-shadow: rgba(0,0,0,,4);
 }
 #wrap{
 	width: 95%;
+	height: 85%;
 	margin: 10px auto;
 }
 #ready{
 	padding: 20px 10px;
 }
-
+#liv{
+	position: fixed;
+	z-index: 0;
+	width: 100%;
+	height: 30px;
+	bottom: -1px;
+	border-radius: 10px 10px 0 0;
+	padding: 20px 20px 30px 20px;
+	background: rgba(255,186,0,.8);
+	transform: 2s;
+}
+#liv:hover{
+	height: 150px;
+	transform: 2s;
+}
+#liv p{
+	color:#202020;
+}
+#liv h2{
+	color: #ffba00;
+	box-shadow: rgba(0,0,0,,4);
+}
+.livplus{
+	height: 600px;
+	transform: 1s
+}
+#divliv{
+	position: relative;
+	width: 100%;
+	height:30px;
+	margin: 10px 20px;
+	display: inline-block;
+	float: right;
+	transform: 1s;
+}
