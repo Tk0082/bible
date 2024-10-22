@@ -6,11 +6,17 @@
 	margin:0;
 	padding:0;
 }
+a:hover, a:link, a:visited, a:hover{
+	color: #ffba00;
+	text-decoration: none;
+	
+}
 html{
 	background: #404040;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
+.blur {filter: brightness(100%);}
 .txlivro{
 	color: #ffba00;
 	font-family: 'Quicksand', serif;
@@ -41,7 +47,6 @@ html{
 	z-index: 0;
 	position: fixed;
 	top: 0;
-	display: flex;
 	width: 100%;
 	min-height: 10px;
 	height: 40px;
@@ -50,6 +55,16 @@ html{
 	align: center-vertical;
 	background: #303030;
 	box-shadow: -10px 5px 15px rgba(255,186,0,.4);
+
+	h1{
+		color: #ffba00;
+		text-shadow: 0 2px 3px rgba(255,186,0,.6);
+		transition:.2s;
+		font-family: 'Quicksand', serif;
+		font-optical-sizing: auto;
+		font-style: normal;
+		font-weight: 600;
+	}
 }
 #topbar:hover{
 	h1{
@@ -59,20 +74,13 @@ html{
 		font-family: 'Quicksand', serif;
 	}
 }
-#topbar h1{
-	color: #ffba00;
-	text-shadow: 0 2px 3px rgba(255,186,0,.6);
-	transition:.2s;
-	font-family: 'Quicksand', serif;
-	font-optical-sizing: auto;
-	font-style: normal;
-	font-weight: 600;
-}
 .search{
-	padding:5px;
+	position: relative;
+	padding: 5px;
 	width: 20px;
 	height: 20px;
 	margin: -30px 40px 0 0;
+	display: inline-block;
 	float: right;
 	transition: .3s;
 }
@@ -84,31 +92,33 @@ html{
 	border-radius: 8px;
 	transition: .3s;
 }
-.btn{
-	width: 20px;
-	height: 20px;
-	display: flex;
-	justify-content: center;
-	position: relative;
-	background: rgba(0,0,0,.0);
-	img: src("img/search_ico.png")
-}
 #popup-search{
-	position: absolute;
+	position: fixed;
+	z-index: 0;
 	display: none;
 	padding: 10px;
 	width: 90%;
 	height: 400px;
-	margin: 20px 3%;
+	margin: 40px 50px;
 	justify-content: center;
 	border-radius: 10px;
 	background: rgba(255,186,0,.6);
+}
+.btn{
+	position: relative;
+	width: 20px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	background: rgba(0,0,0,.0);
+	img: src("img/search_ico.png")
 }
 .close{
 	padding:1px;
 	width: 20px;
 	height: 20px;
 	background: 0 4px 4px rgba(255,186,0,.8);
+	display: inline-block;
 	float: right;
 	transition: .2s;
 }
@@ -155,23 +165,25 @@ html{
 #liv{
 	position: fixed;
 	z-index: 0;
-	width: 100%;
+	width: 95%;
+	margin: 0 auto;
 	height: 30px;
 	bottom: -1px;
 	border-radius: 10px 10px 0 0;
 	padding: 20px 20px 30px 20px;
 	background: rgba(255,186,0,.8);
+	display: inline-block;
 	transform: 2s;
 }
 #liv:hover{
-	height: 150px;
+	height: auto;
 	transform: 2s;
 }
 #liv p{
-	color:#202020;
+	color:#404040;
 }
 #liv h2{
-	color: #ffba00;
+	color: #303030;
 	box-shadow: rgba(0,0,0,,4);
 }
 .livplus{
@@ -186,4 +198,11 @@ html{
 	display: inline-block;
 	float: right;
 	transform: 1s;
+}
+#nomeliv{
+	color: #ffba00;
+	font-family: 'Quicksand', serif;
+	font-optical-sizing: auto;
+	font-style: bold;
+	font-weight: 800;
 }

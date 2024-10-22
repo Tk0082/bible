@@ -4,121 +4,160 @@
 			"posit": "Antigo Testamento",
 			"nomes": [
 				{
-					"nome": "Gênesis"
+					"nome": "Gênesis",
+					"abrev": "GN"
 				},
 				{
-					"nome": "Êxodo"
+					"nome": "Êxodo",
+					"abrev": "ÊX"
 				},
 				{
-					"nome": "Levítico"
+					"nome": "Levítico",
+					"abrev": "LV"
 				},
 				{
-					"nome": "Números"
+					"nome": "Números",
+					"abrev": "NM"
 				},
 				{
-					"nome": "Deuteronômio"
+					"nome": "Deuteronômio",
+					"abrev": "DT"
 				},
 				{
-					"nome": "Josué"
+					"nome": "Josué",
+					"abrev": "JS"
 				},
 				{
-					"nome": "Juízes"
+					"nome": "Juízes",
+					"abrev": "JZ"
 				},
 				{
-					"nome": "Rute"
+					"nome": "Rute",
+					"abrev": "RT"
 				},
 				{
-					"nome": "1 Samuel"
+					"nome": "1 Samuel",
+					"abrev": "1SM"
 				},
 				{
-					"nome": "2 Samuel"
+					"nome": "2 Samuel",
+					"abrev": "2SM"
 				},
 				{
-					"nome": "1 Reis"
+					"nome": "1 Reis",
+					"abrev": "1RS"
 				},
 				{
-					"nome": "2 Reis"
+					"nome": "2 Reis",
+					"abrev": "2RS"
 				},
 				{
-					"nome": "1 Crônicas"
+					"nome": "1 Crônicas",
+					"abrev": "1CR"
 				},
 				{
-					"nome": "2 Crônicas"
+					"nome": "2 Crônicas",
+					"abrev": "2CR"
 				},
 				{
-					"nome": "Esdras"
+					"nome": "Esdras",
+					"abrev": "ED"
 				},
 				{
-					"nome": "Neemias"
+					"nome": "Neemias",
+					"abrev": "NE"
 				},
 				{
-					"nome": "Ester"
+					"nome": "Ester",
+					"abrev": "ET"
 				},
 				{
-					"nome": "Jó"
+					"nome": "Jó",
+					"abrev": "JÓ"
 				},
 				{
-					"nome": "Salmos"
+					"nome": "Salmos",
+					"abrev": "SL"
 				},
 				{
-					"nome": "Provérbios"
+					"nome": "Provérbios",
+					"abrev": "PV"
 				},
 				{
-					"nome": "Eclesiastes"
+					"nome": "Eclesiastes",
+					"abrev": "EC"
 				},
 				{
-					"nome": "Cantares"
+					"nome": "Cantares",
+					"abrev": "CT"
 				},
 				{
-					"nome": "Isaías"
+					"nome": "Isaías",
+					"abrev": "IS"
 				},
 				{
-					"nome": "Jeremias"
+					"nome": "Jeremias",
+					"abrev": "JR"
 				},
 				{
-					"nome": "Lamentações"
+					"nome": "Lamentações",
+					"abrev": "LM"
 				},
 				{
-					"nome": "Ezequiel"
+					"nome": "Ezequiel",
+					"abrev": "EZ"
 				},
 				{
-					"nome": "Daniel"
+					"nome": "Daniel",
+					"abrev": "DN"
 				},
 				{
-					"nome": "Oséias"
+					"nome": "Oséias",
+					"abrev": "OS"
 				},
 				{
-					"nome": "Joel"
+					"nome": "Joel",
+					"abrev": "JL"
 				},
 				{
-					"nome": "Amós"
+					"nome": "Amós",
+					"abrev": "AM"
 				},
 				{
-					"nome": "Obadias"
+					"nome": "Obadias",
+					"abrev": "OB"
 				},
 				{
-					"nome": "Jonas"
+					"nome": "Jonas",
+					"abrev": "JN"
 				},
 				{
-					"nome": "Miquéias"
+					"nome": "Miquéias",
+					"abrev": "MQ"
 				},
 				{
-					"nome": "Naum"
+					"nome": "Naum",
+					"abrev": "NA"
 				},
 				{
-					"nome": "Habacuque"
+					"nome": "Habacuque",
+					"abrev": "HC"
 				},
 				{
-					"nome": "Sofoinas"
+					"nome": "Sofoinas",
+					"abrev": "SF"
 				},
 				{
-					"nome": "Ageu"
+					"nome": "Ageu",
+					"abrev": "AG"
 				},
 				{
-					"nome": "Zacarias"
+					"nome": "Zacarias",
+					"abrev": "ZC"
 				},
 				{
-					"nome": "Malaquias"
+					"nome": "Malaquias",
+					"abrev": "ML"
 				}
 			]
 		},
@@ -126,82 +165,108 @@
 			"posit": "Novo Testamento",
 			"nomes": [
 				{
-					"nome": "Mateus"
+					"nome": "Mateus",
+					"abrev": "MT"
 				},
 				{
-					"nome": "Marcos"
+					"nome": "Marcos",
+					"abrev": "MC"
 				},
 				{
-					"nome": "Lucas"
+					"nome": "Lucas",
+					"abrev": "LC"
 				},
 				{
-					"nome": "João"
+					"nome": "João",
+					"abrev": "JO"
 				},
 				{
-					"nome": "Atos"
+					"nome": "Atos",
+					"abrev": "AT"
 				},
 				{
-					"nome": "Romanos"
+					"nome": "Romanos",
+					"abrev": "RM"
 				},
 				{
-					"nome": "1 Coríntios"
+					"nome": "1 Coríntios",
+					"abrev": "1CO"
 				},
 				{
-					"nome": "2 Coríntios"
+					"nome": "2 Coríntios",
+					"abrev": "2CO"
 				},
 				{
-					"nome": "Gálatas"
+					"nome": "Gálatas",
+					"abrev": "GL"
 				},
 				{
-					"nome": "Efésios"
+					"nome": "Efésios",
+					"abrev": "EF"
 				},
 				{
-					"nome": "Filipenses"
+					"nome": "Filipenses",
+					"abrev": "FP"
 				},
 				{
-					"nome": "Colossenses"
+					"nome": "Colossenses",
+					"abrev": "CL"
 				},
 				{
-					"nome": "1 Tessalonicenses"
+					"nome": "1 Tessalonicenses",
+					"abrev": "1TS"
 				},
 				{
-					"nome": "2 Tessalonicenses"
+					"nome": "2 Tessalonicenses",
+					"abrev": "2TS"
 				},
 				{
-					"nome": "1 Timóteo"
+					"nome": "1 Timóteo",
+					"abrev": "1TM"
 				},
 				{
-					"nome": "2 Timóteo"
+					"nome": "2 Timóteo",
+					"abrev": "2TM"
 				},
 				{
-					"nome": "Tito"
+					"nome": "Tito",
+					"abrev": "TT"
 				},
 				{
-					"nome": "Filemón"
+					"nome": "Filemón",
+					"abrev": "FM"
 				},
 				{
-					"nome": "Hebreus"
+					"nome": "Hebreus",
+					"abrev": "HB"
 				},
 				{
-					"nome": "Tiago"
+					"nome": "Tiago",
+					"abrev": "TG"
 				},
 				{
-					"nome": "1 Pedro"
+					"nome": "1 Pedro",
+					"abrev": "1PE"
 				},
 				{
-					"nome": "2 Pedro"
+					"nome": "2 Pedro",
+					"abrev": "2PE"
 				},
 				{
-					"nome": "1 João"
+					"nome": "1 João",
+					"abrev": "1JO"
 				},
 				{
-					"nome": "2 João"
+					"nome": "2 João",
+					"abrev": "2JO"
 				},
 				{
-					"nome": "Judas"
+					"nome": "Judas",
+					"abrev": "JD"
 				},
 				{
-					"nome": "Apocalipse"
+					"nome": "Apocalipse",
+					"abrev": "AP"
 				}
 			]
 		}
