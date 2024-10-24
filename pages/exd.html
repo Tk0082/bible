@@ -4,16 +4,16 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE-Edge">
 		<title>Bíblia Sagrada - ARA</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		<link rel="icon" type="image/icon" href="img/icon.ico" />
+		<link rel="stylesheet" type="text/css" href="../css/style.css" />
+		<link rel="icon" type="image/icon" href="../img/icon.ico" />
 	</head>
 	<body>
 		<div id="topbar">
 			<h1><a href="https://tk0082.github.io/bible/">Bíblia Sagrada - ARA</a></h1>
-			<img class="search" src="img/search_ico.png" onClick="openSearch()"/>
+			<img class="search" src="../img/search_ico.png" onClick="openSearch()"/>
 		</div>
 		<div id="popup-search">
-			<img class="close" src="img/close.png" onClick="closeSearch()"/>
+			<img class="close" src="../img/close.png" onClick="closeSearch()"/>
 			<div class="psearch">
 				<input class="inpt"></input>
 			</div>
@@ -26,7 +26,7 @@
 			<script>
 			let divContent = document.querySelector("#ready")
 
-			fetch("https://tk0082.github.io/bible/json/gn.json").then((response) => {
+			fetch("https://tk0082.github.io/bible/json/ex.json").then((response) => {
 				response.json().then((dados) => {
 					dados.livro.map((cap) => {
 						cap.capitulos.map((versic) => {
@@ -77,6 +77,6 @@
 			})
 		</script>
 	</body>
-	<script type="text/javascript" src="script/jquery.js"></script>
-   <script type="text/javascript" src="script/rolatopo.js"></script>
+	<script type="text/javascript" src="../script/jquery.js"></script>
+   <script type="text/javascript" src="../script/rolatopo.js"></script>
 </html>

@@ -1,0 +1,65 @@
+{
+	"livro":[
+		{
+			"nome":"Êxodo",
+			"autor":"Moisés",
+			"capitulos":[
+				{
+					"capitulo":1,
+					"versiculos":[
+						{
+							"numero":1,
+							"titulo":"Os descendentes de Jacó no Egito",
+							"versiculo":"São estes os nomes dos filhos de Israel que entraram com Jacó no Egito; cada um entrou com sua família:"
+						},
+						{
+							"numero":2,
+							"titulo":"",
+							"versiculo":"Rúben, Simeão, Levi e Judá,"
+						},
+						{
+							"numero":3,
+							"titulo":"",
+							"versiculo":"Issacar, Zebulom e Benjamim,"
+						},
+						{
+							"numero":4,
+							"titulo":"",
+							"versiculo":"Dâ, Naftali, Gade e Aser."
+						},
+						{
+							"numero":1,
+							"titulo":"",
+							"versiculo":""
+						},
+						{
+							"numero":1,
+							"titulo":"",
+							"versiculo":""
+						},
+						{
+							"numero":1,
+							"titulo":"",
+							"versiculo":""
+						}
+					]
+				},
+				{
+					"capitulo":2,
+					"versiculos":[
+						{
+							"numero":1,
+							"titulo":"",
+							"versiculo":""
+						},
+						{
+							"numero":2,
+							"titulo":"",
+							"versiculo":""
+						}
+					]
+				}
+			]
+		}
+	]
+}

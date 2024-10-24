@@ -168,26 +168,23 @@ html{
 	position: fixed;
 	z-index: 0;
 	width: 96%;
-	height: 30px;
-	margin: 0 2%;
+	height: 20px;
+	margin: 0 20px;
 	bottom: 0;
 	border-radius: 10px 10px 0 0;
 	padding: 20px 20px 30px 20px;
 	background: rgba(255,186,0,.8);
 	display: inline-block;
    align: center;
-	transform: 2s;
+	transform: 3s;
 }
 #liv:hover{
 	height: auto;
-	transform: 2s;
-}
-#liv p{
-	color:#404040;
+	transform: 3s;
 }
 #liv h2{
 	color: #303030;
-	box-shadow: rgba(0,0,0,,4);
+	box-shadow: 0 4px 4px rgba(0,0,0,,4);
 }
 .livplus{
 	height: 600px;
@@ -200,7 +197,6 @@ html{
 	margin: 10px 20px;
 	display: inline-block;
 	float: right;
-	transform: 1s;
 }
 #nomeliv{
 	color: #ffba00;
@@ -208,4 +204,33 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight: 800;
+}
+.lnkcap{
+	width: 50px;
+	margin: 10px;
+	display: inline-block;
+	float: left;
+	background: rgba(0,0,0,.8);
+   align: center;
+   border-radius: 8px;
+   box-shadow: 0 4px 4px rgba(0,0,0,.8);
+	background: rgba(0,0,0,.6);
+	transform: 1s;
+   p{
+      color: #ffba00;
+		align: center;
+		margin: 0 auto;
+		font-family: 'Quicksand', serif;
+		font-optical-sizing: auto;
+		font-style: bold;
+		font-weight: 800;
+   }
+}
+.lnkcap:hover{
+	background: rgba(255,186,0,.8);
+	p{
+		color: #303030;
+		margin-top: -2px;
+		transform: 1s;
+	}
 }
