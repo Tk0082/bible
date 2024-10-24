@@ -15,7 +15,8 @@
 		<div id="popup-search">
 			<img class="close" src="img/close.png" onClick="closeSearch()"/>
 			<div class="psearch">
-				<input class="inpt"></input>
+				<label for="search">Buscar Versículos</label>
+				<input class="inpt" type="search"></input>
 			</div>
 		</div>
 
@@ -63,14 +64,12 @@
 				response.json().then((dados) => {
 					divLivros.innerHTML += `<div id="divliv">`
 					dados.livros.map((livro) => {
-						divLivros.innerHTML += `<h2 id="nomeliv">${livro.posit}</h2>`
-						divLivros.innerHTML += `<hr>`
+						divLivros.innerHTML += `<br><h2 id="nomeliv">${livro.posit}</h2>`
+						divLivros.innerHTML += `<hr><br><br>`
 						livro.nomes.map((nm) => {
                      divLivros.innerHTML += `<p class="txtitulo"><a class="lnkcap" href="${nm.lnk}" >${nm.abrev}</a></p>`
-							if ( nm.nome == 2){
-								divLivros.innerHTML += `<br>`
-							}
 						})
+						divLivros.innerHTML += `<br>`
 					})
 					divLivros.innerHTML += `</div>`
 				})

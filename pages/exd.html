@@ -63,8 +63,8 @@
 				response.json().then((dados) => {
 					divLivros.innerHTML += `<div id="divliv">`
 					dados.livros.map((livro) => {
-						divLivros.innerHTML += `<h2 id="nomeliv">${livro.posit}</h2>`
-						divLivros.innerHTML += `<hr>`
+						divLivros.innerHTML += `<br><h2 id="nomeliv">${livro.posit}</h2>`
+						divLivros.innerHTML += `<hr><br>`
 						livro.nomes.map((nm) => {
                      divLivros.innerHTML += `<p class="txtitulo"><a class="lnkcap" href="${nm.lnk}" >${nm.abrev}</a></p>`
 							if ( nm.nome == 2){
