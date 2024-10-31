@@ -1390,12 +1390,167 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":11,
                "versiculos":[
                   {
                      "numero":1,
+                     "titulo":"A torre de Babel",
+                     "versiculo":"Ora, em toda a terra havia apenas uma linguagem e uma só maneira de falar."
+                  },
+                  {
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Sucedeu que, partindo eles do Oriente, deram com uma planície na terra de Sinar; e habitaram ali."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"E disseram uns aos outros: Vinde, façamos tijolos e queimemo-los bem. Os tijolos serviram-lhes de pedra, e o betume, de argamassa."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Disseram: Vinde, edifiquemos para nós uma cidade e uma torre cujo tope chegue até aos céus e tornemos célebre o nosso nome, para que não sejamos espalhados por toda a terra."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Então, desceu o Senhor para ver a cidade e a torre, que os filhos dos homens edificavam;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"e o Senhor disse: Eis que o povo é um, e todos têm a mesma linguagem. Isto é apenas o começo; agora não haverá restrição para tudo que intentam fazer."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Vinde, desçamos e confundamos ali a sua linguagem, para que um não entenda a linguagem de outro."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Destarte, o Senhor os dispersou dali pela superfície da terra; e cessaram de edificar a cidade."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Chamou-se-lhe, por isso, o nome de Babel, porque ali confundiu o Senhor a linguagem de toda a terra e dali o Senhor os dispersou por toda a superfície dela."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"Descendentes de Sem",
+                     "versiculo":"São estas as gerações de Sem. Ora, ele era da idade de cem anos quando gerou a Arfaxade, dois anos depois do dilúvio;"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Arfaxade, viveu Sem quinhentos anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Viveu Arfaxade trinta e cinco anos e gerou a Salá;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Salá, viveu Arfaxade quatrocentos e três anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Viveu Salá trinta anos e gerou a Héber;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Héber, viveu Salá quatrocentos e três anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Viveu Héber trinta e quatro anos e gerou a Pelegue;"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Pelegue, viveu Héber quatrocentos e trinta anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Viveu Pelegue trinta anos e gerou a Reú;"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Reú, viveu Pelegue duzentos e nove anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Viveu Reú trinta e dois anos e gerou a Serugue;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Serugue, viveu Reú duzentos e sete anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Viveu Serugue trinta anos e gerou a Naor;"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Naor, viveu Serugue duzentos anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Viveu Naor vinte e nove anos e gerou a Tera;"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"e, depois que gerou a Tera, viveu Naor cento e dezenove anos; e gerou filhos e filhas."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Viveu Tera setenta anos e gerou a Abrão, a Naor e a Harã."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"São estas as gerações de Tera. Tera gerou a Abrão, a Naor e a Harã; e Harã gerou a Ló."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Morreu Harã na terra de seu nascimento, em Ur dos caldeus, estando Tera, seu pai, ainda vivo."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Abrão e Naor tomaram para si mulheres; a de Abrão chamava-se Sarai, a de Naor, Milca, filha de Harã, que foi pai de Milca e de Iscá."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Sarai era estéril, não tinha filhos."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Tomou Tera a Abrão, seu filho, e a Ló, filho de Harã, filho de seu filho, e a Sarai, sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã; foram até Harã, onde ficaram."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"E, havendo Tera vivido duzentos e cinco anos ao todo, morreu em Harã."
                   }
                ]
             },
