@@ -3685,7 +3685,7 @@
                   {
                      "numero":18,
                      "titulo":"",
-                     "versiculo":"E tornou Isaque a abrir os poços que se cavaram nos dias de Abraão, seu pai (porque os filisteus os haviam entulhado depois da morte de Abraão), e lhes deu os mesmos nomes que já seu pai lhes havia posto. 24 Na mesma noite, lhe apareceu o Senhor e disse: Eu sou o Deus de Abraão, teu pai. Não temas, porque eu sou contigo; abençoar-te-ei e multiplicarei a tua descendência por amor de Abraão, meu servo."
+                     "versiculo":"E tornou Isaque a abrir os poços que se cavaram nos dias de Abraão, seu pai (porque os filisteus os haviam entulhado depois da morte de Abraão), e lhes deu os mesmos nomes que já seu pai lhes havia posto."
                   },
                   {
                      "numero":19,
@@ -3775,17 +3775,237 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":27,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Isaqque abençoa Jacó e Esaú",
+                     "versiculo":"Tendo-se envelhecido Isaque e já não podendo ver, porque os olhos se lhe enfraqueciam, chamou a Esaú, seu filho mais velho, e lhe disse: Meu filho! Respondeu ele: Aqui estou!"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Disse-lhe o pai: Estou velho e não sei o dia da minha morte."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, toma as tuas armas, a tua aljava e o teu arco, sai ao campo, e apanha para mim alguma caça,"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"e faze-me uma comida saborosa, como eu aprecio, e traze-ma, para que eu coma e te abençoe antes que eu morra."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Rebeca esteve escutando enquanto Isaque falava com Esaú, seu filho. E foi-se Esaú ao campo para apanhar a caça e trazê-la."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Então, disse Rebeca a Jacó, seu filho: Ouvi teu pai falar com Esaú, teu irmão, assim:"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Traze caça e faze-me uma comida saborosa, para que eu coma e te abençoe diante do Senhor, antes que eu morra."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, meu filho, atende às minhas palavras com que te ordeno."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Vai ao rebanho e traze-me dois bons cabritos; deles farei uma saborosa comida para teu pai, como ele aprecia;"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"levá-la-ás a teu pai, para que a coma e te abençoe, antes que morra."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Disse Jacó a Rebeca, sua mãe: Esaú, meu irmão, é homem cabeludo, e eu, homem liso."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Dar-se-á o caso de meu pai me apalpar, e passarei a seus olhos por zombador; assim, trarei sobre mim maldição e não bênção."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Respondeu-lhe a mãe: Caia sobre mim essa maldição, meu filho; atende somente o que eu te digo, vai e traze-mos."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Ele foi, tomou-os e os trouxe a sua mãe, que fez uma saborosa comida, como o pai dele apreciava."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Depois, tomou Rebeca a melhor roupa de Esaú, seu filho mais velho, roupa que tinha consigo em casa, e vestiu a Jacó, seu filho mais novo."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Com a pele dos cabritos cobriu-lhe as mãos e a lisura do pescoço."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Então, entregou a Jacó, seu filho, a comida saborosa e o pão que havia preparado."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Jacó foi a seu pai e disse: Meu pai! Ele respondeu: Fala! Quem és tu, meu filho?"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Respondeu Jacó a seu pai: Sou Esaú, teu primogênito; fiz o que me ordenaste. Levanta-te, pois, assenta-te e come da minha caça, para que me abençoes."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Disse Isaque a seu filho: Como é isso que a pudeste achar tão depressa, meu filho? Ele respondeu: Porque o Senhor, teu Deus, a mandou ao meu encontro."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Então, disse Isaque a Jacó: Chega-te aqui, para que eu te apalpe, meu filho, e veja se és meu filho Esaú ou não."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Jacó chegou-se a Isaque, seu pai, que o apalpou e disse: A voz é de Jacó, porém as mãos são de Esaú."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"E não o reconheceu, porque as mãos, com efeito, estavam peludas como as de seu irmão Esaú. E o abençoou."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"E lhe disse: És meu filho Esaú mesmo? Ele respondeu: Eu sou."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Então, disse: Chega isso para perto de mim, para que eu coma da caça de meu filho; para que eu te abençoe. Chegou-lho, e ele comeu; trouxe-lhe também vinho, e ele bebeu."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Então, lhe disse Isaque, seu pai: Chega-te e dá-me um beijo, meu filho."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Ele se chegou e o beijou. Então, o pai aspirou o cheiro da roupa dele, e o abençoou, e disse: Eis que o cheiro do meu filho é como o cheiro do campo, que o Senhor abençoou;"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Deus te dê do orvalho do céu, e da exuberância da terra, e fartura de trigo e de mosto."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Sirvam-te povos, e nações te reverenciem; sê senhor de teus irmãos, e os filhos de tua mãe se encurvem a ti; maldito seja o que te amaldiçoar, e abençoado o que te abençoar."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Mal acabara Isaque de abençoar a Jacó, tendo este saído da presença de Isaque, seu pai, chega Esaú, seu irmão, da sua caçada."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"E fez também ele uma comida saborosa, a trouxe a seu pai e lhe disse: Levanta-te, meu pai, e come da caça de teu filho, para que me abençoes."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Perguntou-lhe Isaque, seu pai: Quem és tu? Sou Esaú, teu filho, o teu primogênito, respondeu."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Então, estremeceu Isaque de violenta comoção e disse: Quem é, pois, aquele que apanhou a caça e ma trouxe? Eu comi de tudo, antes que viesses, e o abençoei, e ele será abençoado."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Como ouvisse Esaú tais palavras de seu pai, bradou com profundo amargor e lhe disse: Abençoa-me também a mim, meu pai!"
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"Respondeu-lhe o pai: Veio teu irmão astuciosamente e tomou a tua bênção."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Disse Esaú: Não é com razão que se chama ele Jacó? Pois já duas vezes me enganou: tirou-me o direito de primogenitura e agora usurpa a bênção que era minha. Disse ainda: Não reservaste, pois, bênção nenhuma para mim?"
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Então, respondeu Isaque a Esaú: Eis que o constituí em teu senhor, e todos os seus irmãos lhe dei por servos; de trigo e de mosto o apercebi; que me será dado fazer-te agora, meu filho?"
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Disse Esaú a seu pai: Acaso, tens uma única bênção, meu pai? Abençoa-me, também a mim, meu pai. E, levantando Esaú a voz, chorou."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Então, lhe respondeu Isaque, seu pai: Longe dos lugares férteis da terra será a tua habitação, e sem orvalho que cai do alto."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Viverás da tua espada e servirás a teu irmão; quando, porém, te libertares, sacudirás o seu jugo da tua cerviz."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Passou Esaú a odiar a Jacó por causa da bênção, com que seu pai o tinha abençoado; e disse consigo: Vêm próximos os dias de luto por meu pai; então, matarei a Jacó, meu irmão."
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"Chegaram aos ouvidos de Rebeca estas palavras de Esaú, seu filho mais velho; ela, pois, mandou chamar a Jacó, seu filho mais moço, e lhe disse: Eis que Esaú, teu irmão, se consola a teu respeito, resolvendo matar-te."
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, meu filho, ouve o que te digo: retira-te para a casa de Labão, meu irmão, em Harã;"
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"",
+                     "versiculo":"fica com ele alguns dias, até que passe o furor de teu irmão,"
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"",
+                     "versiculo":"e cesse o seu rancor contra ti, e se esqueça do que lhe fizeste. Então, providenciarei e te farei regressar de lá. Por que hei de eu perder os meus dois filhos num só dia?"
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"Disse Rebeca a Isaque: Aborrecida estou da minha vida, por causa das filhas de Hete; se Jacó tomar esposa dentre as filhas de Hete, tais como estas, as filhas desta terra, de que me servirá a vida?"
                   }
                ]
             },
