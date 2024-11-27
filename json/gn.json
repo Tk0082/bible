@@ -4125,17 +4125,182 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":29,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Jacó encontra-se com Raquel",
+                     "versiculo":"Pôs-se Jacó a caminho e se foi à terra do povo do Oriente."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Olhou, e eis um poço no campo e três rebanhos de ovelhas deitados junto dele; porque daquele poço davam de beber aos rebanhos; e havia grande pedra que tapava a boca do poço."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Ajuntavam-se ali todos os rebanhos, os pastores removiam a pedra da boca do poço, davam de beber às ovelhas e tornavam a colocá-la no seu devido lugar."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Perguntou-lhes Jacó: Meus irmãos, donde sois? Responderam: Somos de Harã."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Perguntou-lhes: Conheceis a Labão, filho de Naor? Responderam: Conhecemos."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Ele está bom? Perguntou ainda Jacó. Responderam: Está bom. Raquel, sua filha, vem vindo aí com as ovelhas."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Então, lhes disse: É ainda pleno dia, não é tempo de se recolherem os rebanhos; dai de beber às ovelhas e ide apascentá-las."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Não o podemos, responderam eles, enquanto não se ajuntarem todos os rebanhos, e seja removida a pedra da boca do poço, e lhes demos de beber."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Falava-lhes ainda, quando chegou Raquel com as ovelhas de seu pai; porque era pastora."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Tendo visto Jacó a Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, chegou-se, removeu a pedra da boca do poço e deu de beber ao rebanho de Labão, irmão de sua mãe."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Feito isso, Jacó beijou a Raquel e, erguendo a voz, chorou."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Então, contou Jacó a Raquel que ele era parente de seu pai, pois era filho de Rebeca; ela correu e o comunicou a seu pai."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Tendo Labão ouvido as novas de Jacó, filho de sua irmã, correu-lhe ao encontro, abraçou-o, beijou-o e o levou para casa. E contou Jacó a Labão os acontecimentos de sua viagem."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Disse-lhe Labão: De fato, és meu osso e minha carne. E Jacó, pelo espaço de um mês, permaneceu com ele."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Depois, disse Labão a Jacó: Acaso, por seres meu parente, irás servir-me de graça? Dize-me, qual será o teu salário?"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Ora, Labão tinha duas filhas: Lia, a mais velha, e Raquel, a mais moça."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Lia tinha os olhos baços, porém Raquel era formosa de porte e de semblante."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Jacó amava a Raquel e disse: Sete anos te servirei por tua filha mais moça, Raquel."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Respondeu Labão: Melhor é que eu ta dê, em vez de dá-la a outro homem; fica, pois, comigo."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Assim, por amor a Raquel, serviu Jacó sete anos; e estes lhe pareceram como poucos dias, pelo muito que a amava."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"Lia e Raquel",
+                     "versiculo":"Disse Jacó a Labão: Dá-me minha mulher, pois já venceu o prazo, para que me case com ela."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Reuniu, pois, Labão todos os homens do lugar e deu um banquete."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"À noite, conduziu a Lia, sua filha, e a entregou a Jacó. E coabitaram."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"(Para serva de Lia, sua filha, deu Labão Zilpa, sua serva.)"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Ao amanhecer, viu que era Lia. Por isso, disse Jacó a Labão: Que é isso que me fizeste? Não te servi eu por amor a Raquel? Por que, pois, me enganaste? 32 Concebeu, pois, Lia e deu à luz um filho, a quem chamou Rúben, pois disse: O Senhor atendeu à minha aflição. Por isso, agora me amará meu marido."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Respondeu Labão: Não se faz assim em nossa terra, dar-se a mais nova antes da primogênita."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Decorrida a semana desta, dar-te-emos também a outra, pelo trabalho de mais sete anos que ainda me servirás."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Concordou Jacó, e se passou a semana desta; então, Labão lhe deu por mulher Raquel, sua filha."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"(Para serva de Raquel, sua filha, deu Labão a sua serva Bila.)"
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"E coabitaram. Mas Jacó amava mais a Raquel do que a Lia; e continuou servindo a Labão por outros sete anos."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"Os filhos de Jacó",
+                     "versiculo":"Vendo o Senhor que Lia era desprezada, fê-la fecunda; ao passo que Raquel era estéril."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Concebeu, pois, Lia e deu à luz um filho, a quem chamou Rúben, pois disse: O Senhor atendeu à minha aflição. Por isso, agora me amará meu marido."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Concebeu outra vez, e deu à luz um filho, e disse: Soube o Senhor que era preterida e me deu mais este; chamou-lhe, pois, Simeão."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Outra vez concebeu Lia, e deu à luz um filho, e disse: Agora, desta vez, se unirá mais a mim meu marido, porque lhe dei à luz três filhos; por isso, lhe chamou Levi."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"De novo concebeu e deu à luz um filho; então, disse: Esta vez louvarei o Senhor. E por isso lhe chamou Judá; e cessou de dar à luz."
                   }
                ]
             },
