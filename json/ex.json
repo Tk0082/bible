@@ -120,17 +120,132 @@
 					]
 				},
 				{
-					"capitulo":1,
+					"capitulo":2,
 					"versiculos":[
 						{
 							"numero":1,
-							"titulo":"",
-							"versiculo":""
+							"titulo":"Nascimento e educação de Moisés",
+							"versiculo":"Foi-se um homem da casa de Levi e casou com uma descendente de Levi."
 						},
 						{
-							"numero":1,
+							"numero":2,
 							"titulo":"",
-							"versiculo":""
+							"versiculo":"E a mulher concebeu e deu à luz um filho; e, vendo que era formoso, escondeu-o por três meses."
+						},
+						{
+							"numero":3,
+							"titulo":"",
+							"versiculo":"Não podendo, porém, escondê-lo por mais tempo, tomou um cesto de junco, calafetou-o com betume e piche e, pondo nele o menino, largou-o no carriçal à beira do rio."
+						},
+						{
+							"numero":4,
+							"titulo":"",
+							"versiculo":"A irmã do menino ficou de longe, para observar o que lhe haveria de suceder."
+						},
+						{
+							"numero":5,
+							"titulo":"",
+							"versiculo":"Desceu a filha de Faraó para se banhar no rio, e as suas donzelas passeavam pela beira do rio; vendo ela o cesto no carriçal, enviou a sua criada e o tomou."
+						},
+						{
+							"numero":6,
+							"titulo":"",
+							"versiculo":"Abrindo-o, viu a criança; e eis que o menino chorava. Teve compaixão dele e disse: Este é menino dos hebreus."
+						},
+						{
+							"numero":7,
+							"titulo":"",
+							"versiculo":"Então, disse sua irmã à filha de Faraó: Queres que eu vá chamar uma das hebreias que sirva de ama e te crie a criança?"
+						},
+						{
+							"numero":8,
+							"titulo":"",
+							"versiculo":"Respondeu-lhe a filha de Faraó: Vai. Saiu, pois, a moça e chamou a mãe do menino."
+						},
+						{
+							"numero":9,
+							"titulo":"",
+							"versiculo":"Então, lhe disse a filha de Faraó: Leva este menino e cria-mo; pagar-te-ei o teu salário. A mulher tomou o menino e o criou."
+						},
+						{
+							"numero":10,
+							"titulo":"",
+							"versiculo":"Sendo o menino já grande, ela o trouxe à filha de Faraó, da qual passou ele a ser filho. Esta lhe chamou Moisés e disse: Porque das águas o tirei."
+						},
+						{
+							"numero":11,
+							"titulo":"Moisés mata um egípcio e foge para Midiã",
+							"versiculo":"Naqueles dias, sendo Moisés já homem, saiu a seus irmãos e viu os seus labores penosos; e viu que certo egípcio espancava um hebreu, um do seu povo."
+						},
+						{
+							"numero":12,
+							"titulo":"",
+							"versiculo":"Olhou de um e de outro lado, e, vendo que não havia ali ninguém, matou o egípcio, e o escondeu na areia."
+						},
+						{
+							"numero":13,
+							"titulo":"",
+							"versiculo":"Saiu no dia seguinte, e eis que dois hebreus estavam brigando; e disse ao culpado: Por que espancas o teu próximo?"
+						},
+						{
+							"numero":14,
+							"titulo":"",
+							"versiculo":"O qual respondeu: Quem te pôs por príncipe e juiz sobre nós? Pensas matar-me, como mataste o egípcio? Temeu, pois, Moisés e disse: Com certeza o descobriram."
+						},
+						{
+							"numero":15,
+							"titulo":"",
+							"versiculo":"Informado desse caso, procurou Faraó matar a Moisés; porém Moisés fugiu da presença de Faraó e se deteve na terra de Midiã; e assentou-se junto a um poço."
+						},
+						{
+							"numero":16,
+							"titulo":"",
+							"versiculo":"O sacerdote de Midiã tinha sete filhas, as quais vieram a tirar água e encheram os bebedouros para dar de beber ao rebanho de seu pai."
+						},
+						{
+							"numero":17,
+							"titulo":"",
+							"versiculo":"Então, vieram os pastores e as enxotaram dali; Moisés, porém, se levantou, e as defendeu, e deu de beber ao rebanho."
+						},
+						{
+							"numero":18,
+							"titulo":"",
+							"versiculo":"Tendo elas voltado a Reuel, seu pai, este lhes perguntou: Por que viestes, hoje, mais cedo?"
+						},
+						{
+							"numero":19,
+							"titulo":"",
+							"versiculo":"Responderam elas: Um egípcio nos livrou das mãos dos pastores, e ainda nos tirou água, e deu de beber ao rebanho."
+						},
+						{
+							"numero":20,
+							"titulo":"",
+							"versiculo":"E onde está ele?, disse às filhas; por que deixastes lá o homem? Chamai-o para que coma pão."
+						},
+						{
+							"numero":21,
+							"titulo":"",
+							"versiculo":"Moisés consentiu em morar com aquele homem; e ele deu a Moisés sua filha Zípora,"
+						},
+						{
+							"numero":22,
+							"titulo":"",
+							"versiculo":"a qual deu à luz um filho, a quem ele chamou Gérson, porque disse: Sou peregrino em terra estranha."
+						},
+						{
+							"numero":23,
+							"titulo":"A morte do rei do Egito",
+							"versiculo":"Decorridos muitos dias, morreu o rei do Egito; os filhos de Israel gemiam sob a servidão e por causa dela clamaram, e o seu clamor subiu a Deus."
+						},
+						{
+							"numero":24,
+							"titulo":"",
+							"versiculo":"Ouvindo Deus o seu gemido, lembrou-se da sua aliança com Abraão, com Isaque e com Jacó."
+						},
+						{
+							"numero":25,
+							"titulo":"",
+							"versiculo":"E viu Deus os filhos de Israel e atentou para a sua condição."
 						}
 					]
 				},
