@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE-Edge">
+		<title>Bíblia Sagrada - ARA</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css" />
+		<link rel="icon" type="image/icon" href="../img/icon.ico" />
+	</head>
+	<body>
+		<div id="topbar">
+			<h1><a href="https://tk0082.github.io/bible/">Bíblia Sagrada - ARA</a></h1>
+			<img class="search" src="../img/search_ico.png" onClick="openSearch()"/>
+		</div>
+		<div id="popup-search">
+			<img class="close" src="../img/close.png" onClick="closeSearch()"/>
+			<div class="psearch">
+				<input class="inpt"></input>
+			</div>
+		</div>
+
+		<div id="wrap">
+			<div id="ready">
+			
+			</div>
+			<script>
+			let divContent = document.querySelector("#ready")
+
+			fetch("https://tk0082.github.io/bible/json/2sm.json").then((response) => {
+				response.json().then((dados) => {
+					dados.livro.map((cap) => {
+						cap.capitulos.map((versic) => {
+							divContent.innerHTML += `<br><br><h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><hr color="#ffba00"><br>`
+							versic.versiculos.map((tx) => {
+								console.log(tx);
+								if(tx.titulo != ""){	<!-- Se tiver título, escreve; caso não tenha, apenas versiculo -->
+									divContent.innerHTML += `<br><h3 class="txtitulo">${tx.titulo}</h3><br>`
+									divContent.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
+								} else {
+									divContent.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
+								}
+
+							})
+						})
+					})
+				})
+			})
+			</script>
+		</div>
+		<footer id="liv" class="blur" >
+
+		</footer>
+		<script>
+			function openSearch() {
+				document.getElementById("popup-search").style.display = "flex"
+			}
+			function closeSearch() {
+				document.getElementById("popup-search").style.display = "none";
+			}
+			
+			let divLivros = document.querySelector("#liv")
+			fetch("https://tk0082.github.io/bible/json/livros.json").then((response) => {
+				response.json().then((dados) => {
+					divLivros.innerHTML += `<div id="divliv">`
+					dados.livros.map((livro) => {
+						divLivros.innerHTML += `<br><h2 id="nomeliv">${livro.posit}</h2>`
+						divLivros.innerHTML += `<hr><br>`
+						livro.nomes.map((nm) => {
+                     divLivros.innerHTML += `<p class="txtitulo"><a class="lnkcap" href="${nm.lnk}" >${nm.abrev}</a></p>`
+							if ( nm.nome == 2){
+								divLivros.innerHTML += `<br>`
+							}
+						})
+					})
+					divLivros.innerHTML += `</div>`
+				})
+			})
+		</script>
+	</body>
+	<script type="text/javascript" src="../script/jquery.js"></script>
+   <script type="text/javascript" src="../script/rolatopo.js"></script>
+</html>

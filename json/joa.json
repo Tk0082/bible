@@ -1,0 +1,25 @@
+{
+   "livro":[
+      {
+         "nome":"João",
+         "autor":"",
+         "capitulos":[
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
