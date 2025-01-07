@@ -9,6 +9,341 @@
                "versiculos":[
                   {
                      "numero":1,
+                     "titulo":"Deus manda levantar o censo de Israel",
+                     "versiculo":"No segundo ano após a saída dos filhos de Israel do Egito, no primeiro dia do segundo mês, falou o Senhor a Moisés, no deserto do Sinai, na tenda da congregação, dizendo:"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Levantai o censo de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, contando todos os homens, nominalmente, cabeça por cabeça."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Da idade de vinte anos para cima, todos os capazes de sair à guerra em Israel, a esses contareis segundo os seus exércitos, tu e Arão."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"De cada tribo vos assistirá um homem que seja cabeça da casa de seus pais."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Estes, pois, são os nomes dos homens que vos assistirão: de Rúben, Elizur, filho de Sedeur;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"de Simeão, Selumiel, filho de Zurisadai;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"de Judá, Naassom, filho de Aminadabe;"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"de Issacar, Natanael, filho de Zuar;"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"de Zebulom, Eliabe, filho de Helom;"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"dos filhos de José: de Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"de Benjamim, Abidã, filho de Gideoni;"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"de Dã, Aiezer, filho de Amisadai;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"de Aser, Pagiel, filho de Ocrã;"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"de Gade, Eliasafe, filho de Deuel;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"de Naftali, Aira, filho de Enã."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Estes foram os chamados da congregação, os príncipes das tribos de seus pais, os cabeças dos milhares de Israel."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Então, Moisés e Arão tomaram estes homens, que foram designados pelos seus nomes."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"E, tendo ajuntado toda a congregação no primeiro dia do mês segundo, declararam a descendência deles, segundo as suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, cabeça por cabeça."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Como o Senhor ordenara a Moisés, assim os contou no deserto do Sinai."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Rúben, o primogênito de Israel, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, cabeça por cabeça, todos os homens de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Rúben, quarenta e seis mil e quinhentos."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Simeão, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, cabeça por cabeça, todos os homens de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Simeão, cinquenta e nove mil e trezentos."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Gade, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Gade, quarenta e cinco mil seiscentos e cinquenta."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Judá, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Judá, setenta e quatro mil e seiscentos."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Issacar, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Zebulom, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Zebulom, cinquenta e sete mil e quatrocentos."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de José, dos filhos de Efraim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Efraim, quarenta mil e quinhentos."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Manassés, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Manassés, trinta e dois mil e duzentos."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Benjamim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos."
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Dã, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Dã, sessenta e dois mil e setecentos."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Aser, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Aser, quarenta e um mil e quinhentos."
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"foram contados deles, da tribo de Naftali, cinquenta e três mil e quatrocentos."
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"",
+                     "versiculo":"Foram estes os contados, contados por Moisés e Arão; e os príncipes de Israel eram doze homens; cada um era pela casa de seus pais."
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"",
+                     "versiculo":"Assim, pois, todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos para cima, todos os capazes de sair à guerra,"
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"todos os contados foram seiscentos e três mil quinhentos e cinquenta."
+                  },
+                  {
+                     "numero":47,
+                     "titulo":"Os levitas não são contados",
+                     "versiculo":"Mas os levitas, segundo a tribo de seus pais, não foram contados entre eles,"
+                  },
+                  {
+                     "numero":48,
+                     "titulo":"",
+                     "versiculo":"porquanto o Senhor falara a Moisés, dizendo:"
+                  },
+                  {
+                     "numero":49,
+                     "titulo":"",
+                     "versiculo":"Somente não contarás a tribo de Levi, nem levantarás o censo deles entre os filhos de Israel;"
+                  },
+                  {
+                     "numero":50,
+                     "titulo":"",
+                     "versiculo":"mas incumbe tu os levitas de cuidarem do tabernáculo do Testemunho, e de todos os seus utensílios, e de tudo o que lhe pertence; eles levarão o tabernáculo e todos os seus utensílios; eles ministrarão no tabernáculo e acampar-se-ão ao redor dele."
+                  },
+                  {
+                     "numero":51,
+                     "titulo":"",
+                     "versiculo":"Quando o tabernáculo partir, os levitas o desarmarão; e, quando assentar no arraial, os levitas o armarão; o estranho que se aproximar morrerá."
+                  },
+                  {
+                     "numero":52,
+                     "titulo":"",
+                     "versiculo":"Os filhos de Israel se acamparão, cada um no seu arraial e cada um junto ao seu estandarte, segundo as suas turmas."
+                  },
+                  {
+                     "numero":53,
+                     "titulo":"",
+                     "versiculo":"Mas os levitas se acamparão ao redor do tabernáculo do Testemunho, para que não haja ira sobre a congregação dos filhos de Israel; pelo que os levitas tomarão a si o cuidar do tabernáculo do Testemunho."
+                  },
+                  {
+                     "numero":54,
+                     "titulo":"",
+                     "versiculo":"Assim fizeram os filhos de Israel; segundo tudo o que o Senhor ordenara a Moisés, assim o fizeram."
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
                      "titulo":"",
                      "versiculo":""
                   },
