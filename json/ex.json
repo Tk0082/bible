@@ -525,17 +525,122 @@
 					]
 				},
 				{
-					"capitulo":1,
+					"capitulo":5,
 					"versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Moisés e Arão falam a Faraó",
+                     "versiculo":"Depois, foram Moisés e Arão e disseram a Faraó: Assim diz o Senhor, Deus de Israel: Deixa ir o meu povo, para que me celebre uma festa no deserto."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Respondeu Faraó: Quem é o Senhor para que lhe ouça eu a voz e deixe ir a Israel? Não conheço o Senhor, nem tampouco deixarei ir a Israel."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Eles prosseguiram: O Deus dos hebreus nos encontrou; deixa-nos ir, pois, caminho de três dias ao deserto, para que ofereçamos sacrifícios ao Senhor, nosso Deus, e não venha ele sobre nós com pestilência ou com espada."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Então, lhes disse o rei do Egito: Por que, Moisés e Arão, por que interrompeis o povo no seu trabalho? Ide às vossas tarefas."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Disse também Faraó: O povo da terra já é muito, e vós o distraís das suas tarefas."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"Faraó aflinge os israelitas",
+                     "versiculo":"Naquele mesmo dia, pois, deu ordem Faraó aos superintendentes do povo e aos seus capatazes, dizendo:"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Daqui em diante não torneis a dar palha ao povo, para fazer tijolos, como antes; eles mesmos que vão e ajuntem para si a palha."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"E exigireis deles a mesma conta de tijolos que antes faziam; nada diminuireis dela; estão ociosos e, por isso, clamam: Vamos e sacrifiquemos ao nosso Deus."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Agrave-se o serviço sobre esses homens, para que nele se apliquem e não deem ouvidos a palavras mentirosas."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Então, saíram os superintendentes do povo e seus capatazes e falaram ao povo: Assim diz Faraó: Não vos darei palha."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Ide vós mesmos e ajuntai palha onde a puderdes achar; porque nada se diminuirá do vosso trabalho."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Então, o povo se espalhou por toda a terra do Egito a ajuntar restolho em lugar de palha."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Os superintendentes os apertavam, dizendo: Acabai vossa obra, a tarefa do dia, como quando havia palha."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"E foram açoitados os capatazes dos filhos de Israel, que os superintendentes de Faraó tinham posto sobre eles; e os superintendentes lhes diziam: Por que não acabastes nem ontem, nem hoje a vossa tarefa, fazendo tijolos como antes?"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"Os israelitas queixam-se de Moisés e Arão",
+                     "versiculo":"Então, foram os capatazes dos filhos de Israel e clamaram a Faraó, dizendo: Por que tratas assim a teus servos?"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Palha não se dá a teus servos, e nos dizem: Fazei tijolos. Eis que teus servos são açoitados; porém o teu próprio povo é que tem a culpa."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Mas ele respondeu: Estais ociosos, estais ociosos; por isso, dizeis: Vamos, sacrifiquemos ao Senhor."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Ide, pois, agora, e trabalhai; palha, porém, não se vos dará; contudo, dareis a mesma quantidade de tijolos."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Então, os capatazes dos filhos de Israel se viram em aperto, porquanto se lhes dizia: Nada diminuireis dos vossos tijolos, da vossa tarefa diária."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Quando saíram da presença de Faraó, encontraram Moisés e Arão, que estavam à espera deles;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"e lhes disseram: Olhe o Senhor para vós outros e vos julgue, porquanto nos fizestes odiosos aos olhos de Faraó e diante dos seus servos, dando-lhes a espada na mão para nos matar."
+                  },
 						{
-							"numero":1,
+							"numero":22,
 							"titulo":"",
-							"versiculo":""
+							"versiculo":"Então, Moisés, tornando-se ao Senhor, disse: Ó Senhor, por que afligiste este povo? Por que me enviaste?"
 						},
 						{
-							"numero":1,
+							"numero":23,
 							"titulo":"",
-							"versiculo":""
+							"versiculo":"Pois, desde que me apresentei a Faraó, para falar-lhe em teu nome, ele tem maltratado este povo; e tu, de nenhuma sorte, livraste o teu povo."
 						}
 					]
 				},
