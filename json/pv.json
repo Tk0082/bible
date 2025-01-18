@@ -730,17 +730,182 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":6,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Advertência contra o servir de fiador",
+                     "versiculo":"Filho meu, se ficaste por fiador do teu companheiro e se te empenhaste ao estranho,"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"estás enredado com o que dizem os teus lábios, estás preso com as palavras da tua boca."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, faze isto, filho meu, e livra-te, pois caíste nas mãos do teu companheiro: vai, prostra-te e importuna o teu companheiro;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"não dês sono aos teus olhos, nem repouso às tuas pálpebras;"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"livra-te, como a gazela, da mão do caçador e, como a ave, da mão do passarinheiro."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"Advertência contra a preguiça",
+                     "versiculo":"Vai ter com a formiga, ó preguiçoso, considera os seus caminhos e sê sábio."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Não tendo ela chefe, nem oficial, nem comandante,"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"no estio, prepara o seu pão, na sega, ajunta o seu mantimento."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Ó preguiçoso, até quando ficarás deitado? Quando te levantarás do teu sono?"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Um pouco para dormir, um pouco para tosquenejar, um pouco para encruzar os braços em repouso,"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"assim sobrevirá a tua pobreza como um ladrão, e a tua necessidade, como um homem armado."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"Advertência contra a maldade",
+                     "versiculo":"O homem de Belial, o homem vil, é o que anda com a perversidade na boca,"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"acena com os olhos, arranha com os pés e faz sinais com os dedos."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"No seu coração há perversidade; todo o tempo maquina o mal; anda semeando contendas."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Pelo que a sua destruição virá repentinamente; subitamente, será quebrantado, sem que haja cura."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Seis coisas o Senhor aborrece, e a sétima a sua alma abomina:"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"olhos altivos, língua mentirosa, mãos que derramam sangue inocente,"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"coração que trama projetos iníquos, pés que se apressam a correr para o mal,"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"testemunha falsa que profere mentiras e o que semeia contendas entre irmãos."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"Advertência contra a mulher adúltera",
+                     "versiculo":"Filho meu, guarda o mandamento de teu pai e não deixes a instrução de tua mãe;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"ata-os perpetuamente ao teu coração, pendura-os ao pescoço."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Quando caminhares, isso te guiará; quando te deitares, te guardará; quando acordares, falará contigo."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Porque o mandamento é lâmpada, e a instrução, luz; e as repreensões da disciplina são o caminho da vida;"
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"para te guardarem da vil mulher e das lisonjas da mulher alheia."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Não cobices no teu coração a sua formosura, nem te deixes prender com as suas olhadelas."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Por uma prostituta o máximo que se paga é um pedaço de pão, mas a adúltera anda à caça de vida preciosa."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Tomará alguém fogo no seio, sem que as suas vestes se incendeiem?"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Ou andará alguém sobre brasas, sem que se queimem os seus pés?"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Assim será com o que se chegar à mulher do seu próximo; não ficará sem castigo todo aquele que a tocar."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Não é certo que se despreza o ladrão, quando furta para saciar-se, tendo fome?"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Pois este, quando encontrado, pagará sete vezes tanto; entregará todos os bens de sua casa."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"O que adultera com uma mulher está fora de si; só mesmo quem quer arruinar-se é que pratica tal coisa."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Achará açoites e infâmia, e o seu opróbrio nunca se apagará."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Porque o ciúme excita o furor do marido; e não terá compaixão no dia da vingança."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"Não se contentará com o resgate, nem aceitará presentes, ainda que sejam muitos."
                   }
                ]
             },
