@@ -204,6 +204,19 @@ html{
 	font-style: bold;
 	font-weight: 800;
 }
+#list-livros{
+   z-index: 2;
+   position: relative; 
+   width: 100%;
+   display: inline-block; 
+   float: center; 
+   background: rgba(255,186,0,.6); 
+   border-radius: 10px; 
+   margin: 80px auto; 
+   padding: 20px 10px; 
+   box-shadow: 0 0 1px rgba(255,186,0,.4);
+   justify-content: center;
+}
 .lnkcap{
 	width: 50px;
 	margin: 10px;
@@ -226,4 +239,29 @@ html{
 	color: rgba(0,0,0,.8);
 	margin-top: 8px;
 	transition: .3s;
+}
+#fut{
+   z-index: 2;
+   position: relative; 
+   width:98%; 
+   bottom: 0px;
+   height: 80px; 
+   background: rgba(0,0,0,.5); 
+	border-radius: 10px 10px 0 0;
+   box-shadow: 0 0 10px rgba(255,186,0,.4);
+   margin: 20px auto 0 auto;
+   padding: 20px 0 0 0;
+   vertical-align: middle;
+}
+#fut p, pre {
+   position: relative;
+   text-align: center;
+   color: #ffba00;
+   vertical-align: middle
+}
+.ico {
+   width: 16px;
+   height: 16px;
+   margin: 0 0 -5px 0;
+   padding: 15px 0 0  0
 }
