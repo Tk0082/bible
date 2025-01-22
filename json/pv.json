@@ -1330,17 +1330,167 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":10,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"O justo em contraste com o perverso",
+                     "versiculo":"Provérbios de Salomão. O filho sábio alegra a seu pai, mas o filho insensato é a tristeza de sua mãe."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Os tesouros da impiedade de nada aproveitam, mas a justiça livra da morte."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"O Senhor não deixa ter fome o justo, mas rechaça a avidez dos perversos."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"O que trabalha com mão remissa empobrece, mas a mão dos diligentes vem a enriquecer-se."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"O que ajunta no verão é filho sábio, mas o que dorme na sega é filho que envergonha."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Sobre a cabeça do justo há bênçãos, mas na boca dos perversos mora a violência."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"A memória do justo é abençoada, mas o nome dos perversos cai em podridão."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"O sábio de coração aceita os mandamentos, mas o insensato de lábios vem a arruinar-se."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"O que acena com os olhos traz desgosto, e o insensato de lábios vem a arruinar-se."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"A boca do justo é manancial de vida, mas na boca dos perversos mora a violência."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"O ódio excita contendas, mas o amor cobre todas as transgressões."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Nos lábios do prudente, se acha sabedoria, mas a vara é para as costas do falto de senso."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Os sábios entesouram o conhecimento, mas a boca do néscio é uma ruína iminente."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Os bens do rico são a sua cidade forte; a pobreza dos pobres é a sua ruína."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"A obra do justo conduz à vida, e o rendimento do perverso, ao pecado."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"O caminho para a vida é de quem guarda o ensino, mas o que abandona a repreensão anda errado."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"O que retém o ódio é de lábios falsos, e o que difama é insensato."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"No muito falar não falta transgressão, mas o que modera os lábios é prudente."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Prata escolhida é a língua do justo, mas o coração dos perversos vale mui pouco."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Os lábios do justo apascentam a muitos, mas, por falta de senso, morrem os tolos."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"A bênção do Senhor enriquece, e, com ela, ele não traz desgosto."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Para o insensato, praticar a maldade é divertimento; para o homem inteligente, o ser sábio."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Aquilo que teme o perverso, isso lhe sobrevém, mas o anelo dos justos Deus o cumpre."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Como passa a tempestade, assim desaparece o perverso, mas o justo tem perpétuo fundamento."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Como vinagre para os dentes e fumaça para os olhos, assim é o preguiçoso para aqueles que o mandam."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"O temor do Senhor prolonga os dias da vida, mas os anos dos perversos serão abreviados."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"A esperança dos justos é alegria, mas a expectação dos perversos perecerá."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"O caminho do Senhor é fortaleza para os íntegros, mas ruína aos que praticam a iniquidade."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"O justo jamais será abalado, mas os perversos não habitarão a terra."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"A boca do justo produz sabedoria, mas a língua da perversidade será desarraigada."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Os lábios do justo sabem o que agrada, mas a boca dos perversos, somente o mal."
                   }
                ]
             },
