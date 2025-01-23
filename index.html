@@ -28,7 +28,7 @@
 
       <footer id='fut'>
 	      <p> &copy; 2023 - Tk0082 </p>
-         <pre><a href="https://github.com/Tk0082" target='' ><p><img class='ico' src='img/ic_github.png'> github.com/Tk0082</a>     |     <a href="https://mailto:tk0082@hotmail.com" target='' ><img class='ico' src='img/ic_mail.png' > tk0082@hotmail.com</a></p></pre>
+         <pre><a href="https://github.com/Tk0082" target='' ><p><img class='ico' src='img/ic_github.png'>   GitHub</a>     |     <a href="mailto:tk0082@hotmail.com?subject=Bible-ARA&cc=copia@mail.com.br&body=Conteúdo do email" target='' ><img class='ico' src='img/ic_mail.png' >   E-Mail</a></p></pre>
       </footer>
 		<script>
 			function openSearch() {
@@ -68,7 +68,7 @@
 				response.json().then((dados) => {
 					dados.livros.map((livro) => {
                   divLivros.innerHTML += `<br><div style="margin:5px;"><h2 id="nomeliv">${livro.posit}</h2></div>`
-                  divLivros.innerHTML += `<br><hr>`
+                  divLivros.innerHTML += `<hr>`
 
 						livro.nomes.map((nm) => {
                      divLivros.innerHTML += `<p class="txtitulo"><a class="lnkcap" href="${nm.lnk}" >${nm.abrev}</a></p>`

@@ -46,7 +46,7 @@ html{
 	margin: 0 20px;
 }
 #topbar{
-	z-index: 0;
+	z-index: 10;
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -160,9 +160,11 @@ html{
 	box-shadow: 0 2px 4px rgba(0,0,0,,4);
 }
 #wrap{
+   z-index:0;
 	width: 95%;
-	height: 85%;
-	margin: 10px auto;
+	height: 100%;
+	margin: 0 auto;
+   justify-content: center;
 }
 #ready{
 	padding: 20px 10px;
@@ -172,12 +174,13 @@ html{
 	z-index: 0;
 	width: 96%;
 	height: 20px;
-	margin: 0 10px;
+	margin: 0 auto;
 	bottom: 0;
+   display: inline-block;
+   align: center;
 	border-radius: 10px 10px 0 0;
 	padding: 10px 50px;
 	background: rgba(255,186,0,.8);
-	display: inline-block;
 	justify-content: center;
 	transition: .5s;
 }
@@ -205,15 +208,15 @@ html{
 	font-weight: 800;
 }
 #list-livros{
-   z-index: 2;
+   z-index: 0;
    position: relative; 
    width: 100%;
-   display: inline-block; 
-   float: center; 
    background: rgba(255,186,0,.6); 
    border-radius: 10px; 
    margin: 80px auto; 
-   padding: 20px 10px; 
+   padding: 20px 10px;
+   display: inline-block;
+   float: center;
    box-shadow: 0 0 1px rgba(255,186,0,.4);
    justify-content: center;
 }
@@ -241,7 +244,7 @@ html{
 	transition: .3s;
 }
 #fut{
-   z-index: 2;
+   z-index: 0;
    position: relative; 
    width:98%; 
    bottom: 0px;
