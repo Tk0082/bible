@@ -345,17 +345,132 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":4,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A tentação de Jesus (Mc 1.12-13; Lc 4.1-13)",
+                     "versiculo":"A seguir, foi Jesus levado pelo Espírito ao deserto, para ser tentado pelo diabo."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"E, depois de jejuar quarenta dias e quarenta noites, teve fome."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Então, o tentador, aproximando-se, lhe disse: Se és Filho de Deus, manda que estas pedras se transformem em pães."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Jesus, porém, respondeu: Está escrito: Não só de pão viverá o homem, mas de toda palavra que procede da boca de Deus."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Então, o diabo o levou à Cidade Santa, colocou-o sobre o pináculo do templo"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"e lhe disse: Se és Filho de Deus, atira-te abaixo, porque está escrito: Aos seus anjos ordenará a teu respeito que te guardem; e: Eles te susterão nas suas mãos, para não tropeçares nalguma pedra."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Respondeu-lhe Jesus: Também está escrito: Não tentarás o Senhor, teu Deus."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Levou-o ainda o diabo a um monte muito alto, mostrou-lhe todos os reinos do mundo e a glória deles"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"e lhe disse: Tudo isto te darei se, prostrado, me adorares."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Então, Jesus lhe ordenou: Retira-te, Satanás, porque está escrito: Ao Senhor, teu Deus, adorarás, e só a ele darás culto."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Com isto, o deixou o diabo, e eis que vieram anjos e o serviram."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"Jesus volta para a Galileia (Mc 1.14-15; Lc 4.14-15)",
+                     "versiculo":"Ouvindo, porém, Jesus que João fora preso, retirou-se para a Galileia;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"e, deixando Nazaré, foi morar em Cafarnaum, situada à beira-mar, nos confins de Zebulom e Naftali;"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"para que se cumprisse o que fora dito por intermédio do profeta Isaías:"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Terra de Zebulom, terra de Naftali, caminho do mar, além do Jordão, Galileia dos gentios!"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"O povo que jazia em trevas viu grande luz, e aos que viviam na região e sombra da morte resplandeceu-lhes a luz."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Daí por diante, passou Jesus a pregar e a dizer: Arrependei-vos, porque está próximo o reino dos céus."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"A vocação de discípulos (Mc 1.16-20; Lc 5.1-11)",
+                     "versiculo":"Caminhando junto ao mar da Galileia, viu dois irmãos, Simão, chamado Pedro, e André, que lançavam as redes ao mar, porque eram pescadores."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"E disse-lhes: Vinde após mim, e eu vos farei pescadores de homens."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Então, eles deixaram imediatamente as redes e o seguiram."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Passando adiante, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, que estavam no barco em companhia de seu pai, consertando as redes; e chamou-os."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Então, eles, no mesmo instante, deixando o barco e seu pai, o seguiram."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"Jesus prega por toda a Galileia e cura muitos enfermos (Lc 6.17-19)",
+                     "versiculo":"Percorria Jesus toda a Galileia, ensinando nas sinagogas, pregando o evangelho do reino e curando toda sorte de doenças e enfermidades entre o povo."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"E a sua fama correu por toda a Síria; trouxeram-lhe, então, todos os doentes, acometidos de várias enfermidades e tormentos: endemoninhados, lunáticos e paralíticos. E ele os curou."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"E da Galileia, Decápolis, Jerusalém, Judeia e dalém do Jordão numerosas multidões o seguiam."
                   }
                ]
             },
