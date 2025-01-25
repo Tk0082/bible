@@ -9,7 +9,7 @@
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"A genealogia de Jesus Cristo\nLc 3.23-38",
+                     "titulo":"A genealogia de Jesus Cristo (Lc 3.23-38)",
                      "versiculo":"Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
                   },
                   {
@@ -94,7 +94,7 @@
                   },
                   {
                      "numero":18,
-                     "titulo":"O nascimento de Jesus Cristo\nLc 2.1-7",
+                     "titulo":"O nascimento de Jesus Cristo (Lc 2.1-7)",
                      "versiculo":"Ora, o nascimento de Jesus Cristo foi assim: estando Maria, sua mãe, desposada com José, sem que tivessem antes coabitado, achou-se grávida pelo Espírito Santo."
                   },
                   {
@@ -135,17 +135,122 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":2,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A visita dos magos",
+                     "versiculo":"Tendo Jesus nascido em Belém da Judeia, em dias do rei Herodes, eis que vieram uns magos do Oriente a Jerusalém."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"E perguntavam: Onde está o recém-nascido Rei dos judeus? Porque vimos a sua estrela no Oriente e viemos para adorá-lo."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Tendo ouvido isso, alarmou-se o rei Herodes, e, com ele, toda a Jerusalém;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":."então, convocando todos os principais sacerdotes e escribas do povo, indagava deles onde o Cristo deveria nascer."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Em Belém da Judeia, responderam eles, porque assim está escrito por intermédio do profeta:"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"E tu, Belém, terra de Judá, não és de modo algum a menor entre as principais de Judá; porque de ti sairá o Guia que há de apascentar a meu povo, Israel."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Com isto, Herodes, tendo chamado secretamente os magos, inquiriu deles com precisão quanto ao tempo em que a estrela aparecera."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"E, enviando-os a Belém, disse-lhes: Ide informar-vos cuidadosamente a respeito do menino; e, quando o tiverdes encontrado, avisai-me, para eu também ir adorá-lo."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Depois de ouvirem o rei, partiram; e eis que a estrela que viram no Oriente os precedia, até que, chegando, parou sobre onde estava o menino."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"E, vendo eles a estrela, alegraram-se com grande e intenso júbilo."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Entrando na casa, viram o menino com Maria, sua mãe. Prostrando-se, o adoraram; e, abrindo os seus tesouros, entregaram-lhe suas ofertas: ouro, incenso e mirra."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Sendo por divina advertência prevenidos em sonho para não voltarem à presença de Herodes, regressaram por outro caminho a sua terra."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"A fuga para o Egito",
+                     "versiculo":"Tendo eles partido, eis que apareceu um anjo do Senhor a José, em sonho, e disse: Dispõe-te, toma o menino e sua mãe, foge para o Egito e permanece lá até que eu te avise; porque Herodes há de procurar o menino para o matar."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Dispondo-se ele, tomou de noite o menino e sua mãe e partiu para o Egito;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"e lá ficou até à morte de Herodes, para que se cumprisse o que fora dito pelo Senhor, por intermédio do profeta: Do Egito chamei o meu Filho."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"A matança dos inocentes",
+                     "versiculo":"Vendo-se iludido pelos magos, enfureceu-se Herodes grandemente e mandou matar todos os meninos de Belém e de todos os seus arredores, de dois anos para baixo, conforme o tempo do qual com precisão se informara dos magos."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Então, se cumpriu o que fora dito por intermédio do profeta Jeremias:"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Ouviu-se um clamor em Ramá, pranto, [choro] e grande lamento; era Raquel chorando por seus filhos e inconsolável porque não mais existem."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"A volta do Egito",
+                     "versiculo":"Tendo Herodes morrido, eis que um anjo do Senhor apareceu em sonho a José, no Egito, e disse-lhe:"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Dispõe-te, toma o menino e sua mãe e vai para a terra de Israel; porque já morreram os que atentavam contra a vida do menino."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Dispôs-se ele, tomou o menino e sua mãe e regressou para a terra de Israel."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Tendo, porém, ouvido que Arquelau reinava na Judeia em lugar de seu pai Herodes, temeu ir para lá; e, por divina advertência prevenido em sonho, retirou-se para as regiões da Galileia."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"E foi habitar numa cidade chamada Nazaré, para que se cumprisse o que fora dito por intermédio dos profetas: Ele será chamado Nazareno."
                   }
                ]
             },
