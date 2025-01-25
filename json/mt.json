@@ -9,6 +9,226 @@
                "versiculos":[
                   {
                      "numero":1,
+                     "titulo":"A genealogia de Jesus Cristo\nLc 3.23-38",
+                     "versiculo":"Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Abraão gerou a Isaque; Isaque, a Jacó; Jacó, a Judá e a seus irmãos;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Judá gerou de Tamar a Perez e a Zera; Perez gerou a Esrom; Esrom, a Arão;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Arão gerou a Aminadabe; Aminadabe, a Naassom; Naassom, a Salmom;"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Salmom gerou de Raabe a Boaz; este, de Rute, gerou a Obede; e Obede, a Jessé;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Jessé gerou ao rei Davi; e o rei Davi, a Salomão, da que fora mulher de Urias;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Salomão gerou a Roboão; Roboão, a Abias; Abias, a Asa;"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Asa gerou a Josafá; Josafá, a Jorão; Jorão, a Uzias;"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Uzias gerou a Jotão; Jotão, a Acaz; Acaz, a Ezequias;"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Ezequias gerou a Manassés; Manassés, a Amom; Amom, a Josias;"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Josias gerou a Jeconias e a seus irmãos, no tempo do exílio na Babilônia."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Depois do exílio na Babilônia, Jeconias gerou a Salatiel; e Salatiel, a Zorobabel;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Zorobabel gerou a Abiúde; Abiúde, a Eliaquim; Eliaquim, a Azor;"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Azor gerou a Sadoque; Sadoque, a Aquim; Aquim, a Eliúde;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Eliúde gerou a Eleazar; Eleazar, a Matã; Matã, a Jacó."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"E Jacó gerou a José, marido de Maria, da qual nasceu Jesus, que se chama o Cristo."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"De sorte que todas as gerações, desde Abraão até Davi, são catorze; desde Davi até ao exílio na Babilônia, catorze; e desde o exílio na Babilônia até Cristo, catorze."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"O nascimento de Jesus Cristo\nLc 2.1-7",
+                     "versiculo":"Ora, o nascimento de Jesus Cristo foi assim: estando Maria, sua mãe, desposada com José, sem que tivessem antes coabitado, achou-se grávida pelo Espírito Santo."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Mas José, seu esposo, sendo justo e não a querendo infamar, resolveu deixá-la secretamente."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Enquanto ponderava nestas coisas, eis que lhe apareceu, em sonho, um anjo do Senhor, dizendo: José, filho de Davi, não temas receber Maria, tua mulher, porque o que nela foi gerado é do Espírito Santo."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Ela dará à luz um filho e lhe porás o nome de Jesus, porque ele salvará o seu povo dos pecados deles."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Ora, tudo isto aconteceu para que se cumprisse o que fora dito pelo Senhor por intermédio do profeta:"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Eis que a virgem conceberá e dará à luz um filho, e ele será chamado pelo nome de Emanuel (que quer dizer: Deus conosco)."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Despertado José do sono, fez como lhe ordenara o anjo do Senhor e recebeu sua mulher."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Contudo, não a conheceu, enquanto ela não deu à luz um filho, a quem pôs o nome de Jesus."
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  },
+                  {
+                     "numero":1,
+                     "titulo":"",
+                     "versiculo":""
+                  }
+               ]
+            },
+            {
+               "capitulo":1,
+               "versiculos":[
+                  {
+                     "numero":1,
                      "titulo":"",
                      "versiculo":""
                   },
