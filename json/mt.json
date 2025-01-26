@@ -720,17 +720,177 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":6,
                "versiculos":[
                   {
                      "numero":1,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Guardai-vos de exercer a vossa justiça diante dos homens, com o fim de serdes vistos por eles; doutra sorte, não tereis galardão junto de vosso Pai celeste."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
+                     "titulo":"Como se deve dar esmolas",
+                     "versiculo":"Quando, pois, deres esmola, não toques trombeta diante de ti, como fazem os hipócritas, nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que eles já receberam a recompensa."
+                  },
+                  {
+                     "numero":3,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Tu, porém, ao dares a esmola, ignore a tua mão esquerda o que faz a tua mão direita;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"para que a tua esmola fique em secreto; e teu Pai, que vê em secreto, te recompensará."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"Como se deve orar",
+                     "versiculo":"E, quando orardes, não sereis como os hipócritas; porque gostam de orar em pé nas sinagogas e nos cantos das praças, para serem vistos dos homens. Em verdade vos digo que eles já receberam a recompensa."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Tu, porém, quando orares, entra no teu quarto e, fechada a porta, orarás a teu Pai, que está em secreto; e teu Pai, que vê em secreto, te recompensará."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"E, orando, não useis de vãs repetições, como os gentios; porque presumem que pelo seu muito falar serão ouvidos."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Não vos assemelheis, pois, a eles; porque Deus, o vosso Pai, sabe o de que tendes necessidade, antes que lho peçais."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"A oração dominical",
+                     "versiculo":"Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome;"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"venha o teu reino; faça-se a tua vontade, assim na terra como no céu;"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"o pão nosso de cada dia dá-nos hoje;"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"e perdoa-nos as nossas dívidas, assim como nós temos perdoado aos nossos devedores;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"e não nos deixes cair em tentação; mas livra-nos do mal [pois teu é o reino, o poder e a glória para sempre. Amém]!"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celeste vos perdoará;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"se, porém, não perdoardes aos homens [as suas ofensas], tampouco vosso Pai vos perdoará as vossas ofensas."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"Como jejuar",
+                     "versiculo":"Quando jejuardes, não vos mostreis contristados como os hipócritas; porque desfiguram o rosto com o fim de parecer aos homens que jejuam. Em verdade vos digo que eles já receberam a recompensa."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Tu, porém, quando jejuares, unge a cabeça e lava o rosto,"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"com o fim de não parecer aos homens que jejuas, e sim ao teu Pai, em secreto; e teu Pai, que vê em secreto, te recompensará."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"Os tesouros no céu",
+                     "versiculo":"Não acumuleis para vós outros tesouros sobre a terra, onde a traça e a ferrugem corroem e onde ladrões escavam e roubam;"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"mas ajuntai para vós outros tesouros no céu, onde traça nem ferrugem corrói, e onde ladrões não escavam, nem roubam;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"porque, onde está o teu tesouro, aí estará também o teu coração."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"A luz e as trevas",
+                     "versiculo":"São os olhos a lâmpada do corpo. Se os teus olhos forem bons, todo o teu corpo será luminoso;"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"se, porém, os teus olhos forem maus, todo o teu corpo estará em trevas. Portanto, caso a luz que em ti há sejam trevas, que grandes trevas serão!"
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"Os dois senhores",
+                     "versiculo":"Ninguém pode servir a dois senhores; porque ou há de aborrecer-se de um e amar ao outro, ou se devotará a um e desprezará ao outro. Não podeis servir a Deus e às riquezas."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"A ansiosa solicitude pela vida",
+                     "versiculo":"Por isso, vos digo: não andeis ansiosos pela vossa vida, quanto ao que haveis de comer ou beber; nem pelo vosso corpo, quanto ao que haveis de vestir. Não é a vida mais do que o alimento, e o corpo, mais do que as vestes?"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celeste as sustenta. Porventura, não valeis vós muito mais do que as aves?"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Qual de vós, por ansioso que esteja, pode acrescentar um côvado ao curso da sua vida?"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"E por que andais ansiosos quanto ao vestuário? Considerai como crescem os lírios do campo: eles não trabalham, nem fiam."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Eu, contudo, vos afirmo que nem Salomão, em toda a sua glória, se vestiu como qualquer deles."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Ora, se Deus veste assim a erva do campo, que hoje existe e amanhã é lançada no forno, quanto mais a vós outros, homens de pequena fé?"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Portanto, não vos inquieteis, dizendo: Que comeremos? Que beberemos? Ou: Com que nos vestiremos?"
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Porque os gentios é que procuram todas estas coisas; pois vosso Pai celeste sabe que necessitais de todas elas;"
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"buscai, pois, em primeiro lugar, o seu reino e a sua justiça, e todas estas coisas vos serão acrescentadas."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Portanto, não vos inquieteis com o dia de amanhã, pois o amanhã trará os seus cuidados; basta ao dia o seu próprio mal."
                   }
                ]
             },
