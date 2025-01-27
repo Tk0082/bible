@@ -1045,17 +1045,177 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":8,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A cura de um leproso (Mc 1.40-44; Lc 5.12-14)",
+                     "versiculo":"Ora, descendo ele do monte, grandes multidões o seguiram."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"E eis que um leproso, tendo-se aproximado, adorou-o, dizendo: Senhor, se quiseres, podes purificar-me."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"E Jesus, estendendo a mão, tocou-lhe, dizendo: Quero, fica limpo! E imediatamente ele ficou limpo da sua lepra."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Disse-lhe, então, Jesus: Olha, não o digas a ninguém, mas vai mostrar-te ao sacerdote e fazer a oferta que Moisés ordenou, para servir de testemunho ao povo."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"A cura do criado de um centurião (Lc 7.1-10)",
+                     "versiculo":"Tendo Jesus entrado em Cafarnaum, apresentou-se-lhe um centurião, implorando:"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Senhor, o meu criado jaz em casa, de cama, paralítico, sofrendo horrivelmente."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Jesus lhe disse: Eu irei curá-lo."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Mas o centurião respondeu: Senhor, não sou digno de que entres em minha casa; mas apenas manda com uma palavra, e o meu rapaz será curado."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Pois também eu sou homem sujeito à autoridade, tenho soldados às minhas ordens e digo a este: vai, e ele vai; e a outro: vem, e ele vem; e ao meu servo: faze isto, e ele o faz."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Ouvindo isto, admirou-se Jesus e disse aos que o seguiam: Em verdade vos afirmo que nem mesmo em Israel achei fé como esta."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Digo-vos que muitos virão do Oriente e do Ocidente e tomarão lugares à mesa com Abraão, Isaque e Jacó no reino dos céus."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Ao passo que os filhos do reino serão lançados para fora, nas trevas; ali haverá choro e ranger de dentes."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Então, disse Jesus ao centurião: Vai-te, e seja feito conforme a tua fé. E, naquela mesma hora, o servo foi curado."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"A cura da sogra de Pedro (Mc 1.29-31; Lc 4.38-39)",
+                     "versiculo":"Tendo Jesus chegado à casa de Pedro, viu a sogra deste acamada e ardendo em febre."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Mas Jesus tomou-a pela mão, e a febre a deixou. Ela se levantou e passou a servi-lo."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"Mui  tas outras curas (Mc 1.32-34; Lc 4.40-41)",
+                     "versiculo":"Chegada a tarde, trouxeram-lhe muitos endemoninhados; e ele meramente com a palavra expeliu os espíritos e curou todos os que estavam doentes;"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"para que se cumprisse o que fora dito por intermédio do profeta Isaías: Ele mesmo tomou as nossas enfermidades e carregou com as nossas doenças."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"Jesus põe à prova os que querem segui-lo (Lc 9.57.62)",
+                     "versiculo":"Vendo Jesus muita gente ao seu redor, ordenou que passassem para a outra margem."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Então, aproximando-se dele um escriba, disse-lhe: Mestre, seguir-te-ei para onde quer que fores."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Mas Jesus lhe respondeu: As raposas têm seus covis, e as aves do céu, ninhos; mas o Filho do Homem não tem onde reclinar a cabeça."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"E outro dos discípulos lhe disse: Senhor, permite-me ir primeiro sepultar meu pai."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Replicou-lhe, porém, Jesus: Segue-me, e deixa aos mortos o sepultar os seus próprios mortos."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"Jesus acalma uma tempestade (Mc 4.35-41; Lc 8.22-25)",
+                     "versiculo":"Então, entrando ele no barco, seus discípulos o seguiram."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"E eis que sobreveio no mar uma grande tempestade, de sorte que o barco era varrido pelas ondas. Entretanto, Jesus dormia."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Mas os discípulos vieram acordá-lo, clamando: Senhor, salva-nos! Perecemos!"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Perguntou-lhes, então, Jesus: Por que sois tímidos, homens de pequena fé? E, levantando-se, repreendeu os ventos e o mar; e fez-se grande bonança."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"E maravilharam-se os homens, dizendo: Quem é este que até os ventos e o mar lhe obedecem?"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"A cura de dois endemoninhados gadarenos (Mc 5.1-20; Lc 8.26-39)",
+                     "versiculo":"Tendo ele chegado à outra margem, à terra dos gadarenos, vieram-lhe ao encontro dois endemoninhados, saindo dentre os sepulcros, e a tal ponto furiosos, que ninguém podia passar por aquele caminho."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"E eis que gritaram: Que temos nós contigo, ó Filho de Deus! Vieste aqui atormentar-nos antes do tempo?"
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Ora, andava pastando, não longe deles, uma grande manada de porcos."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Então, os demônios lhe rogavam: Se nos expeles, manda-nos para a manada de porcos."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Pois ide, ordenou-lhes Jesus. E eles, saindo, passaram para os porcos; e eis que toda a manada se precipitou, despenhadeiro abaixo, para dentro do mar, e nas águas pereceram."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Fugiram os porqueiros e, chegando à cidade, contaram todas estas coisas e o que acontecera aos endemoninhados."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Então, a cidade toda saiu para encontrar-se com Jesus; e, vendo-o, lhe rogaram que se retirasse da terra deles."
                   }
                ]
             },
