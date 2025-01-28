@@ -2169,7 +2169,7 @@
                   },
                   {
                      "numero":12,
-                     "titulo":"",.
+                     "titulo":"",
                      "versiculo":"O escarnecedor não ama àquele que o repreende, nem se chegará para os sábios."
                   },
                   {
@@ -2280,17 +2280,172 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":16,
                "versiculos":[
                   {
                      "numero":1,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"O coração do homem pode fazer planos, mas a resposta certa dos lábios vem do Senhor."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Todos os caminhos do homem são puros aos seus olhos, mas o Senhor pesa o espírito."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Confia ao Senhor as tuas obras, e os teus desígnios serão estabelecidos."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"O Senhor fez todas as coisas para determinados fins e até o perverso, para o dia da calamidade."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Abominável é ao Senhor todo arrogante de coração; é evidente que não ficará impune."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Pela misericórdia e pela verdade, se expia a culpa; e pelo temor do Senhor os homens evitam o mal."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Sendo o caminho dos homens agradável ao Senhor, este reconcilia com eles os seus inimigos."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Melhor é o pouco, havendo justiça, do que grandes rendimentos com injustiça."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"O coração do homem traça o seu caminho, mas o Senhor lhe dirige os passos."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Nos lábios do rei se acham decisões autorizadas; no julgar não transgrida, pois, a sua boca."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Peso e balança justos pertencem ao Senhor; obra sua são todos os pesos da bolsa."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"A prática da impiedade é abominável para os reis, porque com justiça se estabelece o trono."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Os lábios justos são o contentamento do rei, e ele ama o que fala coisas retas."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"O furor do rei são uns mensageiros de morte, mas o homem sábio o apazigua."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"O semblante alegre do rei significa vida, e a sua benevolência é como a nuvem que traz chuva serôdia."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Quanto melhor é adquirir a sabedoria do que o ouro! E mais excelente, adquirir a prudência do que a prata!"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"O caminho dos retos é desviar-se do mal; o que guarda o seu caminho preserva a sua alma."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"A soberba precede a ruína, e a altivez do espírito, a queda."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Melhor é ser humilde de espírito com os humildes do que repartir o despojo com os soberbos."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"O que atenta para o ensino acha o bem, e o que confia no Senhor, esse é feliz."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"O sábio de coração é chamado prudente, e a doçura no falar aumenta o saber."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"O entendimento, para aqueles que o possuem, é fonte de vida; mas, para o insensato, a sua estultícia lhe é castigo."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"O coração do sábio é mestre de sua boca e aumenta a persuasão nos seus lábios."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Palavras agradáveis são como favo de mel: doces para a alma e medicina para o corpo."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Há caminho que parece direito ao homem, mas afinal são caminhos de morte."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"A fome do trabalhador o faz trabalhar, porque a sua boca a isso o incita."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"O homem depravado cava o mal, e nos seus lábios há como que fogo ardente."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"O homem perverso espalha contendas, e o difamador separa os maiores amigos."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"O homem violento alicia o seu companheiro e guia-o por um caminho que não é bom."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Quem fecha os olhos imagina o mal, e, quando morde os lábios, o executa."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Coroa de honra são as cãs, quando se acham no caminho da justiça."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Melhor é o longânimo do que o herói da guerra, e o que domina o seu espírito, do que o que toma uma cidade."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"A sorte se lança no regaço, mas do Senhor procede toda decisão."
                   }
                ]
             },
