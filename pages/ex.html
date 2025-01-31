@@ -62,17 +62,16 @@
 			fetch("https://tk0082.github.io/bible/json/livros.json").then((response) => {
 				response.json().then((dados) => {
 					divLivros.innerHTML += `<div id="divliv">`
+
 					dados.livros.map((livro) => {
-						divLivros.innerHTML += `<br><h2 id="nomeliv">${livro.posit}</h2>`
-						divLivros.innerHTML += `<hr><br>`
+            divLivros.innerHTML += `<br><div style="margin:5px;"><h2 id="nomeliv">${livro.posit}</h2></div>`
+            divLivros.innerHTML += `<hr><br>`
 						livro.nomes.map((nm) => {
                      divLivros.innerHTML += `<p class="txtitulo"><a class="lnkcap" href="${nm.lnk}" >${nm.abrev}</a></p>`
-							if ( nm.nome == 2){
-								divLivros.innerHTML += `<br>`
-							}
 						})
+						divLivros.innerHTML += `<br>`
 					})
-					divLivros.innerHTML += `</div>`
+          divLivros.innerHTML += `</div><br>`
 				})
 			})
 		</script>

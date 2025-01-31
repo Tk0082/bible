@@ -16,9 +16,6 @@ html{
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
-.blur{
-   filter: brightness(50%);
-}
 .txlivro{
 	color: #ffba00;
 	font-family: 'Quicksand', serif;
@@ -52,7 +49,7 @@ html{
 	width: 100%;
 	min-height: 10px;
 	height: 40px;
-	padding: 10px;
+  padding: 10px;
 	display: inline-block;
 	align: center-vertical;
 	background: #303030;
@@ -95,17 +92,19 @@ html{
 	transition: .3s;
 }
 #popup-search{
+	z-index: 99;
 	position: fixed;
-	z-index: 0;
 	display: none;
 	padding: 10px;
 	width: 90%;
-	height: 400px;
-	margin: 50px;
-	align: center;
+	height: 70%;
+	margin-top: 80px;
+  right:4%;
+  left: 4%;
 	justify-content: center;
 	border-radius: 10px;
-	background: rgba(255,186,0,.6);
+	background: rgba(255,186,0,.8);
+  backdrop-filter: blur(1.5px);
 }
 .btn{
 	position: relative;
@@ -138,7 +137,7 @@ html{
 .psearch{
 	width:100%;
 	margin: 0 auto;
-	display: inline-block;
+	display: block;
 	align:center;
 }
 .psearch img{
@@ -160,29 +159,41 @@ html{
 	box-shadow: 0 2px 4px rgba(0,0,0,,4);
 }
 #wrap{
-   z-index:0;
-	width: 95%;
-	height: 100%;
-	margin: 0 auto;
-   justify-content: center;
+  positiin: relative;
+	width: 90%;
+	height: auto;
+  display: block;
+  top: 10px;
+  bottom: 0;
+  right: 5%;
+  left: 5%;
+  justify-content: center;
 }
 #ready{
-	padding: 20px 10px;
+  position: relative;
+	padding: 10px;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  right: 5%;
+  left: 5%;
+  justify-content: center;
 }
 #liv{
 	position: fixed;
-	z-index: 0;
-	width: 96%;
+	width: 90%;
 	height: 20px;
-	margin: 0 auto;
+	right: 3.2%;
+  left: 3.2%;
+  display: block;
+  float: left;
+	padding: 10px 20px;
 	bottom: 0;
-   display: inline-block;
-   align: center;
-	border-radius: 10px 10px 0 0;
-	padding: 10px 50px;
 	background: rgba(255,186,0,.8);
+  backdrop-filter: blur(1.5px);
+	border-radius: 10px 10px 0 0;
 	justify-content: center;
-	transition: .5s;
+	transition: .3s;
 }
 #liv:hover{
 	height: auto;
@@ -194,11 +205,8 @@ html{
 }
 #divliv{
 	position: relative;
-	width: 95%;
+	width: 90%;
 	height: 20px;
-	margin: 10px auto;
-	display: inline-block;
-	float: bottom;
 }
 #nomeliv{
 	color: #ffba00;
@@ -206,19 +214,24 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight: 800;
+  margin-right: 5px;
+  matgin-left: 5px;
 }
 #list-livros{
-   z-index: 0;
-   position: relative; 
-   width: 100%;
-   background: rgba(255,186,0,.6); 
-   border-radius: 10px; 
-   margin: 80px auto; 
-   padding: 20px 10px;
-   display: inline-block;
-   float: center;
-   box-shadow: 0 0 1px rgba(255,186,0,.4);
-   justify-content: center;
+  position: relative; 
+  width: 98%;
+  top: 80px;
+  right: 4.5%;
+  left: 4.5%;
+  margin-bottom: 200px;
+  padding: 20px;
+  display: block;
+  float: left;
+  border-radius: 10px; 
+  background: rgba(255,186,0,.6); 
+  backdrop-filter: blur(1.5px);
+  box-shadow: 0 0 1px rgba(255,186,0,.4);
+  justify-content: center;
 }
 .lnkcap{
 	width: 50px;
@@ -226,8 +239,8 @@ html{
 	display: inline-block;
 	float: left;
 	text-align: center;
-   border-radius: 8px;
-   box-shadow: 0 2px 3px rgba(0,0,0,.4);
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0,0,0,.4);
 	background: rgba(0,0,0,.6);
 	color: #ffba00;
 	font-family: 'Quicksand', serif;
@@ -244,17 +257,19 @@ html{
 	transition: .3s;
 }
 #fut{
-   z-index: 0;
-   position: relative; 
-   width:98%; 
-   bottom: 0px;
-   height: 80px; 
-   background: rgba(0,0,0,.5); 
-	border-radius: 10px 10px 0 0;
-   box-shadow: 0 0 10px rgba(255,186,0,.4);
-   margin: 20px auto 0 auto;
-   padding: 20px 0 0 0;
-   vertical-align: middle;
+  position: fixed; 
+  width:98%; 
+  height: 80px; 
+  bottom: 0px;
+  right: 1%;
+  left: 1%;
+  margin-top: 20px;
+  backdrop-filter: blur(1.5px);
+  background: rgba(0,0,0,.5); 
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 0 10px rgba(255,186,0,.4);
+  padding: 20px 0 0 0;
+  vertical-align: middle;
 }
 #fut p, pre {
    position: relative;
