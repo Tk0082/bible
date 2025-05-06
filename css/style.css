@@ -22,7 +22,7 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight: 800;
-	text-size: 22px;
+	font-size: 22px;
 }
 .txtitulo{
 	color: #ffba00;
@@ -31,16 +31,18 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight:800;
-	text-size: 22px;
+	font-size: 22px;
 }
 .txcontent{
 	font-family: 'Quicksand', serif;
-	font-optical-sizing: auto;
 	font-style: normal;
 	font-weight: 400;
-	font-size:19px;
+   font-size: 20px;
 	color: #ffba00;
 	margin: 0 20px;
+   @media(max-width: 480px){ 
+      font-size: 30px;
+   }
 }
 #topbar{
 	z-index: 10;
@@ -49,7 +51,7 @@ html{
 	width: 100%;
 	min-height: 10px;
 	height: 40px;
-  padding: 10px;
+   padding: 10px;
 	display: inline-block;
 	align: center-vertical;
 	background: #303030;
@@ -99,12 +101,12 @@ html{
 	width: 90%;
 	height: 70%;
 	margin-top: 80px;
-  right:4%;
-  left: 4%;
+   right:4%;
+   left: 4%;
 	justify-content: center;
 	border-radius: 10px;
-	background: rgba(255,186,0,.8);
-  backdrop-filter: blur(1.5px);
+   background: rgba(255,186,0,.8);
+   backdrop-filter: blur(1.5px);
 }
 .btn{
 	position: relative;
@@ -149,7 +151,7 @@ html{
 	width: 80%;
 	height:30px;
 	margin: 30px auto;
-	font-size: 16px;
+	font-size: 18px;
 	padding: 20px, 2px, 2px;
 	border: none;
 	outline: none;
@@ -159,15 +161,14 @@ html{
 	box-shadow: 0 2px 4px rgba(0,0,0,,4);
 }
 #wrap{
-  positiin: relative;
 	width: 90%;
 	height: auto;
-  display: block;
-  top: 10px;
-  bottom: 0;
-  right: 5%;
-  left: 5%;
-  justify-content: center;
+   display: block;
+   top: 20px;
+   bottom: 0;
+   right: 5%;
+   left: 5%;
+   justify-content: center;
 }
 #ready{
   position: relative;
@@ -184,13 +185,13 @@ html{
 	width: 90%;
 	height: 20px;
 	right: 3.2%;
-  left: 3.2%;
-  display: block;
-  float: left;
+   left: 3.2%;
+   display: block;
+   float: left;
 	padding: 10px 20px;
 	bottom: 0;
 	background: rgba(255,186,0,.8);
-  backdrop-filter: blur(1.5px);
+   backdrop-filter: blur(1.5px);
 	border-radius: 10px 10px 0 0;
 	justify-content: center;
 	transition: .3s;
@@ -214,8 +215,8 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight: 800;
-  margin-right: 5px;
-  matgin-left: 5px;
+   margin-right: 5px;
+   margin-left: 5px;
 }
 #list-livros{
   position: relative; 
@@ -239,8 +240,8 @@ html{
 	display: inline-block;
 	float: left;
 	text-align: center;
-  border-radius: 8px;
-  box-shadow: 0 2px 3px rgba(0,0,0,.4);
+   border-radius: 8px;
+   box-shadow: 0 2px 3px rgba(0,0,0,.4);
 	background: rgba(0,0,0,.6);
 	color: #ffba00;
 	font-family: 'Quicksand', serif;
@@ -283,3 +284,4 @@ html{
    margin: 0 0 -5px 0;
    padding: 15px 0 0  0
 }
+

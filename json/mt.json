@@ -1220,17 +1220,197 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":9,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A cura de um paralítico em Cafarnaum (Mc 2.1-12; Lc 5.17-26)",
+                     "versiculo":"Entrando Jesus num barco, passou para o outro lado e foi para a sua própria cidade."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"E eis que lhe trouxeram um paralítico deitado num leito. Vendo-lhes a fé, Jesus disse ao paralítico: Tem bom ânimo, filho; estão perdoados os teus pecados."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Mas alguns escribas diziam consigo: Este blasfema."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Jesus, porém, conhecendo-lhes os pensamentos, disse: Por que cogitais o mal no vosso coração?"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Pois qual é mais fácil? Dizer: Estão perdoados os teus pecados, ou dizer: Levanta-te e anda?"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Ora, para que saibais que o Filho do Homem tem sobre a terra autoridade para perdoar pecados — disse, então, ao paralítico: Levanta-te, toma o teu leito e vai para tua casa."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"E, levantando-se, partiu para sua casa."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Vendo isto, as multidões, possuídas de temor, glorificaram a Deus, que dera tal autoridade aos homens."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"A vocação de Mateus (Mc 2.13-14; Lc 5.27-28)",
+                     "versiculo":"Partindo Jesus dali, viu um homem chamado Mateus sentado na coletoria e disse-lhe: Segue-me! Ele se levantou e o seguiu."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"Jesus come com pecadores (Mc 2.15-17; Lc 5.29-32)",
+                     "versiculo":"E sucedeu que, estando ele em casa, à mesa, muitos publicanos e pecadores vieram e tomaram lugares com Jesus e seus discípulos."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Ora, vendo isto, os fariseus perguntavam aos discípulos: Por que come o vosso Mestre com os publicanos e pecadores?"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Mas Jesus, ouvindo, disse: Os sãos não precisam de médico, e sim os doentes."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Ide, porém, e aprendei o que significa: Misericórdia quero e não holocaustos; pois não vim chamar justos, e sim pecadores [ao arrependimento]."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"Do jejum (Mc 2.18-22; Lc 5.33-39)",
+                     "versiculo":"Vieram, depois, os discípulos de João e lhe perguntaram: Por que jejuamos nós, e os fariseus [muitas vezes], e teus discípulos não jejuam?"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Respondeu-lhes Jesus: Podem, acaso, estar tristes os convidados para o casamento, enquanto o noivo está com eles? Dias virão, contudo, em que lhes será tirado o noivo, e nesses dias hão de jejuar."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Ninguém põe remendo de pano novo em veste velha; porque o remendo tira parte da veste, e fica maior a rotura."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Nem se põe vinho novo em odres velhos; do contrário, rompem-se os odres, derrama-se o vinho, e os odres se perdem. Mas põe-se vinho novo em odres novos, e ambos se conservam."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"O pedido de um chefe (Mc 5.21-24a; Lc 8.40-42a)",
+                     "versiculo":"Enquanto estas coisas lhes dizia, eis que um chefe, aproximando-se, o adorou e disse: Minha filha faleceu agora mesmo; mas vem, impõe a mão sobre ela, e viverá."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"A cura de uma mulher enferma (Mc 5.24b-34; Lc 8.42b-48)",
+                     "versiculo":"E Jesus, levantando-se, o seguia, e também os seus discípulos."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"E eis que uma mulher, que durante doze anos vinha padecendo de uma hemorragia, veio por trás dele e lhe tocou na orla da veste;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"porque dizia consigo mesma: Se eu apenas lhe tocar a veste, ficarei curada."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Jesus, voltando-se e vendo-a, disse: Tem bom ânimo, filha, a tua fé te salvou. E, desde aquele instante, a mulher ficou sã."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"A ressureição da filha de Jairo (Mc 5.35-43; Lc 8.49-56",
+                     "versiculo":"Tendo Jesus chegado à casa do chefe e vendo os tocadores de flauta e o povo em alvoroço, disse:"
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Retirai-vos, porque não está morta a menina, mas dorme. E riam-se dele."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Mas, afastado o povo, entrou Jesus, tomou a menina pela mão, e ela se levantou."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"E a fama deste acontecimento correu por toda aquela terra."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"A cura de dois cegos",
+                     "versiculo":"Partindo Jesus dali, seguiram-no dois cegos, clamando: Tem compaixão de nós, Filho de Davi!"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Tendo ele entrado em casa, aproximaram-se os cegos, e Jesus lhes perguntou: Credes que eu posso fazer isso? Responderam-lhe: Sim, Senhor!"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Então, lhes tocou os olhos, dizendo: Faça-se-vos conforme a vossa fé."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"E abriram-se-lhes os olhos. Jesus, porém, os advertiu severamente, dizendo: Acautelai-vos de que ninguém o saiba."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Saindo eles, porém, divulgaram-lhe a fama por toda aquela terra."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"A cura de um mudo endemoninhado. A blasfêmia dos fariseus",
+                     "versiculo":"Ao retirarem-se eles, foi-lhe trazido um mudo endemoninhado."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"E, expelido o demônio, falou o mudo; e as multidões se admiravam, dizendo: Jamais se viu tal coisa em Israel!"
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Mas os fariseus murmuravam: Pelo maioral dos demônios é que expele os demônios."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"Jesus ia por toda parte fazendo o bem. A seara e os trabalhadores",
+                     "versiculo":"E percorria Jesus todas as cidades e povoados, ensinando nas sinagogas, pregando o evangelho do reino e curando toda sorte de doenças e enfermidades."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Vendo ele as multidões, compadeceu-se delas, porque estavam aflitas e exaustas como ovelhas que não têm pastor."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"E, então, se dirigiu a seus discípulos: A seara, na verdade, é grande, mas os trabalhadores são poucos."
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Rogai, pois, ao Senhor da seara que mande trabalhadores para a sua seara."
                   }
                ]
             },
