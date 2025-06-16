@@ -38,7 +38,7 @@
 				document.getElementById("popup-search").style.display = "none";
 			}
 			
-         // Busca do conteúdo da página no JSON
+      // Busca do conteúdo da página no JSON
 			let divContent = document.querySelector("#ready")
 			fetch("https://tk0082.github.io/bible/json/gn.json").then((response) => {
 				response.json().then((dados) => {
@@ -47,7 +47,7 @@
 							divContent.innerHTML += `<br><br><h2 class="txlivro">${cap.nome} ${versic.capitulo}</h2><hr color="#ffba00"><br>`
 							versic.versiculos.map((tx) => {
 								console.log(tx);
-                        // Se tiver título, escreve; caso não tenha, apenas versículo
+                // Se tiver título, escreve; caso não tenha, apenas versículo
 								if(tx.titulo != ""){
 									divContent.innerHTML += `<br><h3 class="txtitulo">${tx.titulo}</h3><br>`
 									divContent.innerHTML += `<p class="txcontent">${tx.numero}.\t ${tx.versiculo}</p>`
@@ -60,7 +60,7 @@
 				})
 			})
 
-         // Busca dos livros no JSON
+      // Busca dos livros no JSON
 			let divLivros = document.querySelector("#list-livros")
 			fetch("https://tk0082.github.io/bible/json/livros.json").then((response) => {
 				divLivros.innerHTML += `<div id="divliv">`
@@ -80,5 +80,5 @@
 		</script>
 	</body>
 	<script type="text/javascript" src="script/jquery.js"></script>
-   <script type="text/javascript" src="script/rolatopo.js"></script>
+  <script type="text/javascript" src="script/rolatopo.js"></script>
 </html>

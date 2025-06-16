@@ -1415,17 +1415,217 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":10,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A escolha dos doze apóstolos",
+                     "versiculo":"Tendo chamado os seus doze discípulos, deu-lhes Jesus autoridade sobre espíritos imundos para os expelir e para curar toda sorte de doenças e enfermidades."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Ora, os nomes dos doze apóstolos são estes: primeiro, Simão, por sobrenome Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Tadeu;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Simão, o Zelote, e Judas Iscariotes, que foi quem o traiu. As instruções para os doze"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"A estes doze enviou Jesus, dando-lhes as seguintes instruções: Não tomeis rumo aos gentios, nem entreis em cidade de samaritanos;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"mas, de preferência, procurai as ovelhas perdidas da casa de Israel;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"e, à medida que seguirdes, pregai que está próximo o reino dos céus."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Curai enfermos, ressuscitai mortos, purificai leprosos, expeli demônios; de graça recebestes, de graça dai."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Não vos provereis de ouro, nem de prata, nem de cobre nos vossos cintos;"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"nem de alforje para o caminho, nem de duas túnicas, nem de sandálias, nem de bordão; porque digno é o trabalhador do seu alimento."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"E, em qualquer cidade ou povoado em que entrardes, indagai quem neles é digno; e aí ficai até vos retirardes."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Ao entrardes na casa, saudai-a;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"se, com efeito, a casa for digna, venha sobre ela a vossa paz; se, porém, não o for, torne para vós outros a vossa paz."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Se alguém não vos receber, nem ouvir as vossas palavras, ao sairdes daquela casa ou daquela cidade, sacudi o pó dos vossos pés."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Em verdade vos digo que menos rigor haverá para Sodoma e Gomorra, no Dia do Juízo, do que para aquela cidade. As admoestações"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Eis que eu vos envio como ovelhas para o meio de lobos; sede, portanto, prudentes como as serpentes e símplices como as pombas."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"E acautelai-vos dos homens; porque vos entregarão aos tribunais e vos açoitarão nas suas sinagogas;"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"por minha causa sereis levados à presença de governadores e de reis, para lhes servir de testemunho, a eles e aos gentios."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"E, quando vos entregarem, não cuideis em como ou o que haveis de falar, porque, naquela hora, vos será concedido o que haveis de dizer,"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"visto que não sois vós os que falais, mas o Espírito de vosso Pai é quem fala em vós."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Um irmão entregará à morte outro irmão, e o pai, ao filho; filhos haverá que se levantarão contra os progenitores e os matarão."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Sereis odiados de todos por causa do meu nome; aquele, porém, que perseverar até ao fim, esse será salvo."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Quando, porém, vos perseguirem numa cidade, fugi para outra; porque em verdade vos digo que não acabareis de percorrer as cidades de Israel, até que venha o Filho do Homem. Os estímulos"
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"O discípulo não está acima do seu mestre, nem o servo, acima do seu senhor."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Basta ao discípulo ser como o seu mestre, e ao servo, como o seu senhor. Se chamaram Belzebu ao dono da casa, quanto mais aos seus domésticos?"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Portanto, não os temais; pois nada há encoberto, que não venha a ser revelado; nem oculto, que não venha a ser conhecido."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"O que vos digo às escuras, dizei-o a plena luz; e o que se vos diz ao ouvido, proclamai-o dos eirados."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Não temais os que matam o corpo e não podem matar a alma; temei, antes, aquele que pode fazer perecer no inferno tanto a alma como o corpo."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Não se vendem dois pardais por um asse? E nenhum deles cairá em terra sem o consentimento de vosso Pai."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"E, quanto a vós outros, até os cabelos todos da cabeça estão contados."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Não temais, pois! Bem mais valeis vós do que muitos pardais."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Portanto, todo aquele que me confessar diante dos homens, também eu o confessarei diante de meu Pai, que está nos céus;"
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"mas aquele que me negar diante dos homens, também eu o negarei diante de meu Pai, que está nos céus. As dificuldades"
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Não penseis que vim trazer paz à terra; não vim trazer paz, mas espada."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"Pois vim causar divisão entre o homem e seu pai; entre a filha e sua mãe e entre a nora e sua sogra."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Assim, os inimigos do homem serão os da sua própria casa."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Quem ama seu pai ou sua mãe mais do que a mim não é digno de mim; quem ama seu filho ou sua filha mais do que a mim não é digno de mim;"
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"e quem não toma a sua cruz e vem após mim não é digno de mim."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Quem acha a sua vida perdê-la-á; quem, todavia, perde a vida por minha causa achá-la-á. As recompensas"
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Quem vos recebe a mim me recebe; e quem me recebe recebe aquele que me enviou."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Quem recebe um profeta, no caráter de profeta, receberá o galardão de profeta; quem recebe um justo, no caráter de justo, receberá o galardão de justo."
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"E quem der a beber, ainda que seja um copo de água fria, a um destes pequeninos, por ser este meu discípulo, em verdade vos digo que de modo algum perderá o seu galardão."
                   }
                ]
             },
