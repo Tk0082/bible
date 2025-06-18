@@ -2040,17 +2040,297 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":13,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A parábola do semeador",
+                     "versiculo":"Naquele mesmo dia, saindo Jesus de casa, assentou-se à beira-mar;"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"e grandes multidões se reuniram perto dele, de modo que entrou num barco e se assentou; e toda a multidão estava em pé na praia."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"E de muitas coisas lhes falou por parábolas e dizia: Eis que o semeador saiu a semear."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"E, ao semear, uma parte caiu à beira do caminho, e, vindo as aves, a comeram."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Outra parte caiu em solo rochoso, onde a terra era pouca, e logo nasceu, visto não ser profunda a terra."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Saindo, porém, o sol, a queimou; e, porque não tinha raiz, secou-se."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Outra caiu entre os espinhos, e os espinhos cresceram e a sufocaram."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Outra, enfim, caiu em boa terra e deu fruto: a cem, a sessenta e a trinta por um."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Quem tem ouvidos [para ouvir], ouça."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"A explicação da parábola",
+                     "versiculo":"Então, se aproximaram os discípulos e lhe perguntaram: Por que lhes falas por parábolas?"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Ao que respondeu: Porque a vós outros é dado conhecer os mistérios do reino dos céus, mas àqueles não lhes é isso concedido."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Pois ao que tem se lhe dará, e terá em abundância; mas, ao que não tem, até o que tem lhe será tirado."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Por isso, lhes falo por parábolas; porque, vendo, não veem; e, ouvindo, não ouvem, nem entendem."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"De sorte que neles se cumpre a profecia de Isaías: Ouvireis com os ouvidos e de nenhum modo entendereis; vereis com os olhos e de nenhum modo percebereis."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Porque o coração deste povo está endurecido, de mau grado ouviram com os ouvidos e fecharam os olhos; para não suceder que vejam com os olhos, ouçam com os ouvidos, entendam com o coração, se convertam e sejam por mim curados."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Bem-aventurados, porém, os vossos olhos, porque veem; e os vossos ouvidos, porque ouvem."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Pois em verdade vos digo que muitos profetas e justos desejaram ver o que vedes e não viram; e ouvir o que ouvis e não ouviram."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Atendei vós, pois, à parábola do semeador."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"A todos os que ouvem a palavra do reino e não a compreendem, vem o maligno e arrebata o que lhes foi semeado no coração. Este é o que foi semeado à beira do caminho."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"O que foi semeado em solo rochoso, esse é o que ouve a palavra e a recebe logo, com alegria;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"mas não tem raiz em si mesmo, sendo, antes, de pouca duração; em lhe chegando a angústia ou a perseguição por causa da palavra, logo se escandaliza."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"O que foi semeado entre os espinhos é o que ouve a palavra, porém os cuidados do mundo e a fascinação das riquezas sufocam a palavra, e fica infrutífera."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Mas o que foi semeado em boa terra é o que ouve a palavra e a compreende; este frutifica e produz a cem, a sessenta e a trinta por um."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"A parábola do joio",
+                     "versiculo":"Outra parábola lhes propôs, dizendo: O reino dos céus é semelhante a um homem que semeou boa semente no seu campo;"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"mas, enquanto os homens dormiam, veio o inimigo dele, semeou o joio no meio do trigo e retirou-se."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"E, quando a erva cresceu e produziu fruto, apareceu também o joio."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Então, vindo os servos do dono da casa, lhe disseram: Senhor, não semeaste boa semente no teu campo? Donde vem, pois, o joio?"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Ele, porém, lhes respondeu: Um inimigo fez isso. Mas os servos lhe perguntaram: Queres que vamos e arranquemos o joio?"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Não! Replicou ele, para que, ao separar o joio, não arranqueis também com ele o trigo."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Deixai-os crescer juntos até à colheita, e, no tempo da colheita, direi aos ceifeiros: ajuntai primeiro o joio, atai-o em feixes para ser queimado; mas o trigo, recolhei-o no meu celeiro."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"A parábola do grão de mostarda",
+                     "versiculo":"Outra parábola lhes propôs, dizendo: O reino dos céus é semelhante a um grão de mostarda, que um homem tomou e plantou no seu campo;"
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"o qual é, na verdade, a menor de todas as sementes, e, crescida, é maior do que as hortaliças, e se faz árvore, de modo que as aves do céu vêm aninhar-se nos seus ramos."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"A parábola do fermento",
+                     "versiculo":"Disse-lhes outra parábola: O reino dos céus é semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até ficar tudo levedado."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"Por que Jesus falou por parábolas",
+                     "versiculo":"Todas estas coisas disse Jesus às multidões por parábolas e sem parábolas nada lhes dizia;"
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"para que se cumprisse o que foi dito por intermédio do profeta: Abrirei em parábolas a minha boca; publicarei coisas ocultas desde a criação [do mundo]."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"A explicação da parábola do joio",
+                     "versiculo":"Então, despedindo as multidões, foi Jesus para casa. E, chegando-se a ele os seus discípulos, disseram: Explica-nos a parábola do joio do campo."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"E ele respondeu: O que semeia a boa semente é o Filho do Homem;"
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"o campo é o mundo; a boa semente são os filhos do reino; o joio são os filhos do maligno;"
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"o inimigo que o semeou é o diabo; a ceifa é a consumação do século, e os ceifeiros são os anjos."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Pois, assim como o joio é colhido e lançado ao fogo, assim será na consumação do século."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Mandará o Filho do Homem os seus anjos, que ajuntarão do seu reino todos os escândalos e os que praticam a iniquidade"
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes."
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"Então, os justos resplandecerão como o sol, no reino de seu Pai. Quem tem ouvidos [para ouvir], ouça."
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"A parábola do tesouro escondido",
+                     "versiculo":"O reino dos céus é semelhante a um tesouro oculto no campo, o qual certo homem, tendo-o achado, escondeu. E, transbordante de alegria, vai, vende tudo o que tem e compra aquele campo."
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"A parábola da pérola",
+                     "versiculo":"O reino dos céus é também semelhante a um que negocia e procura boas pérolas;"
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"e, tendo achado uma pérola de grande valor, vende tudo o que possui e a compra."
+                  },
+                  {
+                     "numero":47,
+                     "titulo":"A parábola da rede",
+                     "versiculo":"O reino dos céus é ainda semelhante a uma rede que, lançada ao mar, recolhe peixes de toda espécie."
+                  },
+                  {
+                     "numero":48,
+                     "titulo":"",
+                     "versiculo":"E, quando já está cheia, os pescadores arrastam-na para a praia e, assentados, escolhem os bons para os cestos e os ruins deitam fora."
+                  },
+                  {
+                     "numero":49,
+                     "titulo":"",
+                     "versiculo":"Assim será na consumação do século: sairão os anjos, e separarão os maus dentre os justos,"
+                  },
+                  {
+                     "numero":50,
+                     "titulo":"",
+                     "versiculo":"e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes."
+                  },
+                  {
+                     "numero":51,
+                     "titulo":"Voisas novas e velhas",
+                     "versiculo":"Entendestes todas estas coisas? Responderam-lhe: Sim!"
+                  },
+                  {
+                     "numero":52,
+                     "titulo":"",
+                     "versiculo":"Então, lhes disse: Por isso, todo escriba versado no reino dos céus é semelhante a um pai de família que tira do seu depósito coisas novas e coisas velhas."
+                  },
+                  {
+                     "numero":53,
+                     "titulo":"Jesus prega em Nazaré. É rejeitado pelos seus",
+                     "versiculo":"Tendo Jesus proferido estas parábolas, retirou-se dali."
+                  },
+                  {
+                     "numero":54,
+                     "titulo":"",
+                     "versiculo":"E, chegando à sua terra, ensinava-os na sinagoga, de tal sorte que se maravilhavam e diziam: Donde lhe vêm esta sabedoria e estes poderes miraculosos?"
+                  },
+                  {
+                     "numero":55,
+                     "titulo":"",
+                     "versiculo":"Não é este o filho do carpinteiro? Não se chama sua mãe Maria, e seus irmãos, Tiago, José, Simão e Judas?"
+                  },
+                  {
+                     "numero":56,
+                     "titulo":"",
+                     "versiculo":"Não vivem entre nós todas as suas irmãs? Donde lhe vem, pois, tudo isto?"
+                  },
+                  {
+                     "numero":57,
+                     "titulo":"",
+                     "versiculo":"E escandalizavam-se nele. Jesus, porém, lhes disse: Não há profeta sem honra, senão na sua terra e na sua casa."
+                  },
+                  {
+                     "numero":58,
+                     "titulo":"",
+                     "versiculo":"E não fez ali muitos milagres, por causa da incredulidade deles."
                   }
                ]
             },
