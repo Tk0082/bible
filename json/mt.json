@@ -2520,17 +2520,202 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":15,
                "versiculos":[
                   {
                      "numero":1,
+                     "titulo":"Jesus e a tradição dos anciãos. O que contamina o homem",
+                     "versiculo":"Então, vieram de Jerusalém a Jesus alguns fariseus e escribas e perguntaram:"
+                  },
+                  {
+                     "numero":2,
                      "titulo":"",
+                     "versiculo":"Por que transgridem os teus discípulos a tradição dos anciãos? Pois não lavam as mãos, quando comem."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Ele, porém, lhes respondeu: Por que transgredis vós também o mandamento de Deus, por causa da vossa tradição?"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Porque Deus ordenou: Honra a teu pai e a tua mãe; e: Quem maldisser a seu pai ou a sua mãe seja punido de morte."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Mas vós dizeis: Se alguém disser a seu pai ou a sua mãe: É oferta ao Senhor aquilo que poderias aproveitar de mim;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"esse jamais honrará a seu pai ou a sua mãe. E, assim, invalidastes a palavra de Deus, por causa da vossa tradição."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Hipócritas! Bem profetizou Isaías a vosso respeito, dizendo:"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Este povo honra-me com os lábios, mas o seu coração está longe de mim."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"E em vão me adoram, ensinando doutrinas que são preceitos de homens."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"E, tendo convocado a multidão, lhes disse: Ouvi e entendei:"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"não é o que entra pela boca o que contamina o homem, mas o que sai da boca, isto, sim, contamina o homem."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Então, aproximando-se dele os discípulos, disseram: Sabes que os fariseus, ouvindo a tua palavra, se escandalizaram?"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Ele, porém, respondeu: Toda planta que meu Pai celestial não plantou será arrancada."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Deixai-os; são cegos, guias de cegos. Ora, se um cego guiar outro cego, cairão ambos no barranco."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Então, lhe disse Pedro: Explica-nos a parábola."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Jesus, porém, disse: Também vós não entendeis ainda?"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Não compreendeis que tudo o que entra pela boca desce para o ventre e, depois, é lançado em lugar escuso?"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Mas o que sai da boca vem do coração, e é isso que contamina o homem."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Porque do coração procedem maus desígnios, homicídios, adultérios, prostituição, furtos, falsos testemunhos, blasfêmias."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"São estas as coisas que contaminam o homem; mas o comer sem lavar as mãos não o contamina."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"A mulher cananeia",
+                     "versiculo":"Partindo Jesus dali, retirou-se para os lados de Tiro e Sidom."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"E eis que uma mulher cananeia, que viera daquelas regiões, clamava: Senhor, Filho de Davi, tem compaixão de mim! Minha filha está horrivelmente endemoninhada."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Ele, porém, não lhe respondeu palavra. E os seus discípulos, aproximando-se, rogaram-lhe: Despede-a, pois vem clamando atrás de nós."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Mas Jesus respondeu: Não fui enviado senão às ovelhas perdidas da casa de Israel."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Ela, porém, veio e o adorou, dizendo: Senhor, socorre-me!"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Então, ele, respondendo, disse: Não é bom tomar o pão dos filhos e lançá-lo aos cachorrinhos."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Ela, contudo, replicou: Sim, Senhor, porém os cachorrinhos comem das migalhas que caem da mesa dos seus donos."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Então, lhe disse Jesus: Ó mulher, grande é a tua fé! Faça-se contigo como queres. E, desde aquele momento, sua filha ficou sã."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"Jesus volta para o mar da Galileia e cura muitos enfermos",
+                     "versiculo":"Partindo Jesus dali, foi para junto do mar da Galileia; e, subindo ao monte, assentou-se ali."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"E vieram a ele muitas multidões trazendo consigo coxos, aleijados, cegos, mudos e outros muitos e os largaram junto aos pés de Jesus; e ele os curou."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"De modo que o povo se maravilhou ao ver que os mudos falavam, os aleijados recobravam saúde, os coxos andavam e os cegos viam. Então, glorificavam ao Deus de Israel."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"A segunda multiplicação de pâes e peixes",
+                     "versiculo":"E, chamando Jesus os seus discípulos, disse: Tenho compaixão desta gente, porque há três dias que permanece comigo e não tem o que comer; e não quero despedi-la em jejum, para que não desfaleça pelo caminho."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Mas os discípulos lhe disseram: Onde haverá neste deserto tantos pães para fartar tão grande multidão?"
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Perguntou-lhes Jesus: Quantos pães tendes? Responderam: Sete e alguns peixinhos."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"Então, tendo mandado o povo assentar-se no chão,",
                      "versiculo":""
                   },
                   {
-                     "numero":1,
+                     "numero":36,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"tomou os sete pães e os peixes, e, dando graças, partiu, e deu aos discípulos, e estes, ao povo."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Todos comeram e se fartaram; e, do que sobejou, recolheram sete cestos cheios."
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Ora, os que comeram eram quatro mil homens, além de mulheres e crianças."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"E, tendo despedido as multidões, entrou Jesus no barco e foi para o território de Magadã."
                   }
                ]
             },
