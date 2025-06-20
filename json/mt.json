@@ -2679,7 +2679,7 @@
                   },
                   {
                      "numero":32,
-                     "titulo":"A segunda multiplicação de pâes e peixes",
+                     "titulo":"A segunda multiplicação de pães e peixes",
                      "versiculo":"E, chamando Jesus os seus discípulos, disse: Tenho compaixão desta gente, porque há três dias que permanece comigo e não tem o que comer; e não quero despedi-la em jejum, para que não desfaleça pelo caminho."
                   },
                   {
@@ -2824,7 +2824,7 @@
                   },
                   {
                      "numero":21,
-                     "titulo":"Jesus prediz a sua morte e ressureição",
+                     "titulo":"Jesus prediz a sua morte e ressurreição",
                      "versiculo":"Desde esse tempo, começou Jesus Cristo a mostrar a seus discípulos que lhe era necessário seguir para Jerusalém e sofrer muitas coisas dos anciãos, dos principais sacerdotes e dos escribas, ser morto e ressuscitado no terceiro dia."
                   },
                   {
@@ -2865,17 +2865,142 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":17,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"A transfiguração",
+                     "versiculo":"Seis dias depois, tomou Jesus consigo a Pedro e aos irmãos Tiago e João e os levou, em particular, a um alto monte."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"E foi transfigurado diante deles; o seu rosto resplandecia como o sol, e as suas vestes tornaram-se brancas como a luz."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"E eis que lhes apareceram Moisés e Elias, falando com ele."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Então, disse Pedro a Jesus: Senhor, bom é estarmos aqui; se queres, farei aqui três tendas; uma será tua, outra para Moisés, outra para Elias."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Falava ele ainda, quando uma nuvem luminosa os envolveu; e eis, vindo da nuvem, uma voz que dizia: Este é o meu Filho amado, em quem me comprazo; a ele ouvi."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Ouvindo-a os discípulos, caíram de bruços, tomados de grande medo."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Aproximando-se deles, tocou-lhes Jesus, dizendo: Erguei-vos e não temais!"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Então, eles, levantando os olhos, a ninguém viram, senão Jesus."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"A vinda de Elias",
+                     "versiculo":"E, descendo eles do monte, ordenou-lhes Jesus: A ninguém conteis a visão, até que o Filho do Homem ressuscite dentre os mortos."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Mas os discípulos o interrogaram: Por que dizem, pois, os escribas ser necessário que Elias venha primeiro?"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Então, Jesus respondeu: De fato, Elias virá e restaurará todas as coisas."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Eu, porém, vos declaro que Elias já veio, e não o reconheceram; antes, fizeram com ele tudo quanto quiseram. Assim também o Filho do Homem há de padecer nas mãos deles."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Então, os discípulos entenderam que lhes falara a respeito de João Batista."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"A cura de um jovem possesso",
+                     "versiculo":"E, quando chegaram para junto da multidão, aproximou-se dele um homem, que se ajoelhou e disse:"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Senhor, compadece-te de meu filho, porque é lunático e sofre muito; pois muitas vezes cai no fogo e outras muitas, na água."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Apresentei-o a teus discípulos, mas eles não puderam curá-lo."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Jesus exclamou: Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos sofrerei? Trazei-me aqui o menino."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"E Jesus repreendeu o demônio, e este saiu do menino; e, desde aquela hora, ficou o menino curado."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Então, os discípulos, aproximando-se de Jesus, perguntaram em particular: Por que motivo não pudemos nós expulsá-lo?"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"E ele lhes respondeu: Por causa da pequenez da vossa fé. Pois em verdade vos digo que, se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá, e ele passará. Nada vos será impossível."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"[Mas esta casta não se expele senão por meio de oração e jejum.]"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"De novo Jesus prediz a sua morte e ressurreição",
+                     "versiculo":"Reunidos eles na Galileia, disse-lhes Jesus: O Filho do Homem está para ser entregue nas mãos dos homens;"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"e estes o matarão; mas, ao terceiro dia, ressuscitará. Então, os discípulos se entristeceram grandemente."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"Jesus paga imposto",
+                     "versiculo":"Tendo eles chegado a Cafarnaum, dirigiram-se a Pedro os que cobravam o imposto das duas dracmas e perguntaram: Não paga o vosso Mestre as duas dracmas?"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Sim, respondeu ele. Ao entrar Pedro em casa, Jesus se lhe antecipou, dizendo: Simão, que te parece? De quem cobram os reis da terra impostos ou tributo: dos seus filhos ou dos estranhos?"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Respondendo Pedro: Dos estranhos, Jesus lhe disse: Logo, estão isentos os filhos."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Mas, para que não os escandalizemos, vai ao mar, lança o anzol, e o primeiro peixe que fisgar, tira-o; e, abrindo-lhe a boca, acharás um estáter. Toma-o e entrega-lhes por mim e por ti."
                   }
                ]
             },
