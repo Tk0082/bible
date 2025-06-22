@@ -4250,7 +4250,7 @@
                   {
                      "numero":25,
                      "titulo":"",
-                     "versiculo":"Ao amanhecer, viu que era Lia. Por isso, disse Jacó a Labão: Que é isso que me fizeste? Não te servi eu por amor a Raquel? Por que, pois, me enganaste? 32 Concebeu, pois, Lia e deu à luz um filho, a quem chamou Rúben, pois disse: O Senhor atendeu à minha aflição. Por isso, agora me amará meu marido."
+                     "versiculo":"Ao amanhecer, viu que era Lia. Por isso, disse Jacó a Labão: Que é isso que me fizeste? Não te servi eu por amor a Raquel? Por que, pois, me enganaste?"
                   },
                   {
                      "numero":26,
@@ -5385,17 +5385,222 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":36,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Os descendentes de Esaú",
+                     "versiculo":"São estes os descendentes de Esaú, que é Edom."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Esaú tomou por mulheres dentre as filhas de Canaã: Ada, filha de Elom, heteu; Oolibama, filha de Aná, filho de Zibeão, heveu;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"e Basemate, filha de Ismael, irmã de Nebaiote."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"A Ada de Esaú lhe nasceu Elifaz, a Basemate lhe nasceu Reuel;"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"e a Oolibama nasceu Jeús, Jalão e Corá; são estes os filhos de Esaú, que lhe nasceram na terra de Canaã."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Levou Esaú suas mulheres, e seus filhos, e suas filhas, e todas as pessoas de sua casa, e seu rebanho, e todo o seu gado, e toda propriedade, tudo que havia adquirido na terra de Canaã; e se foi para outra terra, apartando-se de Jacó, seu irmão."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Porque os bens deles eram muitos para habitarem juntos; e a terra de suas peregrinações não os podia sustentar por causa do seu gado."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Então, Esaú, que é Edom, habitou no monte Seir."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Esta é a descendência de Esaú, pai dos edomitas, no monte Seir."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"São estes os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú; Reuel, filho de Basemate, mulher de Esaú."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Os filhos de Elifaz são: Temã, Omar, Zefô, Gaetã e Quenaz."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Timna era concubina de Elifaz, filho de Esaú, e teve de Elifaz a Amaleque; são estes os filhos de Ada, mulher de Esaú."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"E os filhos de Reuel são estes: Naate, Zerá, Samá e Mizá; estes foram os filhos de Basemate, mulher de Esaú."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"E são estes os filhos de Oolibama, filha de Aná, filho de Zibeão, mulher de Esaú; e deu a Esaú: Jeús, Jalão e Corá."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"São estes os príncipes dos filhos de Esaú; os filhos de Elifaz, o primogênito de Esaú: o príncipe Temã, o príncipe Omar, o príncipe Zefô, o príncipe Quenaz,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"o príncipe Corá, o príncipe Gaetã, o príncipe Amaleque; são estes os príncipes que nasceram a Elifaz na terra de Edom; são os filhos de Ada."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Reuel, filho de Esaú: o príncipe Naate, o príncipe Zerá, o príncipe Samá, o príncipe Mizá; são estes os príncipes que nasceram a Reuel na terra de Edom; são os filhos de Basemate, mulher de Esaú."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Oolibama, mulher de Esaú: o príncipe Jeús, o príncipe Jalão, o príncipe Corá; são estes os príncipes que procederam de Oolibama, filha de Aná, mulher de Esaú."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Esaú, e esses seus príncipes; ele é Edom."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"Descendentes de Seir",
+                     "versiculo":"São estes os filhos de Seir, o horeu, moradores da terra: Lotã, Sobal, Zibeão e Aná,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Disom, Eser e Disã; são estes os príncipes dos horeus, filhos de Seir na terra de Edom."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Os filhos de Lotã são Hori e Homã; a irmã de Lotã é Timna."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Sobal: Alvã, Manaate, Ebal, Sefô e Onã."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Zibeão: Aiá e Aná; este é o Aná que achou as fontes termais no deserto, quando apascentava os jumentos de Zibeão, seu pai."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Aná: Disom e Oolibama, a filha de Aná."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Disom: Hendã, Esbã, Itrã e Querã."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Eser: Bilã, Zaavã e Acã."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"São estes os filhos de Disã: Uz e Arã."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"São estes os príncipes dos horeus: o príncipe Lotã, o príncipe Sobal, o príncipe Zibeão, o príncipe Aná,"
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"o príncipe Disom, o príncipe Eser, o príncipe Disã; são estes os príncipes dos horeus, segundo os seus principados na terra de Seir."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"Reis e príncipes de Edom",
+                     "versiculo":"São estes os reis que reinaram na terra de Edom, antes que houvesse rei sobre os filhos de Israel."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Em Edom reinou Belá, filho de Beor, e o nome da sua cidade era Dinabá."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Morreu Belá, e, em seu lugar, reinou Jobabe, filho de Zerá, de Bozra."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Morreu Jobabe, e, em seu lugar, reinou Husão, da terra dos temanitas."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"Morreu Husão, e, em seu lugar, reinou Hadade, filho de Bedade, o que feriu a Midiã no campo de Moabe; o nome da sua cidade era Avite."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Morreu Hadade, e, em seu lugar, reinou Samlá, de Masreca."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Morreu Samlá, e, em seu lugar, reinou Saul, de Reobote, junto ao Eufrates."
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Morreu Saul, e, em seu lugar, reinou Baal-Hanã, filho de Acbor."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Morreu Baal-Hanã, filho de Acbor, e, em seu lugar, reinou Hadar; o nome de sua cidade era Paú; e o de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"São estes os nomes dos príncipes de Esaú, segundo as suas famílias, os seus lugares e os seus nomes: o príncipe Timna, o príncipe Alva, o príncipe Jetete,"
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"o príncipe Oolibama, o príncipe Elá, o príncipe Pinom,"
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"o príncipe Quenaz, o príncipe Temã, o príncipe Mibzar,"
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"o príncipe Magdiel e o príncipe Irã; são estes os príncipes de Edom, segundo as suas habitações na terra da sua possessão. Este é Esaú, pai de Edom."
                   }
                ]
             },
