@@ -3985,17 +3985,202 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":23,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Jesus censura os escribas e fariseus",
+                     "versiculo":"Então, falou Jesus às multidões e aos seus discípulos:"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Na cadeira de Moisés, se assentaram os escribas e os fariseus."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Fazei e guardai, pois, tudo quanto eles vos disserem, porém não os imiteis nas suas obras; porque dizem e não fazem."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Atam fardos pesados [e difíceis de carregar] e os põem sobre os ombros dos homens; entretanto, eles mesmos nem com o dedo querem movê-los."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Praticam, porém, todas as suas obras com o fim de serem vistos dos homens; pois alargam os seus filactérios e alongam as suas franjas."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Amam o primeiro lugar nos banquetes e as primeiras cadeiras nas sinagogas,"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"as saudações nas praças e o serem chamados mestres pelos homens."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Vós, porém, não sereis chamados mestres, porque um só é vosso Mestre, e vós todos sois irmãos."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"A ninguém sobre a terra chameis vosso pai; porque só um é vosso Pai, aquele que está nos céus."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Nem sereis chamados guias, porque um só é vosso Guia, o Cristo."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Mas o maior dentre vós será vosso servo."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Quem a si mesmo se exaltar será humilhado; e quem a si mesmo se humilhar será exaltado."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"Várias advertências de Jesus",
+                     "versiculo":"Ai de vós, escribas e fariseus, hipócritas, porque fechais o reino dos céus diante dos homens; pois vós não entrais, nem deixais entrar os que estão entrando!"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"[Ai de vós, escribas e fariseus, hipócritas, porque devorais as casas das viúvas e, para o justificar, fazeis longas orações; por isso, sofrereis juízo muito mais severo!]"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Ai de vós, escribas e fariseus, hipócritas, porque rodeais o mar e a terra para fazer um prosélito; e, uma vez feito, o tornais filho do inferno duas vezes mais do que vós!"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Ai de vós, guias cegos, que dizeis: Quem jurar pelo santuário, isso é nada; mas, se alguém jurar pelo ouro do santuário, fica obrigado pelo que jurou!"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Insensatos e cegos! Pois qual é maior: o ouro ou o santuário que santifica o ouro?"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"E dizeis: Quem jurar pelo altar, isso é nada; quem, porém, jurar pela oferta que está sobre o altar fica obrigado pelo que jurou."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Cegos! Pois qual é maior: a oferta ou o altar que santifica a oferta?"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Portanto, quem jurar pelo altar jura por ele e por tudo o que sobre ele está."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Quem jurar pelo santuário jura por ele e por aquele que nele habita;"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"e quem jurar pelo céu jura pelo trono de Deus e por aquele que no trono está sentado."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Ai de vós, escribas e fariseus, hipócritas, porque dais o dízimo da hortelã, do endro e do cominho e tendes negligenciado os preceitos mais importantes da Lei: a justiça, a misericórdia e a fé; devíeis, porém, fazer estas coisas, sem omitir aquelas!"
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Guias cegos, que coais o mosquito e engolis o camelo!"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Ai de vós, escribas e fariseus, hipócritas, porque limpais o exterior do copo e do prato, mas estes, por dentro, estão cheios de rapina e intemperança!"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Fariseu cego, limpa primeiro o interior do copo, para que também o seu exterior fique limpo!"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Ai de vós, escribas e fariseus, hipócritas, porque sois semelhantes aos sepulcros caiados, que, por fora, se mostram belos, mas interiormente estão cheios de ossos de mortos e de toda imundícia!"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Assim também vós exteriormente pareceis justos aos homens, mas, por dentro, estais cheios de hipocrisia e de iniquidade."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Ai de vós, escribas e fariseus, hipócritas, porque edificais os sepulcros dos profetas, adornais os túmulos dos justos"
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"e dizeis: Se tivéssemos vivido nos dias de nossos pais, não teríamos sido seus cúmplices no sangue dos profetas!"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Assim, contra vós mesmos, testificais que sois filhos dos que mataram os profetas."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Enchei vós, pois, a medida de vossos pais."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Serpentes, raça de víboras! Como escapareis da condenação do inferno?"
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Por isso, eis que eu vos envio profetas, sábios e escribas. A uns matareis e crucificareis; a outros açoitareis nas vossas sinagogas e perseguireis de cidade em cidade;"
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"para que sobre vós recaia todo o sangue justo derramado sobre a terra, desde o sangue do justo Abel até ao sangue de Zacarias, filho de Baraquias, a quem matastes entre o santuário e o altar."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Em verdade vos digo que todas estas coisas hão de vir sobre a presente geração."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"O lamento sobre Jerusalém",
+                     "versiculo":"Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te foram enviados! Quantas vezes quis eu reunir os teus filhos, como a galinha ajunta os seus pintinhos debaixo das asas, e vós não o quisestes!"
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Eis que a vossa casa vos ficará deserta."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Declaro-vos, pois, que, desde agora, já não me vereis, até que venhais a dizer: Bendito o que vem em nome do Senhor!"
                   }
                ]
             },
