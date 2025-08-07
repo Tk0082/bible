@@ -70,15 +70,15 @@
 
 				response.json().then((dados) => {
 					dados.livros.map((livro) => {
-            divLivros.innerHTML += `<br><div style="margin:5px;"><h2 id="nomeliv">${livro.posit}</h2></div>`
-            divLivros.innerHTML += `<hr>`
-						livro.nomes.map((nm) => {
+                  divLivros.innerHTML += `<br><div id="nomeliv" ><h2>${livro.posit}</h2></div>`
+                  divLivros.innerHTML += `<hr><br>`
+                  livro.nomes.map((nm) => {
                      divLivros.innerHTML += `<p class="txtitulo"><a class="lnkcap" href="${nm.lnk}" >${nm.abrev}</a></p>`
-						})
-            divLivros.innerHTML += `<br>`
-					})
-				})
-        divLivros.innerHTML += `</div><br>`
+                  })
+                  divLivros.innerHTML += `</br></br>`
+               })
+            })
+            divLivros.innerHTML += `</div><br>`
 			})
 		</script>
 	</body>

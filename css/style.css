@@ -16,7 +16,10 @@ a:hover, a:link, a:visited, a:hover{
 html{
 	background: #404040;
 	-ms-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%
+	-webkit-text-size-adjust: 100%;
+	font-family: 'Quicksand', serif;
+   margin: 0;
+   padding: 0
 }
 .txlivro{
 	color: #ffba00;
@@ -25,6 +28,7 @@ html{
 	font-style: bold;
 	font-weight: 800;
 	font-size: 22px;
+   margin-top: 50px;
 }
 .txtitulo{
 	color: #ffba00;
@@ -33,7 +37,9 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight:800;
-	font-size: 22px;
+	font-size: 20px;
+   display: inline-block;
+   justify-content: center;
 }
 .txcontent{
 	font-family: 'Quicksand', serif;
@@ -44,6 +50,7 @@ html{
 	margin: 0 20px;
    @media(max-width: 480px){ 
       font-size: 30px;
+	   font-optical-sizing: auto;
    }
 }
 #topbar{
@@ -207,14 +214,12 @@ html{
 	box-shadow: 0 2px 4px rgba(0,0,0,,4);
 }
 #wrap{
+   position: absolute;
+   margin: 0 auto;
 	width: 90%;
 	height: auto;
-   display: block;
-   top: 20px;
-   bottom: 0;
-   right: 5%;
-   left: 5%;
-   justify-content: center;
+   display: inline-block;
+   left: -10px
 }
 #ready{
   position: relative;
@@ -234,7 +239,8 @@ html{
    left: 3.2%;
    display: block;
    float: left;
-	padding: 10px 20px;
+   overflow-y: auto;
+	padding: 0 20px 10px 20px;
 	bottom: 0;
 	background: rgba(255,186,0,.8);
    backdrop-filter: blur(1.5px);
@@ -243,37 +249,49 @@ html{
 	transition: .3s;
 }
 #liv:hover{
-	height: auto;
+	height: 280px;;
 	transition: .5s;
 }
 #liv h2{
-	color: #303030;
+	color: #ffba00;
+   font-family: 'Quicksand', serif;
+	font-optical-sizing: auto;
+	font-size: 28px;
+	font-style: bold;
+	font-weight: 800;
 	text-shadow: 0 2px 4px rgba(0,0,0,.4);
 }
 #divliv{
 	position: relative;
-	width: 90%;
+   margin: 0 auto;
+	width: 100%;
 	height: 20px;
+   display: block;
+   justify-content:center;
+}
+#nomeliv{
+   display: flex;
+   justify-content: center;
 }
 #nomeliv{
 	color: #ffba00;
 	font-family: 'Quicksand', serif;
 	font-optical-sizing: auto;
+	text-shadow: 0 2px 4px rgba(0,0,0,.4);
+	font-size: 23px;
 	font-style: bold;
 	font-weight: 800;
-   margin-right: 5px;
-   margin-left: 5px;
+   margin-top: 15px;
 }
 #list-livros{
   position: relative; 
-  width: 98%;
+  width: 100%;
   top: 80px;
   right: 4.5%;
   left: 4.5%;
   margin-bottom: 200px;
   padding: 20px;
-  display: block;
-  float: left;
+  display: inline-block;
   border-radius: 10px; 
   background: rgba(255,186,0,.6); 
   backdrop-filter: blur(1.5px);
@@ -284,7 +302,6 @@ html{
 	width: 50px;
 	margin: 10px;
 	display: inline-block;
-	float: left;
 	text-align: center;
    border-radius: 8px;
    box-shadow: 0 2px 3px rgba(0,0,0,.4);
@@ -327,34 +344,44 @@ html{
 .ico {
    width: 16px;
    height: 16px;
-   margin: 0 0 -5px 0;
+   margin: 0 0 -2px 0;
    padding: 15px 0 0  0
 }
 .accordion-gallery {
    margin: 0 auto;
    box-sizing: border-box;
-   justify-content:center;
+   display: -webkit-box;
    display: flex;
+   -webkit-box-pack: center;
+   justify-content: center;
+   -webkit-box-align: center;
    align-items: center;
    width: 95%;
-   max-width: 920px;
-   height: 1000px;
+   max-width: 950px;
+   height: 500px;
    overflow: hidden;
    border-radius: 10px;
 }
+
 .accordion-gallery img {
-   width: 100%;
-   height: 100%;
+   width: 15%;
+   height: 500px;
+   -o-object-fit: cover;
    object-fit: cover;
+   -webkit-transition: all 0.5s ease;
    transition: all 0.5s ease;
    cursor: pointer;
+   -webkit-box-flex: 1;
    flex: 1;
+   -webkit-filter: grayscale(60%);
    filter: grayscale(60%);
 }
+
 .accordion-gallery img:hover {
-   flex: 5;
+   -webkit-box-flex: 2;
+   flex: 2;
+   -webkit-filter: grayscale(0%);
    filter: grayscale(0%);
+   width: 100%;
 }
-.mmm img {
-   height:500px
-}
+
