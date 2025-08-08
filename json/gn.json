@@ -520,7 +520,7 @@
                   {
                      "numero":20,
                      "titulo":"",
-                     "versiculo":"Ada deu à luz a jabal; este foi o pai dos que habitam em tendas e possuem gado."
+                     "versiculo":"Ada deu à luz a Jabal; este foi o pai dos que habitam em tendas e possuem gado."
                   },
                   {
                      "numero":21,
@@ -895,7 +895,7 @@
                   {
                      "numero":12,
                      "titulo":"",
-                     "versiculo":"Gênesis 7:12 e houve copiosa chuva sobre a terra durante quarenta dias e quarenta noites."
+                     "versiculo":"e houve copiosa chuva sobre a terra durante quarenta dias e quarenta noites."
                   },
                   {
                      "numero":13,
@@ -6185,17 +6185,292 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":41,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"José interpreta os sonhos de Faraó",
+                     "versiculo":"Passados dois anos completos, Faraó teve um sonho. Parecia-lhe achar-se ele de pé junto ao Nilo."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Do rio subiam sete vacas formosas à vista e gordas e pastavam no carriçal."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Após elas subiam do rio outras sete vacas, feias à vista e magras; e pararam junto às primeiras, na margem do rio."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"As vacas feias à vista e magras comiam as sete formosas à vista e gordas. Então, acordou Faraó."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Tornando a dormir, sonhou outra vez. De uma só haste saíam sete espigas cheias e boas."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"E após elas nasciam sete espigas mirradas, crestadas do vento oriental."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"As espigas mirradas devoravam as sete espigas grandes e cheias. Então, acordou Faraó. Fora isto um sonho."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"De manhã, achando-se ele de espírito perturbado, mandou chamar todos os magos do Egito e todos os seus sábios e lhes contou os sonhos; mas ninguém havia que lhos interpretasse."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Então, disse a Faraó o copeiro-chefe: Lembro-me hoje das minhas ofensas."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Estando Faraó mui indignado contra os seus servos e pondo-me sob prisão na casa do comandante da guarda, a mim e ao padeiro-chefe,"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Achava-se conosco um jovem hebreu, servo do comandante da guarda; contamos-lhe os nossos sonhos, e ele no-los interpretou, a cada um segundo o seu sonho."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Achava-se conosco um jovem hebreu, servo do comandante da guarda; contamos-lhe os nossos sonhos, e ele no-los interpretou, a cada um segundo o seu sonho."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"E como nos interpretou, assim mesmo se deu: eu fui restituído ao meu cargo, o outro foi enforcado."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Então, Faraó mandou chamar a José, e o fizeram sair à pressa da masmorra; ele se barbeou, mudou de roupa e foi apresentar-se a Faraó."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Este lhe disse: Tive um sonho, e não há quem o interprete. Ouvi dizer, porém, a teu respeito que, quando ouves um sonho, podes interpretá-lo."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Respondeu-lhe José: Não está isso em mim; mas Deus dará resposta favorável a Faraó."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Então, contou Faraó a José: No meu sonho, estava eu de pé na margem do Nilo,"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"e eis que subiam dele sete vacas gordas e formosas à vista e pastavam no carriçal."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Após estas subiam outras vacas, fracas, mui feias à vista e magras; nunca vi outras assim disformes, em toda a terra do Egito."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"E as vacas magras e ruins comiam as primeiras sete gordas;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"e, depois de as terem engolido, não davam aparência de as terem devorado, pois o seu aspecto continuava ruim como no princípio. Então, acordei."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Depois, vi, em meu sonho, que sete espigas saíam da mesma haste, cheias e boas;"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"após elas nasceram sete espigas secas, mirradas e crestadas do vento oriental."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"As sete espigas mirradas devoravam as sete espigas boas. Contei-o aos magos, mas ninguém houve que mo interpretasse."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Então, lhe respondeu José: O sonho de Faraó é apenas um; Deus manifestou a Faraó o que há de fazer."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"As sete vacas boas serão sete anos; as sete espigas boas, também sete anos; o sonho é um só."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"As sete vacas magras e feias, que subiam após as primeiras, serão sete anos, bem como as sete espigas mirradas e crestadas do vento oriental serão sete anos de fome."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Esta é a palavra, como acabo de dizer a Faraó, que Deus manifestou a Faraó que ele há de fazer."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Eis aí vêm sete anos de grande abundância por toda a terra do Egito."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Seguir-se-ão sete anos de fome, e toda aquela abundância será esquecida na terra do Egito, e a fome consumirá a terra;"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"e não será lembrada a abundância na terra, em vista da fome que seguirá, porque será gravíssima."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"O sonho de Faraó foi dúplice, porque a coisa é estabelecida por Deus, e Deus se apressa a fazê-la."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, escolha Faraó um homem ajuizado e sábio e o ponha sobre a terra do Egito."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Faça isso Faraó, e ponha administradores sobre a terra, e tome a quinta parte dos frutos da terra do Egito nos sete anos de fartura."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"Ajuntem os administradores toda a colheita dos bons anos que virão, recolham cereal debaixo do poder de Faraó, para mantimento nas cidades, e o guardem."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Assim, o mantimento será para abastecer a terra nos sete anos da fome que haverá no Egito; para que a terra não pereça de fome."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"José como governador do Egito",
+                     "versiculo":"O conselho foi agradável a Faraó e a todos os seus oficiais."
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Disse Faraó aos seus oficiais: Acharíamos, porventura, homem como este, em quem há o Espírito de Deus?"
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Depois, disse Faraó a José: Visto que Deus te fez saber tudo isto, ninguém há tão ajuizado e sábio como tu."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Administrarás a minha casa, e à tua palavra obedecerá todo o meu povo; somente no trono eu serei maior do que tu."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Disse mais Faraó a José: Vês que te faço autoridade sobre toda a terra do Egito."
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"Então, tirou Faraó o seu anel de sinete da mão e o pôs na mão de José, fê-lo vestir roupas de linho fino e lhe pôs ao pescoço um colar de ouro."
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"E fê-lo subir ao seu segundo carro, e clamavam diante dele: Inclinai-vos! Desse modo, o constituiu sobre toda a terra do Egito."
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"",
+                     "versiculo":"Disse ainda Faraó a José: Eu sou Faraó, contudo sem a tua ordem ninguém levantará mão ou pé em toda a terra do Egito."
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"",
+                     "versiculo":"E a José chamou Faraó de Zafenate-Paneia e lhe deu por mulher a Asenate, filha de Potífera, sacerdote de Om; e percorreu José toda a terra do Egito."
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"Era José da idade de trinta anos quando se apresentou a Faraó, rei do Egito, e andou por toda a terra do Egito."
+                  },
+                  {
+                     "numero":47,
+                     "titulo":"",
+                     "versiculo":"Nos sete anos de fartura a terra produziu abundantemente."
+                  },
+                  {
+                     "numero":48,
+                     "titulo":"",
+                     "versiculo":"E ajuntou José todo o mantimento que houve na terra do Egito durante os sete anos e o guardou nas cidades; o mantimento do campo ao redor de cada cidade foi guardado na mesma cidade."
+                  },
+                  {
+                     "numero":49,
+                     "titulo":"",
+                     "versiculo":"Assim, ajuntou José muitíssimo cereal, como a areia do mar, até perder a conta, porque ia além das medidas."
+                  },
+                  {
+                     "numero":50,
+                     "titulo":"",
+                     "versiculo":"Antes de chegar a fome, nasceram dois filhos a José, os quais lhe deu Asenate, filha de Potífera, sacerdote de Om."
+                  },
+                  {
+                     "numero":51,
+                     "titulo":"",
+                     "versiculo":"José ao primogênito chamou de Manassés, pois disse: Deus me fez esquecer de todos os meus trabalhos e de toda a casa de meu pai."
+                  },
+                  {
+                     "numero":52,
+                     "titulo":"",
+                     "versiculo":"Ao segundo, chamou-lhe Efraim, pois disse: Deus me fez próspero na terra da minha aflição."
+                  },
+                  {
+                     "numero":53,
+                     "titulo":"",
+                     "versiculo":"Passados os sete anos de abundância, que houve na terra do Egito,"
+                  },
+                  {
+                     "numero":54,
+                     "titulo":"",
+                     "versiculo":"começaram a vir os sete anos de fome, como José havia predito; e havia fome em todas as terras, mas em toda a terra do Egito havia pão."
+                  },
+                  {
+                     "numero":55,
+                     "titulo":"",
+                     "versiculo":"Sentindo toda a terra do Egito a fome, clamou o povo a Faraó por pão; e Faraó dizia a todos os egípcios: Ide a José; o que ele vos disser fazei."
+                  },
+                  {
+                     "numero":56,
+                     "titulo":"",
+                     "versiculo":"Havendo, pois, fome sobre toda a terra, abriu José todos os celeiros e vendia aos egípcios; porque a fome prevaleceu na terra do Egito."
+                  },
+                  {
+                     "numero":57,
+                     "titulo":"",
+                     "versiculo":"E todas as terras vinham ao Egito, para comprar de José, porque a fome prevaleceu em todo o mundo."
                   }
                ]
             },
