@@ -11,7 +11,13 @@ a:hover, a:link, a:visited, a:hover{
 	color: #ffba00;
 	text-decoration: none;
 	font-family: 'Quicksand', serif;
+	font-optical-sizing: auto;
 	
+}
+/* Estilos para telas menores que 768px (Mobile-first) */
+body {
+   font-family: 'Quicksand', serif;
+   line-height: 1.6;
 }
 html{
 	background: #404040;
@@ -37,7 +43,7 @@ html{
 	font-optical-sizing: auto;
 	font-style: bold;
 	font-weight:800;
-	font-size: 20px;
+	font-size: 18px;
    display: inline-block;
    justify-content: center;
 }
@@ -48,10 +54,54 @@ html{
    font-size: 20px;
 	color: #ffba00;
 	margin: 0 20px;
-   @media(max-width: 480px){ 
-      font-size: 30px;
-	   font-optical-sizing: auto;
-   }
+}
+/* Estilos base para dispositivos móveis (celulares) */
+p, a { font-size: 35px; }
+
+h1 { font-size: 45px; }
+
+h2 { font-size: 40px; }
+
+h3 { font-size: 35px; }
+
+h4 { font-size: 20px; }
+
+h5 { font-size: 15px; }
+
+h6 { font-size: 14px; }
+
+/* Tablets (largura entre 600px e 1024px) */
+@media (min-width: 600px) and (max-width: 1024px) {
+  p, a { font-size: 24px; }
+
+  h1 { font-size: 28px; }
+
+  h2 { font-size: 26px; }
+
+  h3 { font-size: 24px; }
+
+  h4 { font-size: 22px; }
+
+  h5 { font-size: 20px; }
+
+  h6 { font-size: 18px; }
+}
+
+/* Desktops (largura acima de 1024px) */
+@media (min-width: 1025px) {
+  p, a { font-size: 20px; }
+
+  h1 { font-size: 32px; }
+
+  h2 { font-size: 30px; }
+
+  h3 { font-size: 28px; }
+
+  h4 { font-size: 26px; }
+
+  h5 { font-size: 24px; }
+
+  h6 { font-size: 22px; }
 }
 #topbar{
 	z-index: 10;
@@ -240,6 +290,8 @@ html{
    display: block;
    float: left;
    overflow-y: auto;
+   -ms-overflow-style: none;
+   scrollbar-width: none;
 	padding: 0 20px 10px 20px;
 	bottom: 0;
 	background: rgba(255,186,0,.8);
@@ -247,6 +299,9 @@ html{
 	border-radius: 10px 10px 0 0;
 	justify-content: center;
 	transition: .3s;
+}
+#liv::-webkit-scrollbar {
+   display: none;
 }
 #liv:hover{
 	height: 280px;;
@@ -384,4 +439,3 @@ html{
    filter: grayscale(0%);
    width: 100%;
 }
-
