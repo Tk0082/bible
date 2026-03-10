@@ -990,17 +990,287 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":6,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Jjesus prega em Nazaré. É rejeitado pelos seus \n(Mt 13.53-58; Lc 4.16-30)",
+                     "versiculo":"Tendo Jesus partido dali, foi para a sua terra, e os seus discípulos o acompanharam."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Chegando o sábado, passou a ensinar na sinagoga; e muitos, ouvindo-o, se maravilhavam, dizendo: Donde vêm a este estas coisas? Que sabedoria é esta que lhe foi dada? E como se fazem tais maravilhas por suas mãos?"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Não é este o carpinteiro, filho de Maria, irmão de Tiago, José, Judas e Simão? E não vivem aqui entre nós suas irmãs? E escandalizavam-se nele."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Jesus, porém, lhes disse: Não há profeta sem honra, senão na sua terra, entre os seus parentes e na sua casa."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Não pôde fazer ali nenhum milagre, senão curar uns poucos enfermos, impondo-lhes as mãos."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Admirou-se da incredulidade deles. Contudo, percorria as aldeias circunvizinhas, a ensinar."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"  As instruções para os doze \n(Mt 10.5-25; Lc 9.1-6)",
+                     "versiculo":"Chamou Jesus os doze e passou a enviá-los de dois a dois, dando-lhes autoridade sobre os espíritos imundos."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Ordenou-lhes que nada levassem para o caminho, exceto um bordão; nem pão, nem alforje, nem dinheiro;"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"que fossem calçados de sandálias e não usassem duas túnicas."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"E recomendou-lhes: Quando entrardes nalguma casa, permanecei aí até vos retirardes do lugar."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Se nalgum lugar não vos receberem nem vos ouvirem, ao sairdes dali, sacudi o pó dos pés, em testemunho contra eles."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Então, saindo eles, pregavam ao povo que se arrependesse;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"expeliam muitos demônios e curavam numerosos enfermos, ungindo-os com óleo."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"A morte de João Batista \n(Mt 14.1-12; Lc 9.7-9)",
+                     "versiculo":"Chegou isto aos ouvidos do rei Herodes, porque o nome de Jesus já se tornara notório; e alguns diziam: João Batista ressuscitou dentre os mortos, e, por isso, nele operam forças miraculosas."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Outros diziam: É Elias; ainda outros: É profeta como um dos profetas."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Herodes, porém, ouvindo isto, disse: É João, a quem eu mandei decapitar, que ressurgiu."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Porque o mesmo Herodes, por causa de Herodias, mulher de seu irmão Filipe (porquanto Herodes se casara com ela), mandara prender a João e atá-lo no cárcere."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Pois João lhe dizia: Não te é lícito possuir a mulher de teu irmão."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"E Herodias o odiava, querendo matá-lo, e não podia."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Porque Herodes temia a João, sabendo que era homem justo e santo, e o tinha em segurança. E, quando o ouvia, ficava perplexo, escutando-o de boa mente."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"E, chegando um dia favorável, em que Herodes no seu aniversário natalício dera um banquete aos seus dignitários, aos oficiais militares e aos principais da Galileia,"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"entrou a filha de Herodias e, dançando, agradou a Herodes e aos seus convivas. Então, disse o rei à jovem: Pede-me o que quiseres, e eu to darei."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"E jurou-lhe: Se pedires mesmo que seja a metade do meu reino, eu ta darei."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Saindo ela, perguntou à sua mãe: Que pedirei? Esta respondeu: A cabeça de João Batista."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"No mesmo instante, voltando apressadamente para junto do rei, disse: Quero que, sem demora, me dês num prato a cabeça de João Batista."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Entristeceu-se profundamente o rei; mas, por causa do juramento e dos que estavam com ele à mesa, não lha quis negar."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"E, enviando logo o executor, mandou que lhe trouxessem a cabeça de João. Ele foi, e o decapitou no cárcere,"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"e, trazendo a cabeça num prato, a entregou à jovem, e esta, por sua vez, a sua mãe."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Os discípulos de João, logo que souberam disto, vieram, levaram-lhe o corpo e o depositaram no túmulo."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"A primeira multiplicação de pães e peixes \n(Mt 14.13-21; Lc 9.10-17; Jo 6.1-14)",
+                     "versiculo":"Voltaram os apóstolos à presença de Jesus e lhe relataram tudo quanto haviam feito e ensinado."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"E ele lhes disse: Vinde repousar um pouco, à parte, num lugar deserto; porque eles não tinham tempo nem para comer, visto serem numerosos os que iam e vinham."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Então, foram sós no barco para um lugar solitário."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Muitos, porém, os viram partir e, reconhecendo-os, correram para lá, a pé, de todas as cidades, e chegaram antes deles."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Ao desembarcar, viu Jesus uma grande multidão e compadeceu-se deles, porque eram como ovelhas que não têm pastor. E passou a ensinar-lhes muitas coisas."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"Em declinando a tarde, vieram os discípulos a Jesus e lhe disseram: É deserto este lugar, e já avançada a hora;"
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"despede-os para que, passando pelos campos ao redor e pelas aldeias, comprem para si o que comer."
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Porém ele lhes respondeu: Dai-lhes vós mesmos de comer. Disseram-lhe: Iremos comprar duzentos denários de pão para lhes dar de comer?"
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"E ele lhes disse: Quantos pães tendes? Ide ver! E, sabendo-o eles, responderam: Cinco pães e dois peixes."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Então, Jesus lhes ordenou que todos se assentassem, em grupos, sobre a relva verde."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"E o fizeram, repartindo-se em grupos de cem em cem e de cinquenta em cinquenta."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Tomando ele os cinco pães e os dois peixes, erguendo os olhos ao céu, os abençoou; e, partindo os pães, deu-os aos discípulos para que os distribuíssem; e por todos repartiu também os dois peixes."
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"Todos comeram e se fartaram;"
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"e ainda recolheram doze cestos cheios de pedaços de pão e de peixe."
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"",
+                     "versiculo":"Os que comeram dos pães eram cinco mil homens."
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"Jesus anda por sobre o mar \n(Mt 14.22-33; Jo 6.16-21)",
+                     "versiculo":"Logo a seguir, compeliu Jesus os seus discípulos a embarcar e passar adiante para o outro lado, a Betsaida, enquanto ele despedia a multidão."
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"E, tendo-os despedido, subiu ao monte para orar."
+                  },
+                  {
+                     "numero":47,
+                     "titulo":"",
+                     "versiculo":"Ao cair da tarde, estava o barco no meio do mar, e ele, sozinho em terra."
+                  },
+                  {
+                     "numero":48,
+                     "titulo":"",
+                     "versiculo":"E, vendo-os em dificuldade a remar, porque o vento lhes era contrário, por volta da quarta vigília da noite, veio ter com eles, andando por sobre o mar; e queria tomar-lhes a dianteira."
+                  },
+                  {
+                     "numero":49,
+                     "titulo":"",
+                     "versiculo":"Eles, porém, vendo-o andar sobre o mar, pensaram tratar-se de um fantasma e gritaram."
+                  },
+                  {
+                     "numero":50,
+                     "titulo":"",
+                     "versiculo":"Pois todos ficaram aterrados à vista dele. Mas logo lhes falou e disse: Tende bom ânimo! Sou eu. Não temais!"
+                  },
+                  {
+                     "numero":51,
+                     "titulo":"",
+                     "versiculo":"E subiu para o barco para estar com eles, e o vento cessou. Ficaram entre si atônitos,"
+                  },
+                  {
+                     "numero":52,
+                     "titulo":"",
+                     "versiculo":"porque não haviam compreendido o milagre dos pães; antes, o seu coração estava endurecido."
+                  },
+                  {
+                     "numero":53,
+                     "titulo":"Jesus em Genesaré \n(Mt 14.34-36)",
+                     "versiculo":"Estando já no outro lado, chegaram a terra, em Genesaré, onde aportaram."
+                  },
+                  {
+                     "numero":54,
+                     "titulo":"",
+                     "versiculo":"Saindo eles do barco, logo o povo reconheceu Jesus;"
+                  },
+                  {
+                     "numero":55,
+                     "titulo":"",
+                     "versiculo":"e, percorrendo toda aquela região, traziam em leitos os enfermos, para onde ouviam que ele estava."
+                  },
+                  {
+                     "numero":56,
+                     "titulo":"",
+                     "versiculo":"Onde quer que ele entrasse nas aldeias, cidades ou campos, punham os enfermos nas praças, rogando-lhe que os deixasse tocar ao menos na orla da sua veste; e quantos a tocavam saíam curados."
                   }
                ]
             },
