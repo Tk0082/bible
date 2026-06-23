@@ -1665,17 +1665,257 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":9,
                "versiculos":[
                   {
                      "numero":1,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Dizia-lhes ainda: Em verdade vos afirmo que, dos que aqui se encontram, alguns há que, de maneira nenhuma, passarão pela morte até que vejam ter chegado com poder o reino de Deus."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
+                     "titulo":"A transfiguração \n(Mt 17.1-8; Lc 9.28-37)",
+                     "versiculo":"Seis dias depois, tomou Jesus consigo a Pedro, Tiago e João e levou-os sós, à parte, a um alto monte. Foi transfigurado diante deles;"
+                  },
+                  {
+                     "numero":3,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"as suas vestes tornaram-se resplandecentes e sobremodo brancas, como nenhum lavandeiro na terra as poderia alvejar."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Apareceu-lhes Elias com Moisés, e estavam falando com Jesus."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Então, Pedro, tomando a palavra, disse: Mestre, bom é estarmos aqui e que façamos três tendas: uma será tua, outra, para Moisés, e outra, para Elias."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Pois não sabia o que dizer, por estarem eles aterrados."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"A seguir, veio uma nuvem que os envolveu; e dela uma voz dizia: Este é o meu Filho amado; a ele ouvi."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"E, de relance, olhando ao redor, a ninguém mais viram com eles, senão Jesus."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"A vinda de Elias \n(Mt 17.9-13)",
+                     "versiculo":"Ao descerem do monte, ordenou-lhes Jesus que não divulgassem as coisas que tinham visto, até o dia em que o Filho do Homem ressuscitasse dentre os mortos."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Eles guardaram a recomendação, perguntando uns aos outros que seria o ressuscitar dentre os mortos."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"E interrogaram-no, dizendo: Por que dizem os escribas ser necessário que Elias venha primeiro?"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Então, ele lhes disse: Elias, vindo primeiro, restaurará todas as coisas; como, pois, está escrito sobre o Filho do Homem que sofrerá muito e será aviltado?"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Eu, porém, vos digo que Elias já veio, e fizeram com ele tudo o que quiseram, como a seu respeito está escrito."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"A cura de um jovem possesso \n(Mt 17.14-21; Lc 9.37-43)",
+                     "versiculo":"Quando eles se aproximaram dos discípulos, viram numerosa multidão ao redor e que os escribas discutiam com eles."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"E logo toda a multidão, ao ver Jesus, tomada de surpresa, correu para ele e o saudava."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Então, ele interpelou os escribas: Que é que discutíeis com eles?"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"E um, dentre a multidão, respondeu: Mestre, trouxe-te o meu filho, possesso de um espírito mudo;"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"e este, onde quer que o apanha, lança-o por terra, e ele espuma, rilha os dentes e vai definhando. Roguei a teus discípulos que o expelissem, e eles não puderam."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Então, Jesus lhes disse: Ó geração incrédula, até quando estarei convosco? Até quando vos sofrerei? Trazei-mo."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"E trouxeram-lho; quando ele viu a Jesus, o espírito imediatamente o agitou com violência, e, caindo ele por terra, revolvia-se espumando."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Perguntou Jesus ao pai do menino: Há quanto tempo isto lhe sucede? Desde a infância, respondeu;"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"e muitas vezes o tem lançado no fogo e na água, para o matar; mas, se tu podes alguma coisa, tem compaixão de nós e ajuda-nos."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Ao que lhe respondeu Jesus: Se podes! Tudo é possível ao que crê."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"E imediatamente o pai do menino exclamou [com lágrimas]: Eu creio! Ajuda-me na minha falta de fé!"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Vendo Jesus que a multidão concorria, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno: Sai deste jovem e nunca mais tornes a ele."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"E ele, clamando e agitando-o muito, saiu, deixando-o como se estivesse morto, a ponto de muitos dizerem: Morreu."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Quando entrou em casa, os seus discípulos lhe perguntaram em particular: Por que não pudemos nós expulsá-lo?"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Respondeu-lhes: Esta casta não pode sair senão por meio de oração [e jejum]."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"De novo Jesus prediz sua morte e ressurreição \n(Mt 17.22-23; Lc 9.43b-45)",
+                     "versiculo":"E, tendo partido dali, passavam pela Galileia, e não queria que ninguém o soubesse;"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"porque ensinava os seus discípulos e lhes dizia: O Filho do Homem será entregue nas mãos dos homens, e o matarão; mas, três dias depois da sua morte, ressuscitará."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Eles, contudo, não compreendiam isto e temiam interrogá-lo."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"O maior no reino dos céus \n(Mt 18.1-5; Lc 9.46-48)",
+                     "versiculo":"Tendo eles partido para Cafarnaum, estando ele em casa, interrogou os discípulos: De que é que discorríeis pelo caminho?"
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Mas eles guardaram silêncio; porque, pelo caminho, haviam discutido entre si sobre quem era o maior."
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"E ele, assentando-se, chamou os doze e lhes disse: Se alguém quer ser o primeiro, será o último e servo de todos."
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"Trazendo uma criança, colocou-a no meio deles e, tomando-a nos braços, disse-lhes:"
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Qualquer que receber uma criança, tal como esta, em meu nome, a mim me recebe; e qualquer que a mim me receber, não recebe a mim, mas ao que me enviou."
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"Jesus ensina a tolerância e a caridade \n(Lc 9.49-50)",
+                     "versiculo":"Disse-lhe João: Mestre, vimos um homem que, em teu nome, expelia demônios, o qual não nos segue; e nós lho proibimos, porque não seguia conosco."
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Mas Jesus respondeu: Não lho proibais; porque ninguém há que faça milagre em meu nome e, logo a seguir, possa falar mal de mim."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Pois quem não é contra nós é por nós."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Porquanto, aquele que vos der de beber um copo de água, em meu nome, porque sois de Cristo, em verdade vos digo que de modo algum perderá o seu galardão."
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"Os tropeços \n(Mt 18.6-9; Lc 17.1-2)",
+                     "versiculo":"E quem fizer tropeçar a um destes pequeninos crentes, melhor lhe fora que se lhe pendurasse ao pescoço uma grande pedra de moinho, e fosse lançado no mar."
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"E, se tua mão te faz tropeçar, corta-a; pois é melhor entrares maneta na vida do que, tendo as duas mãos, ires para o inferno, para o fogo inextinguível"
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"",
+                     "versiculo":"[onde não lhes morre o verme, nem o fogo se apaga]."
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"",
+                     "versiculo":"E, se teu pé te faz tropeçar, corta-o; é melhor entrares na vida aleijado do que, tendo os dois pés, seres lançado no inferno"
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"[onde não lhes morre o verme, nem o fogo se apaga]."
+                  },
+                  {
+                     "numero":47,
+                     "titulo":"",
+                     "versiculo":"E, se um dos teus olhos te faz tropeçar, arranca-o; é melhor entrares no reino de Deus com um só dos teus olhos do que, tendo os dois seres lançado no inferno,"
+                  },
+                  {
+                     "numero":48,
+                     "titulo":"",
+                     "versiculo":"onde não lhes morre o verme, nem o fogo se apaga."
+                  },
+                  {
+                     "numero":49,
+                     "titulo":"Os discípulos, o sal da terra \n(Mt 5.13; Lc 14.34-35)",
+                     "versiculo":"Porque cada um será salgado com fogo."
+                  },
+                  {
+                     "numero":50,
+                     "titulo":"",
+                     "versiculo":"Bom é o sal; mas, se o sal vier a tornar-se insípido, como lhe restaurar o sabor? Tende sal em vós mesmos e paz uns com os outros."
                   }
                ]
             },
