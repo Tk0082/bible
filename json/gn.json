@@ -6845,17 +6845,177 @@
                ]
             },
             {
-               "capitulo":1,
+               "capitulo":44,
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Estratagema de José para deter seus irmãos",
+                     "versiculo":"Deu José esta ordem ao mordomo de sua casa: Enche de mantimento os sacos que estes homens trouxeram, quanto puderem levar, e põe o dinheiro de cada um na boca do saco de mantimento."
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"O meu copo de prata pô-lo-ás na boca do saco de mantimento do mais novo, com o dinheiro do seu cereal. E assim se fez segundo José dissera."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"De manhã, quando já claro, despediram-se estes homens, eles com os seus jumentos."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Tendo saído eles da cidade, não se havendo ainda distanciado, disse José ao mordomo de sua casa: Levanta-te e segue após esses homens; e, alcançando-os, lhes dirás: Por que pagastes mal por bem?"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Não é este o copo em que bebe meu senhor? E por meio do qual faz as suas adivinhações? Procedestes mal no que fizestes."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"E alcançou-os e lhes falou essas palavras."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Então, lhe responderam: Por que diz meu senhor tais palavras? Longe estejam teus servos de praticar semelhante coisa."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"O dinheiro que achamos na boca dos sacos de mantimento, tornamos a trazer-te desde a terra de Canaã; como, pois, furtaríamos da casa do teu senhor prata ou ouro?"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Aquele dos teus servos, com quem for achado, morra; e nós ainda seremos escravos do meu senhor."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Então, lhes respondeu: Seja conforme as vossas palavras; aquele com quem se achar será meu escravo, porém vós sereis inculpados."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"E se apressaram, e, tendo cada um posto o saco de mantimento em terra, o abriu."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"O mordomo os examinou, começando do mais velho e acabando no mais novo; e achou-se o copo no saco de mantimento de Benjamim."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Então, rasgaram as suas vestes e, carregados de novo os jumentos, tornaram à cidade."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"A defesa de Judá",
+                     "versiculo":"E chegou Judá com seus irmãos à casa de José; este ainda estava ali; e prostraram-se em terra diante dele."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Disse-lhes José: Que é isso que fizestes? Não sabíeis vós que tal homem como eu é capaz de adivinhar?"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Então, disse Judá: Que responderemos a meu senhor? Que falaremos? E como nos justificaremos? Achou Deus a iniquidade de teus servos; eis que somos escravos de meu senhor, tanto nós como aquele em cuja mão se achou o copo."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Mas ele disse: Longe de mim que eu tal faça; o homem em cuja mão foi achado o copo, esse será meu servo; vós, no entanto, subi em paz para vosso pai."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Então, Judá se aproximou dele e disse: Ah! Senhor meu, rogo-te, permite que teu servo diga uma palavra aos ouvidos do meu senhor, e não se acenda a tua ira contra o teu servo; porque tu és como o próprio Faraó."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Meu senhor perguntou a seus servos: Tendes pai ou irmão?"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"E respondemos a meu senhor: Temos pai já velho e um filho da sua velhice, o mais novo, cujo irmão é morto; e só ele ficou de sua mãe, e seu pai o ama."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Então, disseste a teus servos: Trazei-mo, para que ponha os olhos sobre ele."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Respondemos ao meu senhor: O moço não pode deixar o pai; se deixar o pai, este morrerá."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Então, disseste a teus servos: Se vosso irmão mais novo não descer convosco, nunca mais me vereis o rosto."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Tendo nós subido a teu servo, meu pai, e a ele repetido as palavras de meu senhor,"
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"disse nosso pai: Voltai, comprai-nos um pouco de mantimento."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Nós respondemos: Não podemos descer; mas, se nosso irmão mais moço for conosco, desceremos; pois não podemos ver a face do homem, se este nosso irmão mais moço não estiver conosco."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Então, nos disse o teu servo, nosso pai: Sabeis que minha mulher me deu dois filhos;"
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"um se ausentou de mim, e eu disse: Certamente foi despedaçado, e até agora não mais o vi;"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"se agora também tirardes este da minha presença, e lhe acontecer algum desastre, fareis descer as minhas cãs com pesar à sepultura."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, indo eu a teu servo, meu pai, e não indo o moço conosco, visto a sua alma estar ligada com a alma dele,"
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"vendo ele que o moço não está conosco, morrerá; e teus servos farão descer as cãs de teu servo, nosso pai, com tristeza à sepultura."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Porque teu servo se deu por fiador por este moço para com o meu pai, dizendo: Se eu o não tornar a trazer-te, serei culpado para com o meu pai todos os dias."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Agora, pois, fique teu servo em lugar do moço por servo de meu senhor, e o moço que suba com seus irmãos."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Porque como subirei eu a meu pai, se o moço não for comigo? Para que não veja eu o mal que a meu pai sobrevirá."
                   }
                ]
             },
