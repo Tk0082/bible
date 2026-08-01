@@ -9,13 +9,773 @@
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Prefácio e saudação",
+                     "versiculo":"Paulo, apóstolo, não da parte de homens, nem por intermédio de homem algum, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dentre os mortos,"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"e todos os irmãos meus companheiros, às igrejas da Galácia,"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"graça a vós outros e paz, da parte de Deus, nosso Pai, e do [nosso] Senhor Jesus Cristo,"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"o qual se entregou a si mesmo pelos nossos pecados, para nos desarraigar deste mundo perverso, segundo a vontade de nosso Deus e Pai,"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"a quem seja a glória pelos séculos dos séculos. Amém!"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"A inconstância dos gálatas",
+                     "versiculo":"Admira-me que estejais passando tão depressa daquele que vos chamou na graça de Cristo para outro evangelho,"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"o qual não é outro, senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Mas, ainda que nós ou mesmo um anjo vindo do céu vos pregue evangelho que vá além do que vos temos pregado, seja anátema."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Assim, como já dissemos, e agora repito, se alguém vos prega evangelho que vá além daquele que recebestes, seja anátema."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"O evangelho que Paulo recebeu e pregou",
+                     "versiculo":"Porventura, procuro eu, agora, o favor dos homens ou o de Deus? Ou procuro agradar a homens? Se agradasse ainda a homens, não seria servo de Cristo."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Faço-vos, porém, saber, irmãos, que o evangelho por mim anunciado não é segundo o homem,"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"porque eu não o recebi, nem o aprendi de homem algum, mas mediante revelação de Jesus Cristo."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Porque ouvistes qual foi o meu proceder outrora no judaísmo, como sobremaneira perseguia eu a igreja de Deus e a devastava."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"E, na minha nação, quanto ao judaísmo, avantajava-me a muitos da minha idade, sendo extremamente zeloso das tradições de meus pais."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Quando, porém, ao que me separou antes de eu nascer e me chamou pela sua graça, aprouve"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"revelar seu Filho em mim, para que eu o pregasse entre os gentios, sem detença, não consultei carne e sangue,"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"nem subi a Jerusalém para os que já eram apóstolos antes de mim, mas parti para as regiões da Arábia e voltei, outra vez, para Damasco."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"Paulo vai a Jerusalém, Síria e Cilícia",
+                     "versiculo":"Decorridos três anos, então, subi a Jerusalém para avistar-me com Cefas e permaneci com ele quinze dias;"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"e não vi outro dos apóstolos, senão Tiago, o irmão do Senhor."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Ora, acerca do que vos escrevo, eis que diante de Deus testifico que não minto."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Depois, fui para as regiões da Síria e da Cilícia."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"E não era conhecido de vista das igrejas da Judeia, que estavam em Cristo."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Ouviam somente dizer: Aquele que, antes, nos perseguia, agora, prega a fé que, outrora, procurava destruir."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"E glorificavam a Deus a meu respeito."
+                  }
+               ]
+            },
+            {
+               "capitulo":2,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"O apostolado aos judeus e aos gentios",
+                     "versiculo":"Catorze anos depois, subi outra vez a Jerusalém com Barnabé, levando também a Tito."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Subi em obediência a uma revelação; e lhes expus o evangelho que prego entre os gentios, mas em particular aos que pareciam de maior influência, para, de algum modo, não correr ou ter corrido em vão."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Contudo, nem mesmo Tito, que estava comigo, sendo grego, foi constrangido a circuncidar-se."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"E isto por causa dos falsos irmãos que se entremeteram com o fim de espreitar a nossa liberdade que temos em Cristo Jesus e reduzir-nos à escravidão;"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"aos quais nem ainda por uma hora nos submetemos, para que a verdade do evangelho permanecesse entre vós."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"E, quanto àqueles que pareciam ser de maior influência (quais tenham sido, outrora, não me interessa; Deus não aceita a aparência do homem), esses, digo, que me pareciam ser alguma coisa nada me acrescentaram;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"antes, pelo contrário, quando viram que o evangelho da incircuncisão me fora confiado, como a Pedro o da circuncisão"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"(pois aquele que operou eficazmente em Pedro para o apostolado da circuncisão também operou eficazmente em mim para com os gentios)"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"e, quando conheceram a graça que me foi dada, Tiago, Cefas e João, que eram reputados colunas, me estenderam, a mim e a Barnabé, a destra de comunhão, a fim de que nós fôssemos para os gentios, e eles, para a circuncisão;"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"recomendando-nos somente que nos lembrássemos dos pobres, o que também me esforcei por fazer."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"Paulo repreende a Pedro. A justificação pela fé em Cristo Jesus",
+                     "versiculo":"Quando, porém, Cefas veio a Antioquia, resisti-lhe face a face, porque se tornara repreensível."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Com efeito, antes de chegarem alguns da parte de Tiago, comia com os gentios; quando, porém, chegaram, afastou-se e, por fim, veio a apartar-se, temendo os da circuncisão."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"E também os demais judeus dissimularam com ele, a ponto de o próprio Barnabé ter-se deixado levar pela dissimulação deles."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Quando, porém, vi que não procediam corretamente segundo a verdade do evangelho, disse a Cefas, na presença de todos: se, sendo tu judeu, vives como gentio e não como judeu, por que obrigas os gentios a viverem como judeus?"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Nós, judeus por natureza e não pecadores dentre os gentios,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"sabendo, contudo, que o homem não é justificado por obras da lei, e sim mediante a fé em Cristo Jesus, também temos crido em Cristo Jesus, para que fôssemos justificados pela fé em Cristo e não por obras da lei, pois, por obras da lei, ninguém será justificado."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Mas se, procurando ser justificados em Cristo, fomos nós mesmos também achados pecadores, dar-se-á o caso de ser Cristo ministro do pecado? Certo que não!"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Porque, se torno a edificar aquilo que destruí, a mim mesmo me constituo transgressor."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Porque eu, mediante a própria lei, morri para a lei, a fim de viver para Deus. Estou crucificado com Cristo;"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"logo, já não sou eu quem vive, mas Cristo vive em mim; e esse viver que, agora, tenho na carne, vivo pela fé no Filho de Deus, que me amou e a si mesmo se entregou por mim."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Não anulo a graça de Deus; pois, se a justiça é mediante a lei, segue-se que morreu Cristo em vão."
+                  }
+               ]
+            },
+            {
+               "capitulo":3,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Paulo apela para a experiência dos gálatas",
+                     "versiculo":"Ó gálatas insensatos! Quem vos fascinou a vós outros, ante cujos olhos foi Jesus Cristo exposto como crucificado?"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Quero apenas saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé?"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Sois assim insensatos que, tendo começado no Espírito, estejais, agora, vos aperfeiçoando na carne?"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Terá sido em vão que tantas coisas sofrestes? Se, na verdade, foram em vão."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Aquele, pois, que vos concede o Espírito e que opera milagres entre vós, porventura, o faz pelas obras da lei ou pela pregação da fé?"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"A experiência de Abraão",
+                     "versiculo":"É o caso de Abraão, que creu em Deus, e isso lhe foi imputado para justiça."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Sabei, pois, que os da fé é que são filhos de Abraão."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Ora, tendo a Escritura previsto que Deus justificaria pela fé os gentios, preanunciou o evangelho a Abraão: Em ti, serão abençoados todos os povos."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"De modo que os da fé são abençoados com o crente Abraão."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Todos quantos, pois, são das obras da lei estão debaixo de maldição; porque está escrito: Maldito todo aquele que não permanece em todas as coisas escritas no Livro da lei, para praticá-las."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"E é evidente que, pela lei, ninguém é justificado diante de Deus, porque o justo viverá pela fé."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Ora, a lei não procede de fé, mas: Aquele que observar os seus preceitos por eles viverá."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Cristo nos resgatou da maldição da lei, fazendo-se ele próprio maldição em nosso lugar (porque está escrito: Maldito todo aquele que for pendurado em madeiro),"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"para que a bênção de Abraão chegasse aos gentios, em Jesus Cristo, a fim de que recebêssemos, pela fé, o Espírito prometido."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"A lei não pode invalidar a promessa",
+                     "versiculo":"Irmãos, falo como homem. Ainda que uma aliança seja meramente humana, uma vez ratificada, ninguém a revoga ou lhe acrescenta alguma coisa."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Ora, as promessas foram feitas a Abraão e ao seu descendente. Não diz: E aos descendentes, como se falando de muitos, porém como de um só: E ao teu descendente, que é Cristo."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"E digo isto: uma aliança já anteriormente confirmada por Deus, a lei, que veio quatrocentos e trinta anos depois, não a pode ab-rogar, de forma que venha a desfazer a promessa."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Porque, se a herança provém de lei, já não decorre de promessa; mas foi pela promessa que Deus a concedeu gratuitamente a Abraão."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Qual, pois, a razão de ser da lei? Foi adicionada por causa das transgressões, até que viesse o descendente a quem se fez a promessa, e foi promulgada por meio de anjos, pela mão de um mediador."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Ora, o mediador não é de um, mas Deus é um."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"É, porventura, a lei contrária às promessas de Deus? De modo nenhum! Porque, se fosse promulgada uma lei que pudesse dar vida, a justiça, na verdade, seria procedente de lei."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Mas a Escritura encerrou tudo sob o pecado, para que, mediante a fé em Jesus Cristo, fosse a promessa concedida aos que creem."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"A tutela da lei para nos conduzir a Cristo",
+                     "versiculo":"Mas, antes que viesse a fé, estávamos sob a tutela da lei e nela encerrados, para essa fé que, de futuro, haveria de revelar-se."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"De maneira que a lei nos serviu de aio para nos conduzir a Cristo, a fim de que fôssemos justificados por fé."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Mas, tendo vindo a fé, já não permanecemos subordinados ao aio."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Pois todos vós sois filhos de Deus mediante a fé em Cristo Jesus;"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"porque todos quantos fostes batizados em Cristo de Cristo vos revestistes."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Dessarte, não pode haver judeu nem grego; nem escravo nem liberto; nem homem nem mulher; porque todos vós sois um em Cristo Jesus."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"E, se sois de Cristo, também sois descendentes de Abraão e herdeiros segundo a promessa."
+                  }
+               ]
+            },
+            {
+               "capitulo":4,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"A nossa filiação em Cristo",
+                     "versiculo":"Digo, pois, que, durante o tempo em que o herdeiro é menor, em nada difere de escravo, posto que é ele senhor de tudo."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Mas está sob tutores e curadores até ao tempo predeterminado pelo pai."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Assim, também nós, quando éramos menores, estávamos servilmente sujeitos aos rudimentos do mundo;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"vindo, porém, a plenitude do tempo, Deus enviou seu Filho, nascido de mulher, nascido sob a lei,"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"para resgatar os que estavam sob a lei, a fim de que recebêssemos a adoção de filhos."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"E, porque vós sois filhos, enviou Deus ao nosso coração o Espírito de seu Filho, que clama: Aba, Pai!"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"De sorte que já não és escravo, porém filho; e, sendo filho, também herdeiro por Deus."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"O valor transitório dos ritos judaicos",
+                     "versiculo":"Outrora, porém, não conhecendo a Deus, servíeis a deuses que, por natureza, não o são;"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"mas agora que conheceis a Deus ou, antes, sendo conhecidos por Deus, como estais voltando, outra vez, aos rudimentos fracos e pobres, aos quais, de novo, quereis ainda escravizar-vos?"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Guardais dias, e meses, e tempos, e anos."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Receio de vós tenha eu trabalhado em vão para convosco."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"A perplexidade de Paulo",
+                     "versiculo":"Sede qual eu sou; pois também eu sou como vós. Irmãos, assim vos suplico. Em nada me ofendestes."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"E vós sabeis que vos preguei o evangelho a primeira vez por causa de uma enfermidade física."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"E, posto que a minha enfermidade na carne vos foi uma tentação, contudo, não me revelastes desprezo nem desgosto; antes, me recebestes como anjo de Deus, como o próprio Cristo Jesus."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Que é feito, pois, da vossa exultação? Pois vos dou testemunho de que, se possível fora, teríeis arrancado os próprios olhos para mos dar."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Tornei-me, porventura, vosso inimigo, por vos dizer a verdade?"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Os que vos obsequiam não o fazem sinceramente, mas querem afastar-vos de mim, para que o vosso zelo seja em favor deles."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"É bom ser sempre zeloso pelo bem e não apenas quando estou presente convosco,"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"meus filhos, por quem, de novo, sofro as dores de parto, até ser Cristo formado em vós;"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"pudera eu estar presente, agora, convosco e falar-vos em outro tom de voz; porque me vejo perplexo a vosso respeito."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"Sara e Agar, alegoria das duas alianças",
+                     "versiculo":"Dizei-me vós, os que quereis estar sob a lei: acaso, não ouvis a lei?"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Pois está escrito que Abraão teve dois filhos, um da mulher escrava e outro da livre."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Mas o da escrava nasceu segundo a carne; o da livre, mediante a promessa."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Estas coisas são alegóricas; porque estas mulheres são duas alianças; uma, na verdade, se refere ao monte Sinai, que gera para escravidão; esta é Agar."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Ora, Agar é o monte Sinai, na Arábia, e corresponde à Jerusalém atual, que está em escravidão com seus filhos."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Mas a Jerusalém lá de cima é livre, a qual é nossa mãe;"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"porque está escrito: Alegra-te, ó estéril, que não dás à luz, exulta e clama, tu que não estás de parto; porque são mais numerosos os filhos da abandonada que os da que tem marido."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Vós, porém, irmãos, sois filhos da promessa, como Isaque."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Como, porém, outrora, o que nascera segundo a carne perseguia ao que nasceu segundo o Espírito, assim também agora."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Contudo, que diz a Escritura? Lança fora a escrava e seu filho, porque de modo algum o filho da escrava será herdeiro com o filho da livre."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"E, assim, irmãos, somos filhos não da escrava, e sim da livre."
+                  }
+               ]
+            },
+            {
+               "capitulo":5,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Ou a lei ou Cristo",
+                     "versiculo":"Para a liberdade foi que Cristo nos libertou. Permanecei, pois, firmes e não vos submetais, de novo, a jugo de escravidão."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Eu, Paulo, vos digo que, se vos deixardes circuncidar, Cristo de nada vos aproveitará."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"De novo, testifico a todo homem que se deixa circuncidar que está obrigado a guardar toda a lei."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"De Cristo vos desligastes, vós que procurais justificar-vos na lei; da graça decaístes."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Porque nós, pelo Espírito, aguardamos a esperança da justiça que provém da fé."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Porque, em Cristo Jesus, nem a circuncisão, nem a incircuncisão têm valor algum, mas a fé que atua pelo amor."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Vós corríeis bem; quem vos impediu de continuardes a obedecer à verdade?"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Esta persuasão não vem daquele que vos chama."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Um pouco de fermento leveda toda a massa."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Confio de vós, no Senhor, que não alimentareis nenhum outro sentimento; mas aquele que vos perturba, seja ele quem for, sofrerá a condenação."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Eu, porém, irmãos, se ainda prego a circuncisão, por que continuo sendo perseguido? Logo, está desfeito o escândalo da cruz."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Tomara até se mutilassem os que vos incitam à rebeldia."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"A liberdade é limitada pelo amor",
+                     "versiculo":"Porque vós, irmãos, fostes chamados à liberdade; porém não useis da liberdade para dar ocasião à carne; sede, antes, servos uns dos outros, pelo amor."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Porque toda a lei se cumpre em um só preceito, a saber: Amarás o teu próximo como a ti mesmo."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Se vós, porém, vos mordeis e devorais uns aos outros, vede que não sejais mutuamente destruídos."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"As obras da carne e o fruto do Espírito",
+                     "versiculo":"Digo, porém: andai no Espírito e jamais satisfareis à concupiscência da carne."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Porque a carne milita contra o Espírito, e o Espírito, contra a carne, porque são opostos entre si; para que não façais o que, porventura, seja do vosso querer."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Mas, se sois guiados pelo Espírito, não estais sob a lei."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Ora, as obras da carne são conhecidas e são: prostituição, impureza, lascívia,"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"idolatria, feitiçarias, inimizades, porfias, ciúmes, iras, discórdias, dissensões, facções,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"invejas, bebedices, glutonarias e coisas semelhantes a estas, a respeito das quais eu vos declaro, como já, outrora, vos preveni, que não herdarão o reino de Deus os que tais coisas praticam."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Mas o fruto do Espírito é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"mansidão, domínio próprio. Contra estas coisas não há lei."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"E os que são de Cristo Jesus crucificaram a carne, com as suas paixões e concupiscências."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Se vivemos no Espírito, andemos também no Espírito."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Não nos deixemos possuir de vanglória, provocando uns aos outros, tendo inveja uns dos outros."
+                  }
+               ]
+            },
+            {
+               "capitulo":6,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"O auxílio mútuo e a responsabilidade pessoal",
+                     "versiculo":"Irmãos, se alguém for surpreendido nalguma falta, vós, que sois espirituais, corrigi-o com espírito de brandura; e guarda-te para que não sejas também tentado."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Levai as cargas uns dos outros e, assim, cumprireis a lei de Cristo."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Porque, se alguém julga ser alguma coisa, não sendo nada, a si mesmo se engana."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Mas prove cada um o seu labor e, então, terá motivo de gloriar-se unicamente em si e não em outro."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Porque cada um levará o seu próprio fardo."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"O que o homem semear, isso também ceifará",
+                     "versiculo":"Mas aquele que está sendo instruído na palavra faça participante de todas as coisas boas aquele que o instrui."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Não vos enganeis: de Deus não se zomba; pois aquilo que o homem semear, isso também ceifará."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Porque o que semeia para a sua própria carne da carne colherá corrupção; mas o que semeia para o Espírito do Espírito colherá vida eterna."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não desfalecermos."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Por isso, enquanto tivermos oportunidade, façamos o bem a todos, mas principalmente aos da família da fé."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"Paulo gloria-se na cruz de Cristo",
+                     "versiculo":"Vede com que letras grandes vos escrevi de meu próprio punho."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Todos os que querem ostentar-se na carne, esses vos constrangem a vos circuncidardes, somente para não serem perseguidos por causa da cruz de Cristo."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Pois nem mesmo aqueles que se deixam circuncidar guardam a lei; antes, querem que vos circuncideis, para se gloriarem na vossa carne."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Mas longe esteja de mim gloriar-me, senão na cruz de nosso Senhor Jesus Cristo, pela qual o mundo está crucificado para mim, e eu, para o mundo."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Pois nem a circuncisão é coisa alguma, nem a incircuncisão, mas o ser nova criatura."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"E, a todos quantos andarem de conformidade com esta regra, paz e misericórdia sejam sobre eles e sobre o Israel de Deus."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Quanto ao mais, ninguém me moleste; porque eu trago no corpo as marcas de Jesus."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"A bênção",
+                     "versiculo":"A graça de nosso Senhor Jesus Cristo seja, irmãos, com o vosso espírito. Amém!"
                   }
                ]
             }
