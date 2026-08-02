@@ -9,13 +9,803 @@
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Prefácio e saudação",
+                     "versiculo":"Paulo, apóstolo de Cristo Jesus por vontade de Deus, aos santos que vivem em Éfeso e fiéis em Cristo Jesus,"
                   },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"graça a vós outros e paz, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"As bênçãos de Deus em Cristo, autor da nossa redenção",
+                     "versiculo":"Bendito o Deus e Pai de nosso Senhor Jesus Cristo, que nos tem abençoado com toda sorte de bênção espiritual nas regiões celestiais em Cristo,"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"assim como nos escolheu, nele, antes da fundação do mundo, para sermos santos e irrepreensíveis perante ele; e em amor"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"nos predestinou para ele, para a adoção de filhos, por meio de Jesus Cristo, segundo o beneplácito de sua vontade,"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"para louvor da glória de sua graça, que ele nos concedeu gratuitamente no Amado,"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"no qual temos a redenção, pelo seu sangue, a remissão dos pecados, segundo a riqueza da sua graça,"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"que Deus derramou abundantemente sobre nós em toda a sabedoria e prudência,"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"desvendando-nos o mistério da sua vontade, segundo o seu beneplácito que propusera em Cristo,"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"de fazer convergir nele, na dispensação da plenitude dos tempos, todas as coisas, tanto as do céu como as da terra;"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"nele, digo, no qual fomos também feitos herança, predestinados segundo o propósito daquele que faz todas as coisas conforme o conselho da sua vontade,"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"a fim de sermos para louvor da sua glória, nós, os que de antemão esperamos em Cristo;"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"em quem também vós, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação, tendo nele também crido, fostes selados com o Santo Espírito da promessa;"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"o qual é o penhor da nossa herança, até ao resgate da sua propriedade, em louvor da sua glória."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"Paulo ora pelos crentes",
+                     "versiculo":"Por isso, também eu, tendo ouvido a fé que há entre vós no Senhor Jesus e o amor para com todos os santos,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"não cesso de dar graças por vós, fazendo menção de vós nas minhas orações,"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos conceda espírito de sabedoria e de revelação no pleno conhecimento dele,"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"iluminados os olhos do vosso coração, para saberdes qual é a esperança do seu chamamento, qual a riqueza da glória da sua herança nos santos"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"e qual a suprema grandeza do seu poder para com os que cremos, segundo a eficácia da força do seu poder;"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"o qual exerceu ele em Cristo, ressuscitando-o dentre os mortos e fazendo-o sentar à sua direita nos lugares celestiais,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"acima de todo principado, e potestade, e poder, e domínio, e de todo nome que se possa referir não só no presente século, mas também no vindouro."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"E pôs todas as coisas debaixo dos pés e, para ser o cabeça sobre todas as coisas, o deu à igreja,"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"a qual é o seu corpo, a plenitude daquele que a tudo enche em todas as coisas."
+                  }
+               ]
+            },
+            {
+               "capitulo":2,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Do pecado para a salvação pela graça",
+                     "versiculo":"Ele vos deu vida, estando vós mortos nos vossos delitos e pecados,"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"nos quais andastes outrora, segundo o curso deste mundo, segundo o príncipe da potestade do ar, do espírito que agora atua nos filhos da desobediência;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"entre os quais também todos nós andamos outrora, segundo as inclinações da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos, por natureza, filhos da ira, como também os demais."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Mas Deus, sendo rico em misericórdia, por causa do grande amor com que nos amou,"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"e estando nós mortos em nossos delitos, nos deu vida juntamente com Cristo, — pela graça sois salvos,"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"e, juntamente com ele, nos ressuscitou, e nos fez assentar nos lugares celestiais em Cristo Jesus;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"para mostrar, nos séculos vindouros, a suprema riqueza da sua graça, em bondade para conosco, em Cristo Jesus."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus;"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"não de obras, para que ninguém se glorie."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Pois somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus de antemão preparou para que andássemos nelas."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"Os gentios e os judeus são unidos pela Cruz de Cristo",
+                     "versiculo":"Portanto, lembrai-vos de que, outrora, vós, gentios na carne, chamados incircuncisão por aqueles que se intitulam circuncisos, na carne, por mãos humanas,"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"naquele tempo, estáveis sem Cristo, separados da comunidade de Israel e estranhos às alianças da promessa, não tendo esperança e sem Deus no mundo."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Mas, agora, em Cristo Jesus, vós, que antes estáveis longe, fostes aproximados pelo sangue de Cristo."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Porque ele é a nossa paz, o qual de ambos fez um; e, tendo derribado a parede da separação que estava no meio, a inimizade,"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"aboliu, na sua carne, a lei dos mandamentos na forma de ordenanças, para que dos dois criasse, em si mesmo, um novo homem, fazendo a paz,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"e reconciliasse ambos em um só corpo com Deus, por intermédio da cruz, destruindo por ela a inimizade."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"E, vindo, evangelizou paz a vós outros que estáveis longe e paz também aos que estavam perto;"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"porque, por ele, ambos temos acesso ao Pai em um Espírito."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Assim, já não sois estrangeiros e peregrinos, mas concidadãos dos santos, e sois da família de Deus,"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"edificados sobre o fundamento dos apóstolos e profetas, sendo ele mesmo, Cristo Jesus, a pedra angular;"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"no qual todo o edifício, bem-ajustado, cresce para santuário dedicado ao Senhor,"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"no qual também vós juntamente estais sendo edificados para habitação de Deus no Espírito."
+                  }
+               ]
+            },
+            {
+               "capitulo":3,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"A vocação dos gentios e o apostolado de Paulo",
+                     "versiculo":"Por esta causa eu, Paulo, sou o prisioneiro de Cristo Jesus, por amor de vós, gentios,"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"se é que tendes ouvido a respeito da dispensação da graça de Deus a mim confiada para vós outros;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"pois, segundo uma revelação, me foi dado conhecer o mistério, conforme escrevi há pouco, resumidamente;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"pelo que, quando ledes, podeis compreender o meu discernimento do mistério de Cristo,"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"o qual, em outras gerações, não foi dado a conhecer aos filhos dos homens, como, agora, foi revelado aos seus santos apóstolos e profetas, no Espírito,"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"a saber, que os gentios são coerdeiros, membros do mesmo corpo e coparticipantes da promessa em Cristo Jesus por meio do evangelho;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"do qual fui constituído ministro conforme o dom da graça de Deus a mim concedida segundo a força operante do seu poder."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"A mim, o menor de todos os santos, me foi dada esta graça de pregar aos gentios o evangelho das insondáveis riquezas de Cristo"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"e manifestar qual seja a dispensação do mistério, desde os séculos, oculto em Deus, que criou todas as coisas,"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"para que, pela igreja, a multiforme sabedoria de Deus se torne conhecida, agora, dos principados e potestades nos lugares celestiais,"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"segundo o eterno propósito que estabeleceu em Cristo Jesus, nosso Senhor,"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"pelo qual temos ousadia e acesso com confiança, mediante a fé nele."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Portanto, vos peço que não desfaleçais nas minhas tribulações por vós, pois nisso está a vossa glória."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"Paulo ora novamente",
+                     "versiculo":"Por esta causa, me ponho de joelhos diante do Pai,"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"de quem toma o nome toda família, tanto no céu como sobre a terra,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"para que, segundo a riqueza da sua glória, vos conceda que sejais fortalecidos com poder, mediante o seu Espírito no homem interior;"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"e, assim, habite Cristo no vosso coração, pela fé, estando vós arraigados e alicerçados em amor,"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"a fim de poderdes compreender, com todos os santos, qual é a largura, e o comprimento, e a altura, e a profundidade"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"e conhecer o amor de Cristo, que excede todo entendimento, para que sejais tomados de toda a plenitude de Deus."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Ora, àquele que é poderoso para fazer infinitamente mais do que tudo quanto pedimos ou pensamos, conforme o seu poder que opera em nós,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"a ele seja a glória, na igreja e em Cristo Jesus, por todas as gerações, para todo o sempre. Amém!"
+                  }
+               ]
+            },
+            {
+               "capitulo":4,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"A unidade da fé",
+                     "versiculo":"Rogo-vos, pois, eu, o prisioneiro no Senhor, que andeis de modo digno da vocação a que fostes chamados,"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"com toda a humildade e mansidão, com longanimidade, suportando-vos uns aos outros em amor,"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"esforçando-vos diligentemente por preservar a unidade do Espírito no vínculo da paz;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"há somente um corpo e um Espírito, como também fostes chamados numa só esperança da vossa vocação;"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"há um só Senhor, uma só fé, um só batismo;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"um só Deus e Pai de todos, o qual é sobre todos, age por meio de todos e está em todos."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"O santo ministério e o serviço dos santos",
+                     "versiculo":"E a graça foi concedida a cada um de nós segundo a proporção do dom de Cristo."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Por isso, diz: Quando ele subiu às alturas, levou cativo o cativeiro e concedeu dons aos homens."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Ora, que quer dizer subiu, senão que também havia descido até às regiões inferiores da terra?"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Aquele que desceu é também o mesmo que subiu acima de todos os céus, para encher todas as coisas."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"E ele mesmo concedeu uns para apóstolos, outros para profetas, outros para evangelistas e outros para pastores e mestres,"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"com vistas ao aperfeiçoamento dos santos para o desempenho do seu serviço, para a edificação do corpo de Cristo,"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"até que todos cheguemos à unidade da fé e do pleno conhecimento do Filho de Deus, à perfeita varonilidade, à medida da estatura da plenitude de Cristo,"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"para que não mais sejamos como meninos, agitados de um lado para outro e levados ao redor por todo vento de doutrina, pela artimanha dos homens, pela astúcia com que induzem ao erro."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Mas, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"de quem todo o corpo, bem-ajustado e consolidado pelo auxílio de toda junta, segundo a justa cooperação de cada parte, efetua o seu próprio aumento para a edificação de si mesmo em amor."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"A santidade cristã oposta à dissolução",
+                     "versiculo":"Isto, portanto, digo e no Senhor testifico que não mais andeis como também andam os gentios, na vaidade dos seus próprios pensamentos,"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"obscurecidos de entendimento, alheios à vida de Deus por causa da ignorância em que vivem, pela dureza do seu coração,"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"os quais, tendo-se tornado insensíveis, se entregaram à dissolução para, com avidez, cometerem toda sorte de impureza."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Mas não foi assim que aprendestes a Cristo,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"se é que, de fato, o tendes ouvido e nele fostes instruídos, segundo é a verdade em Jesus,"
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"no sentido de que, quanto ao trato passado, vos despojeis do velho homem, que se corrompe segundo as concupiscências do engano,"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"e vos renoveis no espírito do vosso entendimento,"
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"e vos revistais do novo homem, criado segundo Deus, em justiça e retidão procedentes da verdade."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"Exortações à santidade",
+                     "versiculo":"Por isso, deixando a mentira, fale cada um a verdade com o seu próximo, porque somos membros uns dos outros."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Irai-vos e não pequeis; não se ponha o sol sobre a vossa ira,"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"nem deis lugar ao diabo."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Aquele que furtava não furte mais; antes, trabalhe, fazendo com as próprias mãos o que é bom, para que tenha com que acudir ao necessitado."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Não saia da vossa boca nenhuma palavra torpe, e sim unicamente a que for boa para edificação, conforme a necessidade, e, assim, transmita graça aos que ouvem."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"E não entristeçais o Espírito de Deus, no qual fostes selados para o dia da redenção."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Longe de vós, toda amargura, e cólera, e ira, e gritaria, e blasfêmias, e bem assim toda malícia."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Antes, sede uns para com os outros benignos, compassivos, perdoando-vos uns aos outros, como também Deus, em Cristo, vos perdoou."
+                  }
+               ]
+            },
+            {
+               "capitulo":5,
+               "versiculos":[
                   {
                      "numero":1,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Sede, pois, imitadores de Deus, como filhos amados;"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"e andai em amor, como também Cristo nos amou e se entregou a si mesmo por nós, como oferta e sacrifício a Deus, em aroma suave."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"O fruto da luz e as obras das trevas",
+                     "versiculo":"Mas a impudicícia e toda sorte de impurezas ou cobiça nem sequer se nomeiem entre vós, como convém a santos;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"nem conversação torpe, nem palavras vãs ou chocarrices, coisas essas inconvenientes; antes, pelo contrário, ações de graças."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Sabei, pois, isto: nenhum incontinente, ou impuro, ou avarento, que é idólatra, tem herança no reino de Cristo e de Deus."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Ninguém vos engane com palavras vãs; porque, por essas coisas, vem a ira de Deus sobre os filhos da desobediência."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Portanto, não sejais participantes com eles."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Pois, outrora, éreis trevas, porém, agora, sois luz no Senhor; andai como filhos da luz"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"(porque o fruto da luz consiste em toda bondade, e justiça, e verdade),"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"provando sempre o que é agradável ao Senhor."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"E não sejais cúmplices nas obras infrutíferas das trevas; antes, porém, reprovai-as."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Porque o que eles fazem em oculto, o só referir é vergonha."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Mas todas as coisas, quando reprovadas pela luz, se tornam manifestas; porque tudo que se manifesta é luz."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Pelo que diz: Desperta, ó tu que dormes, levanta-te de entre os mortos, e Cristo te iluminará."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Portanto, vede prudentemente como andais, não como néscios, e sim como sábios,"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"remindo o tempo, porque os dias são maus."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Por esta razão, não vos torneis insensatos, mas procurai compreender qual a vontade do Senhor."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"E não vos embriagueis com vinho, no qual há dissolução, mas enchei-vos do Espírito,"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"falando entre vós com salmos, entoando e louvando de coração ao Senhor com hinos e cânticos espirituais,"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"dando sempre graças por tudo a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"sujeitando-vos uns aos outros no temor de Cristo."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"O lar cristão: marido e mulher",
+                     "versiculo":"As mulheres sejam submissas ao seu próprio marido, como ao Senhor;"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"porque o marido é o cabeça da mulher, como também Cristo é o cabeça da igreja, sendo este mesmo o salvador do corpo."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Como, porém, a igreja está sujeita a Cristo, assim também as mulheres sejam em tudo submissas ao seu marido."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Maridos, amai vossa mulher, como também Cristo amou a igreja e a si mesmo se entregou por ela,"
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"para que a santificasse, tendo-a purificado por meio da lavagem de água pela palavra,"
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"para a apresentar a si mesmo igreja gloriosa, sem mácula, nem ruga, nem coisa semelhante, porém santa e sem defeito."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Assim também os maridos devem amar a sua mulher como ao próprio corpo. Quem ama a esposa a si mesmo se ama."
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"Porque ninguém jamais odiou a própria carne; antes, a alimenta e dela cuida, como também Cristo o faz com a igreja;"
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"porque somos membros do seu corpo."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"Eis por que deixará o homem a seu pai e a sua mãe e se unirá à sua mulher, e se tornarão os dois uma só carne."
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"Grande é este mistério, mas eu me refiro a Cristo e à igreja."
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"Não obstante, vós, cada um de per si também ame a própria esposa como a si mesmo, e a esposa respeite ao marido."
+                  }
+               ]
+            },
+            {
+               "capitulo":6,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"O lar cristão: filhos e pais",
+                     "versiculo":"Filhos, obedecei a vossos pais no Senhor, pois isto é justo."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Honra a teu pai e a tua mãe (que é o primeiro mandamento com promessa),"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"para que te vá bem, e sejas de longa vida sobre a terra."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"E vós, pais, não provoqueis vossos filhos à ira, mas criai-os na disciplina e na admoestação do Senhor."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"O lar cristão: servos e senhores",
+                     "versiculo":"Quanto a vós outros, servos, obedecei a vosso senhor segundo a carne com temor e tremor, na sinceridade do vosso coração, como a Cristo,"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"não servindo à vista, como para agradar a homens, mas como servos de Cristo, fazendo, de coração, a vontade de Deus;"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"servindo de boa vontade, como ao Senhor e não como a homens,"
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"certos de que cada um, se fizer alguma coisa boa, receberá isso outra vez do Senhor, quer seja servo, quer livre."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"E vós, senhores, de igual modo procedei para com eles, deixando as ameaças, sabendo que o Senhor, tanto deles como vosso, está nos céus e que para com ele não há acepção de pessoas."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"A armadura de Deus",
+                     "versiculo":"Quanto ao mais, sede fortalecidos no Senhor e na força do seu poder."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Revesti-vos de toda a armadura de Deus, para poderdes ficar firmes contra as ciladas do diabo;"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"porque a nossa luta não é contra o sangue e a carne, e sim contra os principados e potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal, nas regiões celestes."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, depois de terdes vencido tudo, permanecer inabaláveis."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Estai, pois, firmes, cingindo-vos com a verdade e vestindo-vos da couraça da justiça."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Calçai os pés com a preparação do evangelho da paz;"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"embraçando sempre o escudo da fé, com o qual podereis apagar todos os dardos inflamados do Maligno."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Tomai também o capacete da salvação e a espada do Espírito, que é a palavra de Deus;"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"com toda oração e súplica, orando em todo tempo no Espírito e para isto vigiando com toda perseverança e súplica por todos os santos"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"e também por mim; para que me seja dada, no abrir da minha boca, a palavra, para, com intrepidez, fazer conhecido o mistério do evangelho,"
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"pelo qual sou embaixador em cadeias, para que, em Cristo, eu seja ousado para falar, como me cumpre fazê-lo."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"Tíquico",
+                     "versiculo":"E, para que saibais também a meu respeito e o que faço, de tudo vos informará Tíquico, o irmão amado e fiel ministro do Senhor."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Foi para isso que eu vo-lo enviei, para que saibais a nosso respeito, e ele console o vosso coração."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"A bênção",
+                     "versiculo":"Paz seja com os irmãos e amor com fé, da parte de Deus Pai e do Senhor Jesus Cristo."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"A graça seja com todos os que amam sinceramente a nosso Senhor Jesus Cristo."
                   }
                ]
             }
