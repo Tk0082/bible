@@ -9,13 +9,593 @@
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Prefácio e saudação",
+                     "versiculo":"Paulo, apóstolo de Cristo Jesus, pelo mandato de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança,"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"a Timóteo, verdadeiro filho na fé, graça, misericórdia e paz, da parte de Deus Pai e de Cristo Jesus, nosso Senhor."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"O ministério de Timóteo em Éfeso. Falsas doutrinas e suas características",
+                     "versiculo":"Quando eu estava de viagem, rumo da Macedônia, te roguei permanecesses ainda em Éfeso para admoestares a certas pessoas, a fim de que não ensinem outra doutrina,"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"nem se ocupem com fábulas e genealogias sem fim, que, antes, promovem discussões do que o serviço de Deus, na fé."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Ora, o intuito da presente admoestação visa ao amor que procede de coração puro, e de consciência boa, e de fé sem hipocrisia."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Desviando-se algumas pessoas destas coisas, perderam-se em loquacidade frívola,"
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"pretendendo passar por mestres da lei, não compreendendo, todavia, nem o que dizem, nem os assuntos sobre os quais fazem ousadas asseverações."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"A lei e os seus objetivos",
+                     "versiculo":"Sabemos, porém, que a lei é boa, se alguém dela se utiliza de modo legítimo,"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"tendo em vista que não se promulga lei para quem é justo, mas para transgressores e rebeldes, irreverentes e pecadores, ímpios e profanos, parricidas e matricidas, homicidas,"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"impuros, sodomitas, raptores de homens, mentirosos, perjuros e para tudo quanto se opõe à sã doutrina,"
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"segundo o evangelho da glória do Deus bendito, do qual fui encarregado."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"A graça e a sua eficácia na experiência do apóstolo Paulo",
+                     "versiculo":"Sou grato para com aquele que me fortaleceu, Cristo Jesus, nosso Senhor, que me considerou fiel, designando-me para o ministério,"
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"a mim, que, noutro tempo, era blasfemo, e perseguidor, e insolente. Mas obtive misericórdia, pois o fiz na ignorância, na incredulidade."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Transbordou, porém, a graça de nosso Senhor com a fé e o amor que há em Cristo Jesus."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Fiel é a palavra e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Mas, por esta mesma razão, me foi concedida misericórdia, para que, em mim, o principal, evidenciasse Jesus Cristo a sua completa longanimidade, e servisse eu de modelo a quantos hão de crer nele para a vida eterna."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Assim, ao Rei eterno, imortal, invisível, Deus único, honra e glória pelos séculos dos séculos. Amém!"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"O bom combate",
+                     "versiculo":"Este é o dever de que te encarrego, ó filho Timóteo, segundo as profecias de que antecipadamente foste objeto: combate, firmado nelas, o bom combate,"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"mantendo fé e boa consciência, porquanto alguns, tendo rejeitado a boa consciência, vieram a naufragar na fé."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"E dentre esses se contam Himeneu e Alexandre, os quais entreguei a Satanás, para serem castigados, a fim de não mais blasfemarem."
+                  }
+               ]
+            },
+            {
+               "capitulo":2,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"A prática da oração por todos os homens. Um só Mediador",
+                     "versiculo":"Antes de tudo, pois, exorto que se use a prática de súplicas, orações, intercessões, ações de graças, em favor de todos os homens,"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"em favor dos reis e de todos os que se acham investidos de autoridade, para que vivamos vida tranquila e mansa, com toda piedade e respeito."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Isto é bom e aceitável diante de Deus, nosso Salvador,"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"o qual deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Porquanto há um só Deus e um só Mediador entre Deus e os homens, Cristo Jesus, homem,"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"o qual a si mesmo se deu em resgate por todos: testemunho que se deve prestar em tempos oportunos."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Para isto fui designado pregador e apóstolo (afirmo a verdade, não minto), mestre dos gentios na fé e na verdade."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"Proceder conveniente no culto público",
+                     "versiculo":"Quero, portanto, que os varões orem em todo lugar, levantando mãos santas, sem ira e sem animosidade."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Da mesma sorte, que as mulheres, em traje decente, se ataviem com modéstia e bom senso, não com cabeleira frisada e com ouro, ou pérolas, ou vestuário dispendioso,"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"porém com boas obras (como é próprio às mulheres que professam ser piedosas)."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"A mulher aprenda em silêncio, com toda a submissão."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"E não permito que a mulher ensine, nem exerça autoridade de homem; esteja, porém, em silêncio."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Porque, primeiro, foi formado Adão, depois, Eva."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"E Adão não foi iludido, mas a mulher, sendo enganada, caiu em transgressão."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Todavia, será preservada através de sua missão de mãe, se ela permanecer em fé, e amor, e santificação, com bom senso."
+                  }
+               ]
+            },
+            {
+               "capitulo":3,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"As qualificações dos bispos e dos diáconos",
+                     "versiculo":"Fiel é a palavra: se alguém aspira ao episcopado, excelente obra almeja."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"É necessário, portanto, que o bispo seja irrepreensível, esposo de uma só mulher, temperante, sóbrio, modesto, hospitaleiro, apto para ensinar;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"não dado ao vinho, não violento, porém cordato, inimigo de contendas, não avarento;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"e que governe bem a própria casa, criando os filhos sob disciplina, com todo o respeito"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"(pois, se alguém não sabe governar a própria casa, como cuidará da igreja de Deus?);"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"não seja neófito, para não suceder que se ensoberbeça e incorra na condenação do diabo."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Pelo contrário, é necessário que ele tenha bom testemunho dos de fora, a fim de não cair no opróbrio e no laço do diabo."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Semelhantemente, quanto a diáconos, é necessário que sejam respeitáveis, de uma só palavra, não inclinados a muito vinho, não cobiçosos de sórdida ganância,"
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"conservando o mistério da fé com a consciência limpa."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Também sejam estes primeiramente experimentados; e, se se mostrarem irrepreensíveis, exerçam o diaconato."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Da mesma sorte, quanto a mulheres, é necessário que sejam elas respeitáveis, não maldizentes, temperantes e fiéis em tudo."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"O diácono seja marido de uma só mulher e governe bem seus filhos e a própria casa."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Pois os que desempenharem bem o diaconato alcançam para si mesmos justa preeminência e muita intrepidez na fé em Cristo Jesus."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"A igreja de Deus, coluna e baluarte da verdade. O grande mistério da piedade",
+                     "versiculo":"Escrevo-te estas coisas, esperando ir ver-te em breve;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"para que, se eu tardar, fiques ciente de como se deve proceder na casa de Deus, que é a igreja do Deus vivo, coluna e baluarte da verdade."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Evidentemente, grande é o mistério da piedade: Aquele que foi manifestado na carne foi justificado em espírito, contemplado por anjos, pregado entre os gentios, crido no mundo, recebido na glória."
+                  }
+               ]
+            },
+            {
+               "capitulo":4,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"A apostasia nos últimos tempos",
+                     "versiculo":"Ora, o Espírito afirma expressamente que, nos últimos tempos, alguns apostatarão da fé, por obedecerem a espíritos enganadores e a ensinos de demônios,"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"pela hipocrisia dos que falam mentiras e que têm cauterizada a própria consciência,"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"que proíbem o casamento e exigem abstinência de alimentos que Deus criou para serem recebidos, com ações de graças, pelos fiéis e por quantos conhecem plenamente a verdade;"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"pois tudo que Deus criou é bom, e, recebido com ações de graças, nada é recusável,"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"porque, pela palavra de Deus e pela oração, é santificado."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"Exortação à fidelidade e à diligência no ministério",
+                     "versiculo":"Expondo estas coisas aos irmãos, serás bom ministro de Cristo Jesus, alimentado com as palavras da fé e da boa doutrina que tens seguido."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Mas rejeita as fábulas profanas e de velhas caducas. Exercita-te, pessoalmente, na piedade."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Pois o exercício físico para pouco é proveitoso, mas a piedade para tudo é proveitosa, porque tem a promessa da vida que agora é e da que há de ser."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Fiel é esta palavra e digna de inteira aceitação."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Ora, é para esse fim que labutamos e nos esforçamos sobremodo, porquanto temos posto a nossa esperança no Deus vivo, Salvador de todos os homens, especialmente dos fiéis."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Ordena e ensina estas coisas."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Ninguém despreze a tua mocidade; pelo contrário, torna-te padrão dos fiéis, na palavra, no procedimento, no amor, na fé, na pureza."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Até à minha chegada, aplica-te à leitura, à exortação, ao ensino."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Não te faças negligente para com o dom que há em ti, o qual te foi concedido mediante profecia, com a imposição das mãos do presbitério."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Medita estas coisas e nelas sê diligente, para que o teu progresso a todos seja manifesto."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Tem cuidado de ti mesmo e da doutrina. Continua nestes deveres; porque, fazendo assim, salvarás tanto a ti mesmo como aos teus ouvintes."
+                  }
+               ]
+            },
+            {
+               "capitulo":5,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Os deveres dos pastores para com várias classes de pessoas",
+                     "versiculo":"Não repreendas ao homem idoso; antes, exorta-o como a pai; aos moços, como a irmãos;"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"às mulheres idosas, como a mães; às moças, como a irmãs, com toda a pureza."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"Das viúvas",
+                     "versiculo":"Honra as viúvas verdadeiramente viúvas."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Mas, se alguma viúva tem filhos ou netos, que estes aprendam primeiro a exercer piedade para com a própria casa e a recompensar a seus progenitores; pois isto é aceitável diante de Deus."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Aquela, porém, que é verdadeiramente viúva e não tem amparo espera em Deus e persevera em súplicas e orações, noite e dia;"
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"entretanto, a que se entrega aos prazeres, mesmo viva, está morta."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Prescreve, pois, estas coisas, para que sejam irrepreensíveis."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Ora, se alguém não tem cuidado dos seus e especialmente dos da própria casa, tem negado a fé e é pior do que o descrente."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Não seja inscrita senão viúva que conte ao menos sessenta anos de idade, tenha sido esposa de um só marido,"
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"seja recomendada pelo testemunho de boas obras, tenha criado filhos, exercitado hospitalidade, lavado os pés aos santos, socorrido a atribulados, se viveu na prática zelosa de toda boa obra."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Mas rejeita viúvas mais novas, porque, quando se tornam levianas contra Cristo, querem casar-se,"
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"tornando-se condenáveis por anularem o seu primeiro compromisso."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Além do mais, aprendem também a viver ociosas, andando de casa em casa; e não somente ociosas, mas ainda tagarelas e intrigantes, falando o que não devem."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Quero, portanto, que as viúvas mais novas se casem, criem filhos, sejam boas donas de casa e não deem ao adversário ocasião favorável de maledicência."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Pois, com efeito, já algumas se desviaram, seguindo a Satanás."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Se alguma crente tem viúvas em sua família, socorra-as, e não fique sobrecarregada a igreja, para que esta possa socorrer as que são verdadeiramente viúvas."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"Acerca dos presbíteros. Vários conselhos",
+                     "versiculo":"Devem ser considerados merecedores de dobrados honorários os presbíteros que presidem bem, com especialidade os que se afadigam na palavra e no ensino."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Pois a Escritura declara: Não amordaces o boi, quando pisa o trigo. E ainda: O trabalhador é digno do seu salário."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Não aceites denúncia contra presbítero, senão exclusivamente sob o depoimento de duas ou três testemunhas."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Quanto aos que vivem no pecado, repreende-os na presença de todos, para que também os demais temam."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Conjuro-te, perante Deus, e Cristo Jesus, e os anjos eleitos, que guardes estes conselhos, sem prevenção, nada fazendo com parcialidade."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"A ninguém imponhas precipitadamente as mãos. Não te tornes cúmplice de pecados de outrem. Conserva-te a ti mesmo puro."
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"Não continues a beber somente água; usa um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"Os pecados de alguns homens são notórios e levam a juízo, ao passo que os de outros só mais tarde se manifestam."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Da mesma sorte também as boas obras, antecipadamente, se evidenciam e, quando assim não seja, não podem ocultar-se."
+                  }
+               ]
+            },
+            {
+               "capitulo":6,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Dos senhores e dos servos",
+                     "versiculo":"Todos os servos que estão debaixo de jugo considerem dignos de toda honra o próprio senhor, para que o nome de Deus e a doutrina não sejam blasfemados."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Também os que têm senhor fiel não o tratem com desrespeito, porque é irmão; pelo contrário, trabalhem ainda mais, pois ele, que partilha do seu bom serviço, é crente e amado. Ensina e recomenda estas coisas."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"Os falsos mestres e os perigos da riqueza",
+                     "versiculo":"Se alguém ensina outra doutrina e não concorda com as sãs palavras de nosso Senhor Jesus Cristo e com o ensino segundo a piedade,"
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"é enfatuado, nada entende, mas tem mania por questões e contendas de palavras, de que nascem inveja, provocação, difamações, suspeitas malignas,"
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"altercações sem fim, por homens cuja mente é pervertida e privados da verdade, supondo que a piedade é fonte de lucro."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"De fato, grande fonte de lucro é a piedade com o contentamento."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Porque nada temos trazido para o mundo, nem coisa alguma podemos levar dele."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Tendo sustento e com que nos vestir, estejamos contentes."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Ora, os que querem ficar ricos caem em tentação, e cilada, e em muitas concupiscências insensatas e perniciosas, as quais afogam os homens na ruína e perdição."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Porque o amor do dinheiro é raiz de todos os males; e alguns, nessa cobiça, se desviaram da fé e a si mesmos se atormentaram com muitas dores."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"Apelo para Timóteo",
+                     "versiculo":"Tu, porém, ó homem de Deus, foge destas coisas; antes, segue a justiça, a piedade, a fé, o amor, a constância, a mansidão."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Combate o bom combate da fé. Toma posse da vida eterna, para a qual também foste chamado e de que fizeste a boa confissão perante muitas testemunhas."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Exorto-te, perante Deus, que preserva a vida de todas as coisas, e perante Cristo Jesus, que, diante de Pôncio Pilatos, fez a boa confissão,"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"que guardes o mandato imaculado, irrepreensível, até à manifestação de nosso Senhor Jesus Cristo;"
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"a qual, em suas épocas determinadas, há de ser revelada pelo bendito e único Soberano, o Rei dos reis e Senhor dos senhores;"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"o único que possui imortalidade, que habita em luz inacessível, a quem homem algum jamais viu, nem é capaz de ver. A ele honra e poder eterno. Amém!"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"Acerca dos ricos",
+                     "versiculo":"Exorta aos ricos do presente século que não sejam orgulhosos, nem depositem a sua esperança na instabilidade da riqueza, mas em Deus, que tudo nos proporciona ricamente para nosso aprazimento;"
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"que pratiquem o bem, sejam ricos de boas obras, generosos em dar e prontos a repartir;"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"que acumulem para si mesmos tesouros, sólido fundamento para o futuro, a fim de se apoderarem da verdadeira vida."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"O conselho final e a bêção apostólica",
+                     "versiculo":"E tu, ó Timóteo, guarda o que te foi confiado, evitando os falatórios inúteis e profanos e as contradições do saber, como falsamente lhe chamam,"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"pois alguns, professando-o, se desviaram da fé. A graça seja convosco."
                   }
                ]
             }
