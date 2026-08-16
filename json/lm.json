@@ -9,13 +9,793 @@
                "versiculos":[
                   {
                      "numero":1,
-                     "titulo":"",
-                     "versiculo":""
+                     "titulo":"Jerusalém destruída e desolada",
+                     "versiculo":"Como jaz solitária a cidade outrora populosa! Tornou-se como viúva a que foi grande entre as nações; princesa entre as províncias, ficou sujeita a trabalhos forçados!"
                   },
                   {
-                     "numero":1,
+                     "numero":2,
                      "titulo":"",
-                     "versiculo":""
+                     "versiculo":"Chora e chora de noite, e as suas lágrimas lhe correm pelas faces; não tem quem a console entre todos os que a amavam; todos os seus amigos procederam perfidamente contra ela, tornaram-se seus inimigos."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Judá foi levado ao exílio, afligido e sob grande servidão; habita entre as nações, não acha descanso; todos os seus perseguidores o apanharam nas suas angústias."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Os caminhos de Sião estão de luto, porque não há quem venha à reunião solene; todas as suas portas estão desoladas; os seus sacerdotes gemem; as suas virgens estão tristes, e ela mesma se acha em amargura."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Os seus adversários triunfam, os seus inimigos prosperam; porque o Senhor a afligiu, por causa da multidão das suas prevaricações; os seus filhinhos tiveram de ir para o exílio, na frente do adversário."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Da filha de Sião já se passou todo o esplendor; os seus príncipes ficaram sendo como corços que não acham pasto e caminham exaustos na frente do perseguidor."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Agora, nos dias da sua aflição e do seu desterro, lembra-se Jerusalém de todas as suas mais estimadas coisas, que tivera dos tempos antigos; de como o seu povo caíra nas mãos do adversário, não tendo ela quem a socorresse; e de como os adversários a viram e fizeram escárnio da sua queda."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Jerusalém pecou gravemente; por isso, se tornou repugnante; todos os que a honravam a desprezam, porque lhe viram a nudez; ela também geme e se retira envergonhada."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"A sua imundícia está nas suas saias; ela não pensava no seu fim; por isso, caiu de modo espantoso e não tem quem a console. Vê, Senhor, a minha aflição, porque o inimigo se torna insolente."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Estendeu o adversário a mão a todas as coisas mais estimadas dela; pois ela viu entrar as nações no seu santuário, acerca das quais proibiste que entrassem na tua congregação."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Todo o seu povo anda gemendo e à procura de pão; deram eles as suas coisas mais estimadas a troco de mantimento para restaurar as forças; vê, Senhor, e contempla, pois me tornei desprezível."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Não vos comove isto, a todos vós que passais pelo caminho? Considerai e vede se há dor igual à minha, que veio sobre mim, com que o Senhor me afligiu no dia do furor da sua ira."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Lá do alto enviou fogo a meus ossos, o qual se assenhoreou deles; estendeu uma rede aos meus pés, arrojou-me para trás, fez-me assolada e enferma todo o dia."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"O jugo das minhas transgressões está atado pela sua mão; elas estão entretecidas, subiram sobre o meu pescoço, e ele abateu a minha força; entregou-me o Senhor nas mãos daqueles contra os quais não posso resistir."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"O Senhor dispersou todos os valentes que estavam comigo; apregoou contra mim um ajuntamento, para esmagar os meus jovens; o Senhor pisou, como num lagar, a virgem filha de Judá."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Por estas coisas, choro eu; os meus olhos, os meus olhos se desfazem em águas; porque se afastou de mim o consolador que devia restaurar as minhas forças; os meus filhos estão desolados, porque prevaleceu o inimigo."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Estende Sião as mãos, e não há quem a console; ordenou o Senhor acerca de Jacó que os seus vizinhos se tornem seus inimigos; Jerusalém é para eles como coisa imunda."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Justo é o Senhor, pois me rebelei contra a sua palavra; ouvi todos os povos e vede a minha dor; as minhas virgens e os meus jovens foram levados para o cativeiro."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Chamei os meus amigos, mas eles me enganaram; os meus sacerdotes e os meus anciãos expiraram na cidade, quando estavam à procura de mantimento para restaurarem as suas forças."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Olha, Senhor, porque estou angustiada; turbada está a minha alma, o meu coração, transtornado dentro de mim, porque gravemente me rebelei; fora, a espada mata os filhos; em casa, anda a morte."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Ouvem que eu suspiro, mas não tenho quem me console; todos os meus inimigos que souberam do meu mal folgam, porque tu o fizeste; mas, em trazendo tu o dia que apregoaste, serão semelhantes a mim."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Venha toda a sua iniquidade à tua presença, e faze-lhes como me fizeste a mim por causa de todas as minhas prevaricações; porque os meus gemidos são muitos, e o meu coração está desfalecido."
+                  }
+               ]
+            },
+            {
+               "capitulo":2,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"As tristezas de Sião provém do Senhor",
+                     "versiculo":"Como o Senhor cobriu de nuvens, na sua ira, a filha de Sião! Precipitou do céu à terra a glória de Israel e não se lembrou do estrado de seus pés, no dia da sua ira."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Devorou o Senhor todas as moradas de Jacó e não se apiedou; derribou no seu furor as fortalezas da filha de Judá; lançou por terra e profanou o reino e os seus príncipes."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"No furor da sua ira, cortou toda a força de Israel; retirou a sua destra de diante do inimigo; e ardeu contra Jacó, como labareda de fogo que tudo consome em redor."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Entesou o seu arco, qual inimigo; firmou a sua destra, como adversário, e destruiu tudo o que era formoso à vista; derramou o seu furor, como fogo, na tenda da filha de Sião."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Tornou-se o Senhor como inimigo, devorando Israel; devorou todos os seus palácios, destruiu as suas fortalezas e multiplicou na filha de Judá o pranto e a lamentação."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Demoliu com violência o seu tabernáculo, como se fosse uma horta; destruiu o lugar da sua congregação; o Senhor, em Sião, pôs em esquecimento as festas e o sábado e, na indignação da sua ira, rejeitou com desprezo o rei e o sacerdote."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Rejeitou o Senhor o seu altar e detestou o seu santuário; entregou nas mãos do inimigo os muros dos seus castelos; deram gritos na Casa do Senhor, como em dia de festa."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Intentou o Senhor destruir o muro da filha de Sião; estendeu o cordel e não retirou a sua mão destruidora; fez gemer o antemuro e o muro; eles estão juntamente enfraquecidos."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"As suas portas caíram por terra; ele quebrou e despedaçou os seus ferrolhos; o seu rei e os seus príncipes estão entre as nações onde já não vigora a lei, nem recebem visão alguma do Senhor os seus profetas."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Sentados em terra se acham, silenciosos, os anciãos da filha de Sião; lançam pó sobre a cabeça, cingidos de cilício; as virgens de Jerusalém abaixam a cabeça até ao chão."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Com lágrimas se consumiram os meus olhos, turbada está a minha alma, e o meu coração se derramou de angústia por causa da calamidade da filha do meu povo; pois desfalecem os meninos e as crianças de peito pelas ruas da cidade."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Dizem às mães: Onde há pão e vinho?, quando desfalecem como o ferido pelas ruas da cidade ou quando exalam a alma nos braços de sua mãe."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Que poderei dizer-te? A quem te compararei, ó filha de Jerusalém? A quem te assemelharei, para te consolar a ti, ó virgem filha de Sião? Porque grande como o mar é a tua calamidade; quem te acudirá?"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Os teus profetas te anunciaram visões falsas e absurdas e não manifestaram a tua maldade, para restaurarem a tua sorte; mas te anunciaram visões de sentenças falsas, que te levaram para o cativeiro."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Todos os que passam pelo caminho batem palmas, assobiam e meneiam a cabeça sobre a filha de Jerusalém: É esta a cidade que denominavam a perfeição da formosura, a alegria de toda a terra?"
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Todos os teus inimigos abrem contra ti a boca, assobiam e rangem os dentes; dizem: Devoramo-la; certamente, este é o dia que esperávamos; achamo-lo e vimo-lo."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Fez o Senhor o que intentou; cumpriu a ameaça que pronunciou desde os dias da antiguidade; derrubou e não se apiedou; fez que o inimigo se alegrasse por tua causa e exaltou o poder dos teus adversários."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"O coração de Jerusalém clama ao Senhor. Ó muralha da filha de Sião, corram as tuas lágrimas como um ribeiro, de dia e de noite, não te dês descanso, nem pare de chorar a menina de teus olhos!"
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Levanta-te, clama de noite no princípio das vigílias; derrama, como água, o coração perante o Senhor; levanta a ele as mãos, pela vida de teus filhinhos, que desfalecem de fome à entrada de todas as ruas."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Vê, ó Senhor, e considera a quem fizeste assim! Hão de as mulheres comer o fruto de si mesmas, as crianças do seu carinho? Ou se matará no santuário do Senhor o sacerdote e o profeta?"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Jazem por terra pelas ruas o moço e o velho; as minhas virgens e os meus jovens vieram a cair à espada; tu os mataste no dia da tua ira, fizeste matança e não te apiedaste."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Convocaste de toda parte terrores contra mim, como num dia de solenidade; não houve, no dia da ira do Senhor, quem escapasse ou ficasse; aqueles do meu carinho os quais eu criei, o meu inimigo os consumiu."
+                  }
+               ]
+            },
+            {
+               "capitulo":3,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Convidado o povo a reconhecer o seu pecado",
+                     "versiculo":"Eu sou o homem que viu a aflição pela vara do furor de Deus."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Ele me levou e me fez andar em trevas e não na luz."
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Deveras ele volveu contra mim a mão, de contínuo, todo o dia."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"Fez envelhecer a minha carne e a minha pele, despedaçou os meus ossos."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Edificou contra mim e me cercou de veneno e de dor."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Fez-me habitar em lugares tenebrosos, como os que estão mortos para sempre."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Cercou-me de um muro, e já não posso sair; agravou-me com grilhões de bronze."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Ainda quando clamo e grito, ele não admite a minha oração."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Fechou os meus caminhos com pedras lavradas, fez tortuosas as minhas veredas."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Fez-se-me como urso à espreita, um leão de emboscada."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Desviou os meus caminhos e me fez em pedaços; deixou-me assolado."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Entesou o seu arco e me pôs como alvo à flecha."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Fez que me entrassem no coração as flechas da sua aljava."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Fui feito objeto de escárnio para todo o meu povo e a sua canção, todo o dia."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Fartou-me de amarguras, saciou-me de absinto."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Fez-me quebrar com pedrinhas de areia os meus dentes, cobriu-me de cinza."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Afastou a paz de minha alma; esqueci-me do bem."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Então, disse eu: já pereceu a minha glória, como também a minha esperança no Senhor."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Lembra-te da minha aflição e do meu pranto, do absinto e do veneno."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Minha alma, continuamente, os recorda e se abate dentro de mim."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Quero trazer à memória o que me pode dar esperança."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"Esperança de auxílio pela misericórdia de Deus",
+                     "versiculo":"As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim;"
+                  },
+                  {
+                     "numero":23,
+                     "titulo":"",
+                     "versiculo":"renovam-se cada manhã. Grande é a tua fidelidade."
+                  },
+                  {
+                     "numero":24,
+                     "titulo":"",
+                     "versiculo":"A minha porção é o Senhor, diz a minha alma; portanto, esperarei nele."
+                  },
+                  {
+                     "numero":25,
+                     "titulo":"",
+                     "versiculo":"Bom é o Senhor para os que esperam por ele, para a alma que o busca."
+                  },
+                  {
+                     "numero":26,
+                     "titulo":"",
+                     "versiculo":"Bom é aguardar a salvação do Senhor, e isso, em silêncio."
+                  },
+                  {
+                     "numero":27,
+                     "titulo":"",
+                     "versiculo":"Bom é para o homem suportar o jugo na sua mocidade."
+                  },
+                  {
+                     "numero":28,
+                     "titulo":"",
+                     "versiculo":"Assente-se solitário e fique em silêncio; porquanto esse jugo Deus pôs sobre ele;"
+                  },
+                  {
+                     "numero":29,
+                     "titulo":"",
+                     "versiculo":"ponha a boca no pó; talvez ainda haja esperança."
+                  },
+                  {
+                     "numero":30,
+                     "titulo":"",
+                     "versiculo":"Dê a face ao que o fere; farte-se de afronta."
+                  },
+                  {
+                     "numero":31,
+                     "titulo":"",
+                     "versiculo":"O Senhor não rejeitará para sempre;"
+                  },
+                  {
+                     "numero":32,
+                     "titulo":"",
+                     "versiculo":"pois, ainda que entristeça a alguém, usará de compaixão segundo a grandeza das suas misericórdias;"
+                  },
+                  {
+                     "numero":33,
+                     "titulo":"",
+                     "versiculo":"porque não aflige, nem entristece de bom grado os filhos dos homens."
+                  },
+                  {
+                     "numero":34,
+                     "titulo":"",
+                     "versiculo":"Pisar debaixo dos pés a todos os presos da terra,"
+                  },
+                  {
+                     "numero":35,
+                     "titulo":"",
+                     "versiculo":"perverter o direito do homem perante o Altíssimo,"
+                  },
+                  {
+                     "numero":36,
+                     "titulo":"",
+                     "versiculo":"subverter ao homem no seu pleito, não o veria o Senhor?"
+                  },
+                  {
+                     "numero":37,
+                     "titulo":"",
+                     "versiculo":"Quem é aquele que diz, e assim acontece, quando o Senhor o não mande?"
+                  },
+                  {
+                     "numero":38,
+                     "titulo":"",
+                     "versiculo":"Acaso, não procede do Altíssimo tanto o mal como o bem?"
+                  },
+                  {
+                     "numero":39,
+                     "titulo":"",
+                     "versiculo":"Por que, pois, se queixa o homem vivente? Queixe-se cada um dos seus próprios pecados."
+                  },
+                  {
+                     "numero":40,
+                     "titulo":"",
+                     "versiculo":"Esquadrinhemos os nossos caminhos, provemo-los e voltemos para o Senhor."
+                  },
+                  {
+                     "numero":41,
+                     "titulo":"",
+                     "versiculo":"Levantemos o coração, juntamente com as mãos, para Deus nos céus, dizendo:"
+                  },
+                  {
+                     "numero":42,
+                     "titulo":"",
+                     "versiculo":"Nós prevaricamos e fomos rebeldes, e tu não nos perdoaste."
+                  },
+                  {
+                     "numero":43,
+                     "titulo":"",
+                     "versiculo":"Cobriste-nos de ira e nos perseguiste; e sem piedade nos mataste."
+                  },
+                  {
+                     "numero":44,
+                     "titulo":"",
+                     "versiculo":"De nuvens te encobriste para que não passe a nossa oração."
+                  },
+                  {
+                     "numero":45,
+                     "titulo":"",
+                     "versiculo":"Como cisco e refugo nos puseste no meio dos povos."
+                  },
+                  {
+                     "numero":46,
+                     "titulo":"",
+                     "versiculo":"Todos os nossos inimigos abriram contra nós a boca."
+                  },
+                  {
+                     "numero":47,
+                     "titulo":"",
+                     "versiculo":"Sobre nós vieram o temor e a cova, a assolação e a ruína."
+                  },
+                  {
+                     "numero":48,
+                     "titulo":"",
+                     "versiculo":"Dos meus olhos se derramam torrentes de águas, por causa da destruição da filha do meu povo."
+                  },
+                  {
+                     "numero":49,
+                     "titulo":"",
+                     "versiculo":"Os meus olhos choram, não cessam, e não há descanso,"
+                  },
+                  {
+                     "numero":50,
+                     "titulo":"",
+                     "versiculo":"até que o Senhor atenda e veja lá do céu."
+                  },
+                  {
+                     "numero":51,
+                     "titulo":"",
+                     "versiculo":"Os meus olhos entristecem a minha alma, por causa de todas as filhas da minha cidade."
+                  },
+                  {
+                     "numero":52,
+                     "titulo":"",
+                     "versiculo":"Caçaram-me, como se eu fosse ave, os que sem motivo são meus inimigos."
+                  },
+                  {
+                     "numero":53,
+                     "titulo":"",
+                     "versiculo":"Para me destruírem, lançaram-me na cova e atiraram pedras sobre mim."
+                  },
+                  {
+                     "numero":54,
+                     "titulo":"",
+                     "versiculo":"Águas correram sobre a minha cabeça; então, disse: estou perdido!"
+                  },
+                  {
+                     "numero":55,
+                     "titulo":"",
+                     "versiculo":"Da mais profunda cova, Senhor, invoquei o teu nome."
+                  },
+                  {
+                     "numero":56,
+                     "titulo":"",
+                     "versiculo":"Ouviste a minha voz; não escondas o ouvido aos meus lamentos, ao meu clamor."
+                  },
+                  {
+                     "numero":57,
+                     "titulo":"",
+                     "versiculo":"De mim te aproximaste no dia em que te invoquei; disseste: Não temas."
+                  },
+                  {
+                     "numero":58,
+                     "titulo":"",
+                     "versiculo":"Pleiteaste, Senhor, a causa da minha alma, remiste a minha vida."
+                  },
+                  {
+                     "numero":59,
+                     "titulo":"",
+                     "versiculo":"Viste, Senhor, a injustiça que me fizeram; julga a minha causa."
+                  },
+                  {
+                     "numero":60,
+                     "titulo":"",
+                     "versiculo":"Viste a sua vingança toda, todos os seus pensamentos contra mim."
+                  },
+                  {
+                     "numero":61,
+                     "titulo":"",
+                     "versiculo":"Ouviste as suas afrontas, Senhor, todos os seus pensamentos contra mim;"
+                  },
+                  {
+                     "numero":62,
+                     "titulo":"",
+                     "versiculo":"as acusações dos meus adversários e o seu murmurar contra mim, o dia todo."
+                  },
+                  {
+                     "numero":63,
+                     "titulo":"",
+                     "versiculo":"Observa-os quando se assentam e quando se levantam; eu sou objeto da sua canção."
+                  },
+                  {
+                     "numero":64,
+                     "titulo":"",
+                     "versiculo":"Tu lhes darás a paga, Senhor, segundo a obra das suas mãos."
+                  },
+                  {
+                     "numero":65,
+                     "titulo":"",
+                     "versiculo":"Tu lhes darás cegueira de coração, a tua maldição imporás sobre eles."
+                  },
+                  {
+                     "numero":66,
+                     "titulo":"",
+                     "versiculo":"Na tua ira, os perseguirás, e eles serão eliminados de debaixo dos céus do Senhor."
+                  }
+               ]
+            },
+            {
+               "capitulo":4,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Os sofrimentos do cerco",
+                     "versiculo":"Como se escureceu o ouro! Como se mudou o ouro refinado! Como estão espalhadas as pedras do santuário pelas esquinas de todas as ruas!"
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"Os nobres filhos de Sião, comparáveis a puro ouro, como são agora reputados por objetos de barro, obra das mãos de oleiro!"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"Até os chacais dão o peito, dão de mamar a seus filhos; mas a filha do meu povo tornou-se cruel como os avestruzes no deserto."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"A língua da criança que mama fica pegada, pela sede, ao céu da boca; os meninos pedem pão, e ninguém há que lho dê."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Os que se alimentavam de comidas finas desfalecem nas ruas; os que se criaram entre escarlata se apegam aos monturos."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Porque maior é a maldade da filha do meu povo do que o pecado de Sodoma, que foi subvertida como num momento, sem o emprego de mãos nenhumas."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Os seus príncipes eram mais alvos do que a neve, mais brancos do que o leite; eram mais ruivos de corpo do que os corais e tinham a formosura da safira."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Mas, agora, escureceu-se-lhes o aspecto mais do que a fuligem; não são conhecidos nas ruas; a sua pele se lhes pegou aos ossos, secou-se como uma madeira."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Mais felizes foram as vítimas da espada do que as vítimas da fome; porque estas se definham atingidas mortalmente pela falta do produto dos campos."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"As mãos das mulheres outrora compassivas cozeram seus próprios filhos; estes lhes serviram de alimento na destruição da filha do meu povo."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Deu o Senhor cumprimento à sua indignação, derramou o ardor da sua ira; acendeu fogo em Sião, que consumiu os seus fundamentos."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Não creram os reis da terra, nem todos os moradores do mundo, que entrasse o adversário e o inimigo pelas portas de Jerusalém."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Foi por causa dos pecados dos seus profetas, das maldades dos seus sacerdotes que se derramou no meio dela o sangue dos justos."
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"Erram como cegos nas ruas, andam contaminados de sangue, de tal sorte que ninguém lhes pode tocar nas roupas."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Apartai-vos, imundos! — gritavam-lhes; apartai-vos, apartai-vos, não toqueis! Quando fugiram errantes, dizia-se entre as nações: Jamais habitarão aqui."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"A ira do Senhor os espalhou; ele jamais atentará para eles; o inimigo não honra os sacerdotes, nem se compadece dos anciãos."
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Os nossos olhos ainda desfalecem, esperando vão socorro; temos olhado das vigias para um povo que não pode livrar."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Espreitavam os nossos passos, de maneira que não podíamos andar pelas nossas praças; aproximava-se o nosso fim, os nossos dias se cumpriam, era chegado o nosso fim."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Os nossos perseguidores foram mais ligeiros do que as aves dos céus; sobre os montes nos perseguiram, no deserto nos armaram ciladas."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"O fôlego da nossa vida, o ungido do Senhor, foi preso nos forjes deles; dele dizíamos: debaixo da sua sombra, viveremos entre as nações."
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Regozija-te e alegra-te, ó filha de Edom, que habitas na terra de Uz; o cálice se passará também a ti; embebedar-te-ás e te desnudarás."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"O castigo da tua maldade está consumado, ó filha de Sião; o Senhor nunca mais te levará para o exílio; a tua maldade, ó filha de Edom, descobrirá os teus pecados."
+                  }
+               ]
+            },
+            {
+               "capitulo":5,
+               "versiculos":[
+                  {
+                     "numero":1,
+                     "titulo":"Os fiéis pedem misericórdia",
+                     "versiculo":"Lembra-te, Senhor, do que nos tem sucedido; considera e olha para o nosso opróbrio."
+                  },
+                  {
+                     "numero":2,
+                     "titulo":"",
+                     "versiculo":"A nossa herança passou a estranhos, e as nossas casas, a estrangeiros;"
+                  },
+                  {
+                     "numero":3,
+                     "titulo":"",
+                     "versiculo":"somos órfãos, já não temos pai, nossas mães são como viúvas."
+                  },
+                  {
+                     "numero":4,
+                     "titulo":"",
+                     "versiculo":"A nossa água, por dinheiro a bebemos, por preço vem a nossa lenha."
+                  },
+                  {
+                     "numero":5,
+                     "titulo":"",
+                     "versiculo":"Os nossos perseguidores estão sobre o nosso pescoço; estamos exaustos e não temos descanso."
+                  },
+                  {
+                     "numero":6,
+                     "titulo":"",
+                     "versiculo":"Submetemo-nos aos egípcios e aos assírios, para nos fartarem de pão."
+                  },
+                  {
+                     "numero":7,
+                     "titulo":"",
+                     "versiculo":"Nossos pais pecaram e já não existem; nós é que levamos o castigo das suas iniquidades."
+                  },
+                  {
+                     "numero":8,
+                     "titulo":"",
+                     "versiculo":"Escravos dominam sobre nós; ninguém há que nos livre das suas mãos."
+                  },
+                  {
+                     "numero":9,
+                     "titulo":"",
+                     "versiculo":"Com perigo de nossa vida, providenciamos o nosso pão, por causa da espada do deserto."
+                  },
+                  {
+                     "numero":10,
+                     "titulo":"",
+                     "versiculo":"Nossa pele se esbraseia como um forno, por causa do ardor da fome."
+                  },
+                  {
+                     "numero":11,
+                     "titulo":"",
+                     "versiculo":"Forçaram as mulheres em Sião; as virgens, nas cidades de Judá."
+                  },
+                  {
+                     "numero":12,
+                     "titulo":"",
+                     "versiculo":"Os príncipes foram por eles enforcados, as faces dos velhos não foram reverenciadas."
+                  },
+                  {
+                     "numero":13,
+                     "titulo":"",
+                     "versiculo":"Os jovens levaram a mó, os meninos tropeçaram debaixo das cargas de lenha;"
+                  },
+                  {
+                     "numero":14,
+                     "titulo":"",
+                     "versiculo":"os anciãos já não se assentam na porta, os jovens já não cantam."
+                  },
+                  {
+                     "numero":15,
+                     "titulo":"",
+                     "versiculo":"Cessou o júbilo de nosso coração, converteu-se em lamentações a nossa dança."
+                  },
+                  {
+                     "numero":16,
+                     "titulo":"",
+                     "versiculo":"Caiu a coroa da nossa cabeça; ai de nós, porque pecamos!"
+                  },
+                  {
+                     "numero":17,
+                     "titulo":"",
+                     "versiculo":"Por isso, caiu doente o nosso coração; por isso, se escureceram os nossos olhos."
+                  },
+                  {
+                     "numero":18,
+                     "titulo":"",
+                     "versiculo":"Pelo monte Sião, que está assolado, andam as raposas."
+                  },
+                  {
+                     "numero":19,
+                     "titulo":"",
+                     "versiculo":"Tu, Senhor, reinas eternamente, o teu trono subsiste de geração em geração."
+                  },
+                  {
+                     "numero":20,
+                     "titulo":"",
+                     "versiculo":"Por que te esquecerias de nós para sempre? Por que nos desampararias por tanto tempo?"
+                  },
+                  {
+                     "numero":21,
+                     "titulo":"",
+                     "versiculo":"Converte-nos a ti, Senhor, e seremos convertidos; renova os nossos dias como dantes."
+                  },
+                  {
+                     "numero":22,
+                     "titulo":"",
+                     "versiculo":"Por que nos rejeitarias totalmente? Por que te enfurecerias sobremaneira contra nós outros?"
                   }
                ]
             }
